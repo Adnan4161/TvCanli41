@@ -143,6 +143,8 @@ https://andro.226503.xyz/checklist/androstreamlivess2.m3u8
 https://andro.226503.xyz/checklist/androstreamlivetb.m3u8
 #EXTINF:-1 tvg-id="Sıfır Tv" tvg-name="Sıfır Tv" group-title="SPOR" tvg-logo="https://yt3.googleusercontent.com/uISpOU-Gdf_TWXZCyvQAFn_LeJhILd_84H30Fqpk4-fMTREWU4VsTOLAch4YBzSBxmoFxGPO=s900-c-k-c0x00ffffff-no-rj",Sıfır Tv
 https://dsmartgo-live.ercdn.net/sifirtv/sifirtv.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+#EXTINF:-1 tvg-id="Bi Kanal" tvg-name="Bi Kanal" group-title="SPOR" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2025/09/bi-kanal-tv.webp",Bi Kanal
+https://dsmartgo-live.ercdn.net/cine1/cine1.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
 #EXTINF:-1 tvg-id="Sports Tv" tvg-name="Sports Tv" group-title="SPOR" tvg-logo="https://avatars.mds.yandex.net/i?id=e9132f33cc0ad5136ea85167d8827f3c2915eef4-5349316-images-thumbs&n=13",Sports Tv
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 #EXTINF:-1 tvg-id="Tjk Tv" tvg-name="Tjk Tv" group-title="SPOR" tvg-logo="https://avatars.mds.yandex.net/i?id=865625f6c1250ab1df6b9ae07732f543fe9f56e4-8259514-images-thumbs&n=13",Tjk Tv
