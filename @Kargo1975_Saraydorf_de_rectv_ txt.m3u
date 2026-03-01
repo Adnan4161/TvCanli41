@@ -85,6 +85,10 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="A News" tvg-name="A News" group-title="HABER" tvg-logo="https://play-lh.googleusercontent.com/dCZweDYrw8oop1uxE0AUD4EI0-A1sMzEPHAuz4dS4GMjz3838uzh_i2ggBl9LYgBBQI",A News
 https://trn03.tulix.tv/gt-anews/index.m3u8
+#EXTINF:-1 tvg-id="A Para" tvg-name="A Para" group-title="HABER" tvg-logo="https://play-lh.googleusercontent.com/BCV0M24ufvt6FzjW_eLpETj6LTWGyHrPvcPZhWToH1wJF6dEgYEdshr-xNYbZUGdtA=w240-h480-rw",A Para
+https://goldvod.org/live/hpgdisco/123456/131.m3u8
+
+
 #EXTINF:-1 tvg-id="Cnn Türk" tvg-name="Cnn Türk" group-title="HABER" tvg-logo="https://i.ibb.co/9kQ8XL6r/16.png",Cnn Türk
 https://www.youtube.com/watch?v=6N8_r2uwLEc
 #EXTINF:-1 tvg-id="Sözcütv" tvg-name="Sözcü tv" group-title="HABER" tvg-logo="https://avatars.mds.yandex.net/i?id=1b09cb33783f4692d7ad8894a074d9f739de7763-7570876-images-thumbs&n=13",Sözcü tv
