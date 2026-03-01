@@ -87,6 +87,8 @@ https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 https://trn03.tulix.tv/gt-anews/index.m3u8
 #EXTINF:-1 tvg-id="A Para" tvg-name="A Para" group-title="HABER" tvg-logo="https://play-lh.googleusercontent.com/BCV0M24ufvt6FzjW_eLpETj6LTWGyHrPvcPZhWToH1wJF6dEgYEdshr-xNYbZUGdtA=w240-h480-rw",A Para
 https://goldvod.org/live/hpgdisco/123456/131.m3u8
+#EXTINF:-1 tvg-id="Akit Tv" tvg-name="Akit Tv" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/c/cf/Akit_TV.png?_=20220321200613",Akit Tv
+https://akittv-live.ercdn.net/akittv/akittv.m3u8
 
 
 #EXTINF:-1 tvg-id="Cnn Türk" tvg-name="Cnn Türk" group-title="HABER" tvg-logo="https://i.ibb.co/9kQ8XL6r/16.png",Cnn Türk
