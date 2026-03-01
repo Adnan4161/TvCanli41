@@ -81,6 +81,9 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 https://tatatam.trt1sultanfatihss.workers.dev/http://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3&&app=7c4bb802-0c41-409e-8cd2-799984995694
 #EXTINF:-1 tvg-id="Haberturk" tvg-name="Haberturk" group-title="HABER" tvg-logo="https://avatars.mds.yandex.net/i?id=696ee91f9f0f31252e2df6ef25afa50e6ee20c7b-9148169-images-thumbs&n=13",Haberturk
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
+#EXTINF:-1 tvg-id="Tv 24" tvg-name="Tv 24" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/a/a6/20191109190807%2124_TV_logosu.png",Tv 24
+https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+
 #EXTINF:-1 tvg-id="Cnn Türk" tvg-name="Cnn Türk" group-title="HABER" tvg-logo="https://i.ibb.co/9kQ8XL6r/16.png",Cnn Türk
 https://www.youtube.com/watch?v=6N8_r2uwLEc
 #EXTINF:-1 tvg-id="Sözcütv" tvg-name="Sözcü tv" group-title="HABER" tvg-logo="https://avatars.mds.yandex.net/i?id=1b09cb33783f4692d7ad8894a074d9f739de7763-7570876-images-thumbs&n=13",Sözcü tv
