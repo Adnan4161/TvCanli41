@@ -85,8 +85,8 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="A News" tvg-name="A News" group-title="HABER" tvg-logo="https://play-lh.googleusercontent.com/dCZweDYrw8oop1uxE0AUD4EI0-A1sMzEPHAuz4dS4GMjz3838uzh_i2ggBl9LYgBBQI",A News
 https://trn03.tulix.tv/gt-anews/index.m3u8
-#EXTINF:-1 tvg-id="A Para" tvg-name="A Para" group-title="HABER" tvg-logo="https://play-lh.googleusercontent.com/BCV0M24ufvt6FzjW_eLpETj6LTWGyHrPvcPZhWToH1wJF6dEgYEdshr-xNYbZUGdtA=w240-h480-rw",A Para
-https://goldvod.org/live/hpgdisco/123456/131.m3u8
+#EXTINF:-1 tvg-id="Ekol Tv" tvg-name="Ekol Tv" group-title="HABER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBCVIk6d6XfNWgi9AVsoGZDh6dFoXFvNsXXg&s",Ekol Tv
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 tvg-id="Dha Tv" tvg-name="Dha Tv" group-title="HABER" tvg-logo="https://www.biltes.k12.tr/wp-content/uploads/2018/12/dha-logo.png",Dha Tv
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w630024058.m3u8
 
