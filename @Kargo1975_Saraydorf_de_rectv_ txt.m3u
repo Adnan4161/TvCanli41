@@ -91,8 +91,6 @@ http://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://live01.iha.tv/webabone/live/chunks.m3u8
 #EXTINF:-1 tvg-id="Dha Tv" tvg-name="Dha Tv" group-title="HABER" tvg-logo="https://www.biltes.k12.tr/wp-content/uploads/2018/12/dha-logo.png",Dha Tv
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w630024058.m3u8
-#EXTINF:-1 tvg-id="EkoTurk" tvg-name="EkoTurk" group-title="HABER" tvg-logo="https://yt3.googleusercontent.com/nRcWKlah9W0Sm24UlNIgtmyhyJZZ6LTdfc9J-pUOLH-4F50zzBysb1vPJbIkd_B7PrmTH1K5R88=s900-c-k-c0x00ffffff-no-rj",EkoTurk
-https://trn03.tulix.tv/gt-ekoturk/index.m3u8
 #EXTINF:-1 tvg-id="Cnn Türk" tvg-name="Cnn Türk" group-title="HABER" tvg-logo="https://i.ibb.co/9kQ8XL6r/16.png",Cnn Türk
 https://www.youtube.com/watch?v=6N8_r2uwLEc
 #EXTINF:-1 tvg-id="Sözcütv" tvg-name="Sözcü tv" group-title="HABER" tvg-logo="https://avatars.mds.yandex.net/i?id=1b09cb33783f4692d7ad8894a074d9f739de7763-7570876-images-thumbs&n=13",Sözcü tv
