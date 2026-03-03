@@ -92,7 +92,7 @@ https://live01.iha.tv/webabone/live/chunks.m3u8
 #EXTINF:-1 tvg-id="Dha Tv" tvg-name="Dha Tv" group-title="HABER" tvg-logo="https://www.biltes.k12.tr/wp-content/uploads/2018/12/dha-logo.png",Dha Tv
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/chunklist_w630024058.m3u8
 #EXTINF:-1 tvg-id="Cnn Türk" tvg-name="Cnn Türk" group-title="HABER" tvg-logo="https://i.ibb.co/9kQ8XL6r/16.png",Cnn Türk
-https://www.youtube.com/watch?v=6N8_r2uwLEc
+https://boncuktvv.siringa-yetmedi.workers.dev/cnnt?m3u8
 #EXTINF:-1 tvg-id="Sözcütv" tvg-name="Sözcü tv" group-title="HABER" tvg-logo="https://avatars.mds.yandex.net/i?id=1b09cb33783f4692d7ad8894a074d9f739de7763-7570876-images-thumbs&n=13",Sözcü tv
 https://www.youtube.com/watch?v=ztmY_cCtUl0
 #EXTINF:-1 tvg-id="Halktv" tvg-name="Halktv" group-title="HABER" tvg-logo="https://avatars.mds.yandex.net/i?id=69045f0bfc81662e2d344b883bd7e12d581b3566-11551355-images-thumbs&n=13",Halktv
@@ -216,7 +216,7 @@ https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #EXTINF:-1 tvg-id="Baby Tv" tvg-name="Baby Tv" group-title="ÇOCUK" tvg-logo="https://www.clipartmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png",Baby Tv
 https://saran-live.ercdn.net/babytv/index.m3u8
 #EXTINF:-1 tvg-id="Test Tv" tvg-name="Test Tv" group-title="ÇOCUK" tvg-logo="https://www.clipmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png",Test Tv
-https://boncuktvv.siringa-yetmedi.workers.dev/cnnt?m3u8
+https://boncuktvv.siringa-yetmedi.workers.d
 #EXTINF:-1 tvg-id="Dizi Tv" tvg-name="Dizi Tv" group-title="SİNEMA" tvg-logo="https://assets.uzunmuhalefet.com/logos/99faa850-add3-43c3-9fd1-2a4fc638c49f.png",Dizi Tv
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Mr.Bean" tvg-name="Mr.Bean" group-title="SİNEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhp3DufSRPrRsKSICC514wHpyboJJkV9CgHw&s",Mr.Bean
