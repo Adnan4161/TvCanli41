@@ -209,6 +209,15 @@ https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/chunklist_w8944
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
 #EXTINF:-1 tvg-id="B Series Drama" tvg-name="B Series Drama" group-title="SİNEMA" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-drama-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3",B Series Drama
 https://mss.ayakkabiparti.lol/bsaction1/index.m3u8
+#EXTINF:-1 tvg-id="B Movies Family" tvg-name="B Movies Family" group-title="SİNEMA" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-family-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3",B Movies Family
+https://mss.ayakkabiparti.lol/bsfamily/index.m3u8
+#EXTINF:-1 tvg-id="B Movies Premier" tvg-name="B Movies Premier" group-title="SİNEMA" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-premiere-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3",B Movies Premier
+https://mss.ayakkabiparti.lol/bspremier1/index.m3u8
+#EXTINF:-1 tvg-id="B Movies Türk" tvg-name="B Movies Türk" group-title="SİNEMA" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-turk-logo.jpg",B Movies Türk
+https://mss.ayakkabiparti.lol/bsturk/index.m3u8
+
+
+
 #EXTINF:-1 tvg-id="Deniz Postası" tvg-name="Deniz Postası" group-title="SİNEMA" tvg-logo="https://app.medyaviyana.com/uploadOrjinal/1716115984_denizpostasi-tv-logo.png",Deniz Postası
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 #EXTINF:-1 tvg-id="Trt Diyanet Çocuk" tvg-name="Trt Diyanet Çocuk" group-title="ÇOCUK" tvg-logo="https://app.medyaviyana.com/upload/1694878471_diyanet-cocuk-logo.png",Trt Diyanet Çocuk
