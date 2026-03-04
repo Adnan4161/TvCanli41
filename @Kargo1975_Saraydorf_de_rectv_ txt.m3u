@@ -15,6 +15,8 @@ https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_480p.m3u8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3&ppid=b2beb6d20eb61a441ab94d9a33995258
 #EXTINF:-1 tvg-id="TV85" tvg-name="TV85" group-title="ULUSAL" tvg-logo="https://i.ibb.co/7NtqZLZ8/tv8bucuk.png",TV8.5
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
+#EXTINF:-1 tvg-id="TV 5" tvg-name="TV 5" group-title="ULUSAL" tvg-logo="https://tv5comtr.teimg.com/tv5-com-tr/uploads/2023/02/logo-sabit.png",TV 5
+https://radyotelekomtv.com/player/m3u8/d38a38af9446339ff2540c460955f115/d38a38af9446339ff2540c460955f115.m3u8
 #EXTINF:-1 tvg-id="Trt Genç" tvg-name="Trt Genç" group-title="ULUSAL" tvg-logo="https://i.ibb.co/Qv5vKtxS/trt-gen.png",Trt Genç
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Trt 2" tvg-name="Trt 2" group-title="ULUSAL" tvg-logo="https://trthaberstatic.cdn.wp.trt.com.tr/static/images/kanal-logo/trt-2-logo-fix.jpg",Trt 2
