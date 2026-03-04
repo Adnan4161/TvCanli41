@@ -124,7 +124,7 @@ https://mss.ayakkabiparti.lol/sinemaaile/index.m3u8
 #EXTINF:-1 tvg-id="Sinemaaksiyon" tvg-name="" group-title="SİNEMA" tvg-logo="https://avatars.mds.yandex.net/i?id=6da580312cde189bd5fd321a5e2adbe22337674f-12345400-images-thumbs&n=13",Sinema Aksiyon
 https://mss.ayakkabiparti.lol/sinemaaksiyon/index.m3u8
 #EXTINF:-1 tvg-id="Sinemaaksiyon2" tvg-name="Sinemaaksiyon2" group-title="SİNEMA" tvg-logo="https://avatars.mds.yandex.net/i?id=b4f5c0e93c269ef4eefcb72584fed061fd62ecfd-4821199-images-thumbs&n=13",Sinema Aksiyon2
-https://dsmartgo-live.ercdn.net/sinemaaksiyon2/sinemaaksiyon2.m3u8?token=AIzaSyCSp4D5ibEDELYkskAT4bl2xX2x0Te7RWs
+https://mss.ayakkabiparti.lol/sinemaaksiyon2/index.m3u8
 #EXTINF:-1 tvg-id="Sinemakomedi" tvg-name="Sinemakomedi" group-title="SİNEMA" tvg-logo="https://avatars.mds.yandex.net/i?id=f6f8465fc6197e639fcc40d22ff3946f4b00c516faf7b6d3-10230961-images-thumbs&n=13",Sinema Komedi
 https://mss.ayakkabiparti.lol/sinemakomedi/index.m3u8
 #EXTINF:-1 tvg-id="Sinematv" tvg-name="Sinematv" group-title="SİNEMA" tvg-logo="https://avatars.mds.yandex.net/i?id=3c09e25d1f286819adc4ee1cd03bf7a006cdd007-4011168-images-thumbs&n=13",Sinema Tv
