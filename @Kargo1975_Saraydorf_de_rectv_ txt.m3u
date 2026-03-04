@@ -215,6 +215,8 @@ https://mss.ayakkabiparti.lol/bsfamily/index.m3u8
 https://mss.ayakkabiparti.lol/bspremier1/index.m3u8
 #EXTINF:-1 tvg-id="B Movies Türk" tvg-name="B Movies Türk" group-title="SİNEMA" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-turk-logo.jpg",B Movies Türk
 https://mss.ayakkabiparti.lol/bsturk/index.m3u8
+#EXTINF:-1 tvg-id="Rize Türk" tvg-name="Rize Türk" group-title="SİNEMA" tvg-logo="https://r.resimlink.com/0h87qLgt.png?v=25e38954fbf1329227b6590336e3fa16",Rize Türk
+https://yayin.rizeturk.com:3777/multi_web/play_1080.m3u8
 
 
 
