@@ -160,10 +160,11 @@ https://twilight-butterfly-a365.esraerolseninapam.workers.dev/https://corestream
 https://andro.3749206.xyz/checklist/androstreamlivetb.m3u8
 #EXTINF:-1 tvg-id="Tivibu Spor" tvg-name="Tivibu Spor" group-title="SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/36/Tivibu_spor_logosu.jpg?20221231090446",Tivibu Spor
 https://andro.3749206.xyz/checklist/androstreamlivets.m3u8
-#EXTINF:-1 tvg-id="Sıfır Tv" tvg-name="Sıfır Tv" group-title="SPOR" tvg-logo="https://yt3.googleusercontent.com/uISpOU-Gdf_TWXZCyvQAFn_LeJhILd_84H30Fqpk4-fMTREWU4VsTOLAch4YBzSBxmoFxGPO=s900-c-k-c0x00ffffff-no-rj",Sıfır Tv
-http://87.121.104.29:1855/sifirtvyt/stream.m3u8
-#EXTINF:-1 tvg-id="Bi Kanal" tvg-name="Bi Kanal" group-title="SPOR" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2025/09/bi-kanal-tv.webp",Bi Kanal
-https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/chunks.m3u8
+#EXTINF:-1 tvg-id="Bilardo Tv" tvg-name="Bilardo Tv" group-title="SPOR" tvg-logo="https://www.freelivesports.tv/wp-content/uploads/2021/07/billiard-logo-sml.png",Bilardo Tv
+https://streams2.sofast.tv/umaxx/v1/01971021d4521ea506ec20fcf0501e/01971022375a1eb4611d18040b4f59/billiards_plus_3500k.m3u8
+
+
+
 #EXTINF:-1 tvg-id="Sports Tv" tvg-name="Sports Tv" group-title="SPOR" tvg-logo="https://avatars.mds.yandex.net/i?id=e9132f33cc0ad5136ea85167d8827f3c2915eef4-5349316-images-thumbs&n=13",Sports Tv
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 #EXTINF:-1 tvg-id="Tjk Tv" tvg-name="Tjk Tv" group-title="SPOR" tvg-logo="https://avatars.mds.yandex.net/i?id=865625f6c1250ab1df6b9ae07732f543fe9f56e4-8259514-images-thumbs&n=13",Tjk Tv
