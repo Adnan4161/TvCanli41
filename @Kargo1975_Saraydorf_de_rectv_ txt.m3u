@@ -189,8 +189,6 @@ https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
 #EXTINF:-1 tvg-id="Minikago" tvg-name="Minikago" group-title="ÇOCUK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/MinikaGO.png/330px-MinikaGO.png",Minikago
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
-#EXTINF:-1 tvg-id="Cartoonnetwork" tvg-name="Cartoonnetwork" group-title="ÇOCUK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/330px-Cartoon_Network_2010_logo.svg.png",Cartoonnetwork
-https://ds.ayakkabiparti.lol/cartoonnetwork/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ŞÖMİNE" tvg-name="ŞÖMİNE" group-title="ŞÖMİNE" tvg-logo="https://i.ibb.co/4yk3ccg/mine.png",Şömine (Sesli)
 https://www.youtube.com/watch?v=mKCieTImjvU
 #EXTINF:-1 tvg-id="Tivi6" tvg-name="Tivi6" group-title="SİNEMA" tvg-logo="https://tivi6.com.tr/uploads/settings/2026/02/69861d893e660_1770397065.png",Tivi 6
@@ -217,9 +215,8 @@ https://mss.ayakkabiparti.lol/bspremier1/index.m3u8
 https://mss.ayakkabiparti.lol/bsturk/index.m3u8
 #EXTINF:-1 tvg-id="Rize Türk" tvg-name="Rize Türk" group-title="SİNEMA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFqUAdF7Tg2HfBWFru-Yl2rVntju4lRUSxFIMR4gvaHV7Y1FyGZnFma2QbxHzL0yw-ofOqVt2oQk-BaoW_iYIbEri56Q0ZrW90tPnFNCLTZMd3sSy5JyEbb_p5zhNVyxJQa4U-dd3scI6Z8CBhrnDMF-TGkgZfCdoDqcP5SBWkM18IoCx_ObsNO1AUJw/s434/rizeturktv.png",Rize Türk
 https://yayin.rizeturk.com:3777/multi_web/play_1080.m3u8
-
-
-
+#EXTINF:-1 tvg-id="Film Screen" tvg-name="Film Screen" group-title="SİNEMA" tvg-logo="https://cosmobluemedia.com/wp-content/uploads/elementor/thumbs/film-screen-1-qgrlrm8vb8gjhoo4j5h6ctontf0f0n1yff1uhjsrci.png",Film Screen
+https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/A_audio_1000027345_128_en.m3u8
 #EXTINF:-1 tvg-id="Deniz Postası" tvg-name="Deniz Postası" group-title="SİNEMA" tvg-logo="https://app.medyaviyana.com/uploadOrjinal/1716115984_denizpostasi-tv-logo.png",Deniz Postası
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
 #EXTINF:-1 tvg-id="Trt Diyanet Çocuk" tvg-name="Trt Diyanet Çocuk" group-title="ÇOCUK" tvg-logo="https://app.medyaviyana.com/upload/1694878471_diyanet-cocuk-logo.png",Trt Diyanet Çocuk
