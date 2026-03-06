@@ -91,7 +91,7 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
 #EXTINF:-1 tvg-id="Tv 24" tvg-name="Tv 24" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/a/a6/20191109190807%2124_TV_logosu.png",Tv 24
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="A News" tvg-name="A News" group-title="HABER" tvg-logo="https://play-lh.googleusercontent.com/dCZweDYrw8oop1uxE0AUD4EI0-A1sMzEPHAuz4dS4GMjz3838uzh_i2ggBl9LYgBBQI",A News
-https://trkvz-live.ercdn.net/anewshd/anewshd.m3u8?st=I6ks9Iv-D2JFN1zK3JJOTg&e=1772684904
+https://cdn900.tvkulesi.com/anews.m3u8?tkn=FFjcNpvFxXlWtc7yXPEK1g&tms=1772795990&hst=amp.tvkulesi.com&ip=176.33.70.217&utkn=25e4a3186076eb44495d29c8082441ec&ch=a-news
 #EXTINF:-1 tvg-id="Trt World" tvg-name="Trt World" group-title="HABER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxpH0mXLmGaVaOl_xydkkMUuCfgfpVjnghhQ&s",Trt World
 http://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="İHA" tvg-name="İHA" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/39/%C4%B0HA_Logo.jpg",İHA
