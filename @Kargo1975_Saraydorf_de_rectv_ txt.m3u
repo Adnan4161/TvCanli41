@@ -55,9 +55,6 @@ https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
 https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Vav Tv" tvg-name="Vav Tv" group-title="ULUSAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-p-zqUbNtblOcvWJH9mTQyNTp9QsCkTj_bA&s",Vav Tv
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ilm-tv/playlist/0.m3u8
-
-
-
 #EXTINF:-1 tvg-id="TRTBelgesel" tvg-name="TRT Belgesel" group-title="BELGESEL" tvg-logo="https://avatars.mds.yandex.net/i?id=5f4c3be277e1a2bf0c1cffbec1f14a041f8b63d5-5628812-images-thumbs&n=13",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://files.sikayetvar.com/lg/cmp/20/203096.png?1616338650" group-title="BELGESEL", DMAX
@@ -188,6 +185,8 @@ https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
 https://tatatam.trt1sultanfatihss.workers.dev/https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
 #EXTINF:-1 tvg-id="Nr1 Dance" tvg-name="Nr1 Dance" group-title="MÜZİK" tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2015/12/N1_Dance-1.png",Nr1 Dance
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
+#EXTINF:-1 tvg-id="Nr1 Ask" tvg-name="Nr1 Ask" group-title="MÜZİK" tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2017/10/ask-tv-web.jpg",Nr1 Ask
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTÇocuk" tvg-name="TRT Çocuk" group-title="ÇOCUK" tvg-logo="https://imgrosetta.mynet.com.tr/file/1446206/320x180.jpg",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Minikacocuk" tvg-name="Minikacocuk" group-title="ÇOCUK" tvg-logo="https://files.sikayetvar.com/lg/cmp/16/163611.png?1614959819",Minikacocuk
