@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="Trt1" tvg-name="TRT 1" group-title="ULUSAL" tvg-logo="https://cdn.technettv.com/channel/19958/logo_256_1699961525.png",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Atv" tvg-name="ATV" group-title="ULUSAL" tvg-logo="https://cdn.technettv.com/channel/33825/logo_256.png",ATV
-https://streams.uzunmuhalefet.com/stream/c8758555-8581-4dec-9a46-ebcfaf9ace0a.m3u8
+https://ottcdn.kablowebtv.net/live_turksat_sub3/atv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMDgvMjAyNiAwNjozNTo0MSBQTSZoYXNoX3ZhbHVlPTY1MUIxZzBST0x0QUwxb1JSRVNoNGc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0xNTY0ODUxZC1hY2ViLTQyZWUtYjkwZi04MGFlNTczOGEyM2EsM2RjYjY2YmItNmE2Ny00MjBiLWI3YzItODdkZDYwYWM0M2NkLDAyYWJkMTYzLTVjMGEtNDQ0YS1hMDM1LWNiNmY0NWI0NzAwYSwsMTc2LjMzLjcwLjIxNywxNzczMDA1NzQxJmNsaWVudF9pcD0xNzYuMzMuNzAuMjE3JmNoZWNraXA9dHJ1ZQ==
 #EXTINF:-1 tvg-id="KanalD" tvg-name="Kanal D" group-title="ULUSAL" tvg-logo="https://cdn.technettv.com/channel/20483/logo_256_1707397616.png",Kanal D
 https://ottcdn.kablowebtv.net/live_turksat_sub3/kanald_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMDgvMjAyNiAwNjoyNzoyNSBQTSZoYXNoX3ZhbHVlPW1MZlVPU2VhSW9pODBqVG85ZHlUT3c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0xNTY0ODUxZC1hY2ViLTQyZWUtYjkwZi04MGFlNTczOGEyM2EsM2RjYjY2YmItNmE2Ny00MjBiLWI3YzItODdkZDYwYWM0M2NkLDk0MzNhNmRiLWE2MDEtNDllOC1hMjk4LWNlMTNiNTUzZTQ0YiwsMTc2LjMzLjcwLjIxNywxNzczMDA1MjQ1JmNsaWVudF9pcD0xNzYuMzMuNzAuMjE3JmNoZWNraXA9dHJ1ZQ==
 #EXTINF:-1 tvg-id="StarTV" tvg-name="Star TV" group-title="ULUSAL" tvg-logo="https://i.ibb.co/7xcy7bxL/star.jpg",Star TV
