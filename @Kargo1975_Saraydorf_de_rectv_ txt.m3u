@@ -6,7 +6,7 @@ https://ottcdn.kablowebtv.net/live_turksat_sub3/atv_stream/index.m3u8?wmsAuthSig
 #EXTINF:-1 tvg-id="KanalD" tvg-name="Kanal D" group-title="ULUSAL" tvg-logo="https://cdn.technettv.com/channel/20483/logo_256_1707397616.png",Kanal D
 https://ottcdn.kablowebtv.net/live_turksat_sub3/kanald_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMDgvMjAyNiAwNjoyNzoyNSBQTSZoYXNoX3ZhbHVlPW1MZlVPU2VhSW9pODBqVG85ZHlUT3c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0xNTY0ODUxZC1hY2ViLTQyZWUtYjkwZi04MGFlNTczOGEyM2EsM2RjYjY2YmItNmE2Ny00MjBiLWI3YzItODdkZDYwYWM0M2NkLDk0MzNhNmRiLWE2MDEtNDllOC1hMjk4LWNlMTNiNTUzZTQ0YiwsMTc2LjMzLjcwLjIxNywxNzczMDA1MjQ1JmNsaWVudF9pcD0xNzYuMzMuNzAuMjE3JmNoZWNraXA9dHJ1ZQ==
 #EXTINF:-1 tvg-id="StarTV" tvg-name="Star TV" group-title="ULUSAL" tvg-logo="https://i.ibb.co/7xcy7bxL/star.jpg",Star TV
-https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
+https://ottcdn.kablowebtv.net/live_turksat_sub3/startv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMDkvMjAyNiAwODo1MDoyOSBQTSZoYXNoX3ZhbHVlPUIrancySUozQUcvVWY4NHBrQ0ZqSkE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0xNTY0ODUxZC1hY2ViLTQyZWUtYjkwZi04MGFlNTczOGEyM2EsM2RjYjY2YmItNmE2Ny00MjBiLWI3YzItODdkZDYwYWM0M2NkLDg5Y2ZjMDlkLTkzYzgtNDg4Mi05ZmUzLTM5YWRiY2NiZTY3ZiwsMTc2LjMzLjcwLjIxNywxNzczMTAwMjI5JmNsaWVudF9pcD0xNzYuMzMuNzAuMjE3JmNoZWNraXA9dHJ1ZQ==
 #EXTINF:-1 tvg-id="ShowTV" tvg-name="Show TV" group-title="ULUSAL" tvg-logo="https://i.ibb.co/21j5jLmG/show.jpg",Show TV
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_720p.m3u8
 #EXTINF:-1 tvg-id="Now" tvg-name="Now" group-title="ULUSAL" tvg-logo="https://i.ibb.co/GfrLFzWT/now.png",Now
