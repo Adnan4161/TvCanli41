@@ -61,6 +61,8 @@ https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7&token=dEovSlBqVzRrNmRiWnVQMFhiT2VCWkdabkhJdjEwaDBlZm52ZHlWZXhjZz0=
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" group-title="BELGESEL" tvg-logo="https://img-tlctv.mncdn.com/logo.png",TLC
 https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&token=eTY2cUFUaGZxVnhzSy9ZUThxVjNET05uK0tMZFExNXBldkJQK1F2TGFIWT0=
+#EXTINF:-1 tvg-id="Bbc Earth" tvg-name="Bbc Earth" group-title="BELGESEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/BBC_Earth.svg/960px-BBC_Earth.svg.png?_=20250602153631",Bbc Earth
+https://mss.ayakkabiparti.lol/bbc/index.m3u8
 #EXTINF:-1 tvg-id="Yaban Tv" tvg-name="Yaban Tv" group-title="BELGESEL" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Yabantv_logo.png",Yaban Tv
 https://mss.ayakkabiparti.lol/yaban/index.m3u8
 #EXTINF:-1 tvg-id="Tarım Tv" tvg-name="Tarım Tv" group-title="BELGESEL" tvg-logo="https://haberhd.com/upload/tv/k_tarim-tv-logo_20240813141133.jpeg",Tarım Tv
