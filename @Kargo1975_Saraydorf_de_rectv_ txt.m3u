@@ -12,7 +12,7 @@ https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_720p.m3u8
 #EXTINF:-1 tvg-id="Now" tvg-name="Now" group-title="ULUSAL" tvg-logo="https://i.ibb.co/GfrLFzWT/now.png",Now
 https://ottcdn.kablowebtv.net/live_turksat_sub3/now_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMDgvMjAyNiAwNjozNzo1OSBQTSZoYXNoX3ZhbHVlPTV0YU5INGpiMHhRSzY0STV3TW8zZVE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0xNTY0ODUxZC1hY2ViLTQyZWUtYjkwZi04MGFlNTczOGEyM2EsM2RjYjY2YmItNmE2Ny00MjBiLWI3YzItODdkZDYwYWM0M2NkLDM2MzljOThmLWY3OTUtNDBjYi1hNGIzLThmZWI0ZGUwNWQzMywsMTc2LjMzLjcwLjIxNywxNzczMDA1ODc5JmNsaWVudF9pcD0xNzYuMzMuNzAuMjE3JmNoZWNraXA9dHJ1ZQ==
 #EXTINF:-1 tvg-id="TV8" tvg-name="TV8" group-title="ULUSAL" tvg-logo="https://i.ibb.co/hFZ4Bnj4/tv8.png",TV8
-https://ottcdn.kablowebtv.net/live_turksat_sub3/tv8_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMDgvMjAyNiAwNjo0Mjo0OSBQTSZoYXNoX3ZhbHVlPVZpdzdMenI4clMxVVZYMjl4UE5LaWc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0xNTY0ODUxZC1hY2ViLTQyZWUtYjkwZi04MGFlNTczOGEyM2EsM2RjYjY2YmItNmE2Ny00MjBiLWI3YzItODdkZDYwYWM0M2NkLDU4MWFjY2RhLTRkNWYtNGMzZC1iNWYxLTE1NzliODVhMWU0YiwsMTc2LjMzLjcwLjIxNywxNzczMDA2MTY5JmNsaWVudF9pcD0xNzYuMzMuNzAuMjE3JmNoZWNraXA9dHJ1ZQ==
+https://api.hitnova.net/s/tv8/mono.m3u8
 #EXTINF:-1 tvg-id="TV85" tvg-name="TV85" group-title="ULUSAL" tvg-logo="https://i.ibb.co/7NtqZLZ8/tv8bucuk.png",TV8.5
 https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1 tvg-id="TV 5" tvg-name="TV 5" group-title="ULUSAL" tvg-logo="https://tv5comtr.teimg.com/tv5-com-tr/uploads/2023/02/logo-sabit.png",TV 5
