@@ -4,7 +4,7 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Atv" tvg-name="ATV" group-title="ULUSAL" tvg-logo="https://cdn.technettv.com/channel/33825/logo_256.png",ATV
 https://api.hitnova.net/s/atv/mono.m3u8
 #EXTINF:-1 tvg-id="KanalD" tvg-name="Kanal D" group-title="ULUSAL" tvg-logo="https://cdn.technettv.com/channel/20483/logo_256_1707397616.png",Kanal D
-https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8
+https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=88jc8oq3boxa&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 #EXTINF:-1 tvg-id="StarTV" tvg-name="Star TV" group-title="ULUSAL" tvg-logo="https://i.ibb.co/7xcy7bxL/star.jpg",Star TV
 https://ottcdn.kablowebtv.net/live_turksat_sub3/startv_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDMvMDkvMjAyNiAwODo1MDoyOSBQTSZoYXNoX3ZhbHVlPUIrancySUozQUcvVWY4NHBrQ0ZqSkE9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0xNTY0ODUxZC1hY2ViLTQyZWUtYjkwZi04MGFlNTczOGEyM2EsM2RjYjY2YmItNmE2Ny00MjBiLWI3YzItODdkZDYwYWM0M2NkLDg5Y2ZjMDlkLTkzYzgtNDg4Mi05ZmUzLTM5YWRiY2NiZTY3ZiwsMTc2LjMzLjcwLjIxNywxNzczMTAwMjI5JmNsaWVudF9pcD0xNzYuMzMuNzAuMjE3JmNoZWNraXA9dHJ1ZQ==
 #EXTINF:-1 tvg-id="ShowTV" tvg-name="Show TV" group-title="ULUSAL" tvg-logo="https://i.ibb.co/21j5jLmG/show.jpg",Show TV
