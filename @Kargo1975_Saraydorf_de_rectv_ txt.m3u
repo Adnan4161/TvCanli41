@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="Trt1" tvg-name="TRT 1" group-title="ULUSAL" tvg-logo="https://cdn.technettv.com/channel/19958/logo_256_1699961525.png",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="Atv" tvg-name="ATV" group-title="ULUSAL" tvg-logo="https://cdn.technettv.com/channel/33825/logo_256.png",ATV
-https://api.hitnova.net/s/atv/mono.m3u8
+https://cdn04.kablowebtv.net/live_turksat_sub3/atv_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=670733511&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMTIvMjAyNiAxMDozODo0NyBQTSZoYXNoX3ZhbHVlPWZ0WTBUUmhmZFNhd1lZam5ZbjRHcmc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0xNTY0ODUxZC1hY2ViLTQyZWUtYjkwZi04MGFlNTczOGEyM2EsM2RjYjY2YmItNmE2Ny00MjBiLWI3YzItODdkZDYwYWM0M2NkLDAyYWJkMTYzLTVjMGEtNDQ0YS1hMDM1LWNiNmY0NWI0NzAwYSwsMTc4LjI0Ny4xMzUuODgsMTc3MzM2NTkyNyZjbGllbnRfaXA9MTc4LjI0Ny4xMzUuODgmY2hlY2tpcD10cnVl
 #EXTINF:-1 tvg-id="KanalD" tvg-name="Kanal D" group-title="ULUSAL" tvg-logo="https://cdn.technettv.com/channel/20483/logo_256_1707397616.png",Kanal D
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=88jc8oq3boxa&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 #EXTINF:-1 tvg-id="StarTV" tvg-name="Star TV" group-title="ULUSAL" tvg-logo="https://i.ibb.co/7xcy7bxL/star.jpg",Star TV
