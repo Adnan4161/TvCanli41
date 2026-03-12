@@ -6,7 +6,7 @@ https://api.hitnova.net/s/atv/mono.m3u8
 #EXTINF:-1 tvg-id="KanalD" tvg-name="Kanal D" group-title="ULUSAL" tvg-logo="https://cdn.technettv.com/channel/20483/logo_256_1707397616.png",Kanal D
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=88jc8oq3boxa&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 #EXTINF:-1 tvg-id="StarTV" tvg-name="Star TV" group-title="ULUSAL" tvg-logo="https://i.ibb.co/7xcy7bxL/star.jpg",Star TV
-https://dogus.daioncdn.net/startv/startv.m3u8?app=a20ac41e-bdc3-4aa1-934d-26b484480ac9
+https://mn-nl.mncdn.com/dogusdyg_star/live.m3u8?st=lkpyNypS6x1juqoeJmycvg&e=1773417903
 #EXTINF:-1 tvg-id="ShowTV" tvg-name="Show TV" group-title="ULUSAL" tvg-logo="https://i.ibb.co/21j5jLmG/show.jpg",Show TV
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=88jeaqlbu25u&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
 #EXTINF:-1 tvg-id="Now" tvg-name="Now" group-title="ULUSAL" tvg-logo="https://i.ibb.co/GfrLFzWT/now.png",Now
