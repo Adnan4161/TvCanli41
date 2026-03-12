@@ -6,11 +6,11 @@ https://api.hitnova.net/s/atv/mono.m3u8
 #EXTINF:-1 tvg-id="KanalD" tvg-name="Kanal D" group-title="ULUSAL" tvg-logo="https://cdn.technettv.com/channel/20483/logo_256_1707397616.png",Kanal D
 https://demiroren.daioncdn.net/kanald/kanald_1080p.m3u8?&sid=88jc8oq3boxa&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 #EXTINF:-1 tvg-id="StarTV" tvg-name="Star TV" group-title="ULUSAL" tvg-logo="https://i.ibb.co/7xcy7bxL/star.jpg",Star TV
-https://api.hitnova.net/s/startv/mono.m3u8
+https://www.canlitv.tech/hls/star.m3u8
 #EXTINF:-1 tvg-id="ShowTV" tvg-name="Show TV" group-title="ULUSAL" tvg-logo="https://i.ibb.co/21j5jLmG/show.jpg",Show TV
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=88jeaqlbu25u&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
 #EXTINF:-1 tvg-id="Now" tvg-name="Now" group-title="ULUSAL" tvg-logo="https://i.ibb.co/GfrLFzWT/now.png",Now
-https://streams.uzunmuhalefet.com/stream/f9368c57-16e5-44a2-a559-46377a476b04.m3u8
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 #EXTINF:-1 tvg-id="TV8" tvg-name="TV8" group-title="ULUSAL" tvg-logo="https://i.ibb.co/hFZ4Bnj4/tv8.png",TV8
 https://api.hitnova.net/s/tv8/mono.m3u8
 #EXTINF:-1 tvg-id="TV85" tvg-name="TV85" group-title="ULUSAL" tvg-logo="https://i.ibb.co/7NtqZLZ8/tv8bucuk.png",TV8.5
