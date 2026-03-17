@@ -62,7 +62,7 @@ https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-09093
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" group-title="BELGESEL" tvg-logo="https://img-tlctv.mncdn.com/logo.png",TLC
 https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&token=eTY2cUFUaGZxVnhzSy9ZUThxVjNET05uK0tMZFExNXBldkJQK1F2TGFIWT0=
 #EXTINF:-1 tvg-id="Bbc Earth" tvg-name="Bbc Earth" group-title="BELGESEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/BBC_Earth.svg/960px-BBC_Earth.svg.png?_=20250602153631",Bbc Earth
-https://mss.ayakkabiparti.lol/bbcearth/index.m3u8
+https://mss.ayakkabiparti.lol/bbc/index.m3u8
 #EXTINF:-1 tvg-id="Yaban Tv" tvg-name="Yaban Tv" group-title="BELGESEL" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Yabantv_logo.png",Yaban Tv
 https://yayin1.canlitv.fun/canlitv/yabantv.stream/playlist.m3u8?hash=bda8960e1623f230ead6fa630c2a39b3
 #EXTINF:-1 tvg-id="BBC" tvg-name="BBC" group-title="BELGESEL" tvg-logo="https://yandex-images.clstorage.net/5pbQp6130/9d578cbRd42/FSG66xdnfCWb5IA0JY6aoPBf5JH4LWTQt5azsFUQNmU8pnsq7wUEdXP4uRTio1MFJ4vpwdOnpyq2RwNlnYOLJcMwKfvGIGlwyWFQJyRM26cimLaR6epwUnJQZueFR-CyKGYgcPJYzXutdGfLKCnDBTDe6NGBsWX_pZbTv8dGHveRaPeh3TD75Z0-h3Loi5Fr6divH-9rcBx-yCcuxRLrZH03Jf2zmsN1bj0mziEpDEm_2iMUlLrucTMeXLTMkt67VSQ8pl5_fSeesg72qgrRYO1Wb5llZ7PXs0DmYImcJybwN29xMZsHvi9wbEkpIgkG8pVpXFb3oDa6ldN8TpRXN9ysdC7b8LYtGXEH-KBLGOOo2GNeai16kL5E5OWFUqqvffIlPTxbwP1sfaVD7irPhfkbohSWdeux-hEfuYqcVjlZ6rCr0rH9YNS-Bvzoghuuah7k1yctMBN3QG5vCBtv7Ph77Xvzm8x4JXNsw6NvwUx3XKDSl7DvubUYHvkN11_7Hax369g29SKcsoa6Zo2RrOhRp91n7Pac_gQjIYxcoC86O2X1uRgEMegzZsDup09GM5LrGlJ65f36GFKyQ1zdN9Nqseuf9f_tVnsMsWXLH6coVS1faar_kHMLKiaEUqOt8jKv-rdSB__tuigCa69OD33UKVmT_Wp4vZFf9YWUk3pV5nCpHvJ1Lla-RjHkDJgrpdXmEmIkdpv9QaUmDVymrL74onz5FAd9ZTzuBGjrBE550iMTkT1tcXPZljuBHtq-1GIzJxi49OEcdoI_YsOZ72bZY5nq4_CWvE3loMddaSA2N-u7cVnPPm_y7comLwxB-VWhVt9xLfWwWhKzypuQcxmlOySQtbatm7rP9KaMGiXvES9WJy7yGTMIq-8FEaIgsfNi_D4cy3Vm-aTBbmbNjjIWo98Wcy21PZrasYXYV3oZbDIpGnf1YFb0zTiixNYmoV5uGO6kOZi7yyLhSI",BBC EARTH
@@ -231,8 +231,8 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #EXTINF:-1 tvg-id="Baby Tv" tvg-name="Baby Tv" group-title="ÇOCUK" tvg-logo="https://www.clipartmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png",Baby Tv
 https://saran-live.ercdn.net/babytv/index.m3u8
-#EXTINF:-1 tvg-id="Test Tv" tvg-name="Test Tv" group-title="ÇOCUK" tvg-logo="https://www.clipmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png",Test
-https://cdn900.tvkulesi.com/anews.m3u8?tkn=0nYr9792aHvGHxcnJGX-nA&tms=1773679278&hst=amp.tvkulesi.com&ip=176.33.70.217&utkn=f0d4a507eea32bf735e4e49d6886eaa7&ch=a-news
+#EXTINF:-1 tvg-id="Test Tv" tvg-name="Test Tv" group-title="ÇOCUK" tvg-logo="https://www.clipmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png",Test Tv
+hhttp://65.108.239.207/box1/bbc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="Dizi Tv" tvg-name="Dizi Tv" group-title="SİNEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d5/Dizi_TV_logosu.jpg",Dizi Tv
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF:-1 tvg-id="Mr.Bean" tvg-name="Mr.Bean" group-title="SİNEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhp3DufSRPrRsKSICC514wHpyboJJkV9CgHw&s",Mr.Bean
