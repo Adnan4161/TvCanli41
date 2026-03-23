@@ -97,8 +97,6 @@ https://mss.ayakkabiparti.lol/sozcutv/index.m3u8
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1 tvg-id="Tele1" tvg-name="Tele1" group-title="HABER" tvg-logo="https://avatars.mds.yandex.net/i?id=808e5b37bc1230920891f295e49805ab02be338a-5306229-images-thumbs&n=13",Tele1
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
-#EXTINF:-1 tvg-id="A Haber" tvg-name="A Haber" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png",A Haber
-https://cdn05.kablowebtv.net/live_turksat_sub3/ahaber_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=300614646&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMjMvMjAyNiAwMTowNDo1OCBQTSZoYXNoX3ZhbHVlPWpVSWZzTlU4ODBTdUk1bnlxemxPK3c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0xNTY0ODUxZC1hY2ViLTQyZWUtYjkwZi04MGFlNTczOGEyM2EsM2RjYjY2YmItNmE2Ny00MjBiLWI3YzItODdkZDYwYWM0M2NkLDM0Y2YwMGM1LTZiY2QtNGZhYi04MDdkLWZiMGMzODg2MWRkMSwsMTc2LjMzLjY4LjIwNSwxNzc0MjgxODk4JmNsaWVudF9pcD0xNzYuMzMuNjguMjA1JmNoZWNraXA9dHJ1ZQ==
 #EXTINF:-1 tvg-id="Flashhaber" tvg-name="Flashhaber" group-title="HABER" tvg-logo="https://yandex-images.clstorage.net/5pbQp6130/9d578cbRd42/FSG66xdnfCWb5IA0JY6aoPBf5JH4LWTQt5aw5EBEt6TopK9rr0VT9efsLUKiIoXEJku_w0Yk572jBldlSdbLs8ExKftF4CkwiWIVNiVP2ienDyDW7qxzlicBpeDXkrRxKP0gd3JYCj-qMqRIqeQFBvJer4QS8mVvcxdY_9iWmneZKbThF7B-Zpa2APriBRbs5xau0G-sPZq_QGyggpliJHn4rTawVgT843OhQakrSYn2lWqRGXnr-fuYU_QMVtaz1eKzYlg2vGUaP4S4Y0Ud6GnWKFpjb_ZXN4Ei7AxVIKl5siG0sZLPva45JkmiLgbEud8iU1Q3rHBwF5t2Ct9aOl2qO-fX_bbi2TaKsiKMnq3n2u9VKaaxWjODp-DC2KkkvPhtuXFVjP6j8CyOquiFzzcUapPWfCsw9NtesgLeVL8bbr7ulrb7LxY3jvrrj9NvIV1mGCnsMpM3CS1tix3qoTUwK3axWQm3rTmsw-_mTEFwFqySE3gjf_3aHjVJ15b7Xan-5BG-uWcat8h05AXR7W4ebFjoKr0ac0Rj6czSKWN1uKU8MpFAeu0zr44naEYFvl1kV9lyZzD9llV7wlVaNZtv_qPStHat0z3Dd6KL2i1qlO5WriOxl3xNZOHC0aurfHKqMniSjn9kfW0LL2kPS_ifJ5Ze_eJ3dJsSvQobF7MXrrwi1T61rRZ3Q_ZlDFag6l-jXSCquhk2wmRozNSq57Z_LHw-kgz34rtrCGsjTk_-lW2UnvrruTxS3LmAUtMyk-0yJJ-_eufes01wqg2SY-baKNXnLLdYOoLios0bJm95Nuv0c1pP_Sy4pUavK0HPeRco2tK6b3q_1lTyBRge_1TlMayS_TZgEv6GtOWOWOoulucYKi4413_MrWCB0Cbovb-suzZeBPQn8a4O5uqOBDoVoRPQui_3fx5WvUbfF_-d7DwmUL77rVz8SrCtQlukYdep0aDluV-8RaMtA8",Flash Haber
 https://flashhaber-live.ercdn.net/flashhaber/flashhaber.m3u8
 #EXTINF:-1 tvg-id="Bloomberght" tvg-name="Bloomberght" group-title="HABER" tvg-logo="https://avatars.mds.yandex.net/i?id=971ccc4248003f9258a5ccefaf882cf82fcd76e6-11454708-images-thumbs&n=13",Bloomberght
@@ -207,6 +205,8 @@ https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 https://cdn1-haber61tv.yayin.com.tr/haber61tv/haber61tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Lider Haber" tvg-name="Lider Haber" group-title="HABER" tvg-logo="https://i.ibb.co/bR1k9jhg/Vw9IGIT.png",Lider Haber
 http://nrttn172.kesintisizyayin.com:29010/lidertv/lidertv/sec-f5-v1-a1.m3u8
+#EXTINF:-1 tvg-id="A Haber" tvg-name="A Haber" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png",A Haber
+https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8?st=Y-a7yVw2MjyPC6biy4MEjQ&e=1774340633
 #EXTINF:-1 tvg-id="B Series Drama" tvg-name="B Series Drama" group-title="SİNEMA" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-drama-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3",B Series Drama
 https://mss.ayakkabiparti.lol/bsaction1/index.m3u8
 #EXTINF:-1 tvg-id="B Movies Family" tvg-name="B Movies Family" group-title="SİNEMA" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-family-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3",B Movies Family
