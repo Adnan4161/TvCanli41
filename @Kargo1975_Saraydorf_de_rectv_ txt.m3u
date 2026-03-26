@@ -206,7 +206,7 @@ https://cdn1-haber61tv.yayin.com.tr/haber61tv/haber61tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Lider Haber" tvg-name="Lider Haber" group-title="HABER" tvg-logo="https://i.ibb.co/bR1k9jhg/Vw9IGIT.png",Lider Haber
 https://lidertv.radyotelekom.com.tr/player/m3u8/9217b6e91d17c38f7d171eb2b3670349/9217b6e91d17c38f7d171eb2b3670349.m3u8
 #EXTINF:-1 tvg-id="A Haber" tvg-name="A Haber" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png",A Haber
-a haber https://www.canlitv.tech/hls/ahaber.m3u8
+https://www.canlitv.tech/hls/ahaber.m3u8
 #EXTINF:-1 tvg-id="B Series Drama" tvg-name="B Series Drama" group-title="SİNEMA" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-series-drama-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3",B Series Drama
 https://mss.ayakkabiparti.lol/bsaction1/index.m3u8
 #EXTINF:-1 tvg-id="B Movies Family" tvg-name="B Movies Family" group-title="SİNEMA" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/bein-movies-family-hd-buyuk.png?rkt=DfS6Tgv6Hjr93k3",B Movies Family
