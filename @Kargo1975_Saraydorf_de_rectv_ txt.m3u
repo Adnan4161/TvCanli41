@@ -142,7 +142,7 @@ https://trt.daioncdn.net/trtspor-yildiz/master_1440p.m3u8?&sid=88jerhbfdn20&app=
 #EXTINF:-1 tvg-id="A Spor" tvg-name="A Spor" group-title="SPOR" tvg-logo="https://avatars.mds.yandex.net/i?id=a5b11790b58687fa61784e7373480e10d6a08399-5863201-images-thumbs&n=13",A Spor
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor_1080p.m3u8
 #EXTINF:-1 tvg-id="Ht Spor" tvg-name="Ht Spor" group-title="SPOR" tvg-logo="https://avatars.mds.yandex.net/i?id=ad45b3d76156582aaeafa50a4acda46d86e3ff24-10147999-images-thumbs&n=13",Ht Spor
-https://ciner.daioncdn.net/ht-spor/ht-spor_720p.m3u8?ex=0&sid=79wlt9xsbxuz&app=d5539841-018b-48b4-80fe-8bac2ffc3d5e&ce=2
+https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1 tvg-id="Bi Kanal" tvg-name="Bi Kanal" group-title="SPOR" tvg-logo="https://yt3.googleusercontent.com/4YCt21qCi-6kw6DpxuqhvHYekgnOeaSP01VBQSiINXXTM9x1FtQBkClgatnf0kkYSbk7yWkH=s900-c-k-c0x00ffffff-no-rj",Bi Kanal
 https://bikanal-live.ercdn.net/bikanal/bikanal_1080p.m3u8
 #EXTINF:-1 tvg-id="S Sport 1" tvg-name="S Sport 1" group-title="SPOR" tvg-logo="https://avatars.mds.yandex.net/i?id=4200f22dfa6cc82d9b44dbb8824543111cf1bd23-4032649-images-thumbs&n=13",S Sport 1
