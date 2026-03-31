@@ -77,9 +77,8 @@ https://saran-live.ercdn.net/natgeohd/index.m3u8
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="Tarım Tv" tvg-name="Tarım Tv" group-title="BELGESEL" tvg-logo="https://haberhd.com/upload/tv/k_tarim-tv-logo_20240813141133.jpeg",Tarım Tv
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
-#EXTINF:-1 tvg-id="Agro Tv" tvg-name="Agro Tv" group-title="BELGESEL" tvg-logo="https://agrotvcomtr.teimg.com/agrotv-com-tr/uploads/2024/09/100x400-1.png",Agro Tv
-https://stream.castr.com/6731d96a1f5e55c4190da53f/live_9e594110a26911ef9f033f53e767ab9f/tracks-a1/index.fmp4.m3u8
-
+#EXTINF:-1 tvg-id="Agro Tv" tvg-name="Agro Tv" group-title="BELGESEL" tvg-logo="https://agrotvcomtr.teimg.com/agrotv-com-tr/uploads/2024/09/100x400-1.png",AgroTv
+https://www.canlitv.tech/hls/agrotv.m3u8
 #EXTINF:-1 tvg-id="TRTHaber" tvg-name="TRT Haber" group-title="HABER" tvg-logo="https://avatars.mds.yandex.net/i?id=8086718a2b361699906be423e94868c13676c6b8-12179478-images-thumbs&n=13",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Ntv" tvg-name="Ntv" group-title="HABER" tvg-logo="https://avatars.mds.yandex.net/i?id=dbdba02ce8b22c342c2c4a3d558d4ecf40c6f02c-12731609-images-thumbs&n=13",Ntv
