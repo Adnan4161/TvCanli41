@@ -179,15 +179,15 @@ https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Nr1turk" tvg-name="Nr1turk" group-title="MÜZİK" tvg-logo="https://tvlogolar.xyz/europa/turkey/nr1turk.png",Nr1turk
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
-#EXTINF:-1 tvg-id="Power" tvg-name="Power" group-title="MÜZİK" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/b/b5/Power_TV_logosu.png", Power Tv
+#EXTINF:-1 tvg-id="Power" tvg-name="Power" group-title="MÜZİK" tvg-logo="https://tvlogolar.xyz/europa/turkey/powertv.png", Power Tv
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
-#EXTINF:-1 tvg-id="Powerturk" tvg-name="Powerturk" group-title="MÜZİK" tvg-logo="https://app.medyaviyana.com/upload/1762323620_powerturk-tv-logo.png",Powerturk
+#EXTINF:-1 tvg-id="Powerturk" tvg-name="Powerturk" group-title="MÜZİK" tvg-logo="https://tvlogolar.xyz/europa/turkey/powerturk-tr.png",Powerturk
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Dreamturk" tvg-name="Dreamturk" group-title="MÜZİK" tvg-logo="https://www.nisandaadanada.com/images/user/sponsor/2018/dream-turk.jpg",Dreamturk
+#EXTINF:-1 tvg-id="Dreamturk" tvg-name="Dreamturk" group-title="MÜZİK" tvg-logo="https://tvlogolar.xyz/europa/turkey/dreamturk.png",Dreamturk
 https://tatatam.trt1sultanfatihss.workers.dev/https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:-1 tvg-id="Nr1 Dance" tvg-name="Nr1 Dance" group-title="MÜZİK" tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2015/12/N1_Dance-1.png",Nr1 Dance
+#EXTINF:-1 tvg-id="Nr1 Dance" tvg-name="Nr1 Dance" group-title="MÜZİK" tvg-logo="https://tvlogolar.xyz/europa/turkey/nr1-dance-hd-tr.png  ",Nr1 Dance
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
-#EXTINF:-1 tvg-id="Nr1 Ask" tvg-name="Nr1 Ask" group-title="MÜZİK" tvg-logo="https://www.numberone.com.tr/wp-content/uploads/2017/10/ask-tv-web.jpg",Nr1 Ask
+#EXTINF:-1 tvg-id="Nr1 Ask" tvg-name="Nr1 Ask" group-title="MÜZİK" tvg-logo="https://tvlogolar.xyz/europa/turkey/nr1-ask-hd-tr.png",Nr1 Ask
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTÇocuk" tvg-name="TRT Çocuk" group-title="ÇOCUK" tvg-logo="https://imgrosetta.mynet.com.tr/file/1446206/320x180.jpg",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
