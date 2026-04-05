@@ -55,15 +55,15 @@ https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
 https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Vav Tv" tvg-name="Vav Tv" group-title="ULUSAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-p-zqUbNtblOcvWJH9mTQyNTp9QsCkTj_bA&s",Vav Tv
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ilm-tv/playlist/0.m3u8
-#EXTINF:-1 tvg-id="TRTBelgesel" tvg-name="TRT Belgesel" group-title="BELGESEL" tvg-logo="https://avatars.mds.yandex.net/i?id=5f4c3be277e1a2bf0c1cffbec1f14a041f8b63d5-5628812-images-thumbs&n=13",TRT Belgesel
+#EXTINF:-1 tvg-id="TRTBelgesel" tvg-name="TRT Belgesel" group-title="BELGESEL" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt-belgesel-tr.png",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://files.sikayetvar.com/lg/cmp/20/203096.png?1616338650" group-title="BELGESEL", DMAX
 https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7&token=dEovSlBqVzRrNmRiWnVQMFhiT2VCWkdabkhJdjEwaDBlZm52ZHlWZXhjZz0=
-#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" group-title="BELGESEL" tvg-logo="https://img-tlctv.mncdn.com/logo.png",TLC
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" group-title="BELGESEL" tvg-logo="https://tvlogolar.xyz/europa/turkey/tlc.png",TLC
 https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&token=eTY2cUFUaGZxVnhzSy9ZUThxVjNET05uK0tMZFExNXBldkJQK1F2TGFIWT0=
-#EXTINF:-1 tvg-id="Bbc Earth" tvg-name="Bbc Earth" group-title="BELGESEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/BBC_Earth.svg/960px-BBC_Earth.svg.png?_=20250602153631",Bbc Earth
+#EXTINF:-1 tvg-id="Bbc Earth" tvg-name="Bbc Earth" group-title="BELGESEL" tvg-logo="https://tvlogolar.xyz/europa/turkey/bbcearth.png",Bbc Earth
 https://mss.ayakkabiparti.lol/bbc/index.m3u8
-#EXTINF:-1 tvg-id="Yaban Tv" tvg-name="Yaban Tv" group-title="BELGESEL" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/38/Yabantv_logo.png",Yaban Tv
+#EXTINF:-1 tvg-id="Yaban Tv" tvg-name="Yaban Tv" group-title="BELGESEL" tvg-logo="https://tvlogolar.xyz/europa/turkey/yabantv.png",Yaban Tv
 https://yayin1.canlitv.fun/canlitv/yabantv.stream/chunklist_w1465815837.m3u8?hash=442c15ac5d24cdf063aa63045c688351
 #EXTINF:-1 tvg-id="Viasathistory" tvg-name="Viasathistory" group-title="BELGESEL" tvg-logo="https://avatars.mds.yandex.net/i?id=b4edf6ed0cf240e5ff111efc7bd5e4f94ae97e4a-5243845-images-thumbs&n=13",Viasathistory
 https://mss.ayakkabiparti.lol/viasathistory/index.m3u8
@@ -79,7 +79,7 @@ https://saran-live.ercdn.net/natgeowild/index.m3u8
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
 #EXTINF:-1 tvg-id="Agro Tv" tvg-name="Agro Tv" group-title="BELGESEL" tvg-logo="https://agrotvcomtr.teimg.com/agrotv-com-tr/uploads/2024/09/100x400-1.png",AgroTv
 https://www.canlitv.tech/hls/agrotv.m3u8
-#EXTINF:-1 tvg-id="Çiftçi Tv" tvg-name="Çiftçi Tv" group-title="BELGESEL" tvg-logo="https://asset.artidijitalmedya.com/image/400x400/channels/v1/logo_25.png?v=11",Çiftçi Tv
+#EXTINF:-1 tvg-id="Çiftçi Tv" tvg-name="Çiftçi Tv" group-title="BELGESEL" tvg-logo="https://tvlogolar.xyz/europa/turkey/ciftcitv.png",Çiftçi Tv
 https://www.canlitv.tech/hls/ciftcitv.m3u8
 #EXTINF:-1 tvg-id="TRTHaber" tvg-name="TRT Haber" group-title="HABER" tvg-logo="https://avatars.mds.yandex.net/i?id=8086718a2b361699906be423e94868c13676c6b8-12179478-images-thumbs&n=13",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
