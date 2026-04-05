@@ -189,11 +189,11 @@ https://tatatam.trt1sultanfatihss.workers.dev/https://live.duhnet.tv/S2/HLS_LIVE
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 #EXTINF:-1 tvg-id="Nr1 Ask" tvg-name="Nr1 Ask" group-title="MÜZİK" tvg-logo="https://tvlogolar.xyz/europa/turkey/nr1-ask-hd-tr.png",Nr1 Ask
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
-#EXTINF:-1 tvg-id="TRTÇocuk" tvg-name="TRT Çocuk" group-title="ÇOCUK" tvg-logo="https://imgrosetta.mynet.com.tr/file/1446206/320x180.jpg",TRT Çocuk
+#EXTINF:-1 tvg-id="TRTÇocuk" tvg-name="TRT Çocuk" group-title="ÇOCUK" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt-cocuk-tr.png",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="Minikacocuk" tvg-name="Minikacocuk" group-title="ÇOCUK" tvg-logo="https://files.sikayetvar.com/lg/cmp/16/163611.png?1614959819",Minikacocuk
+#EXTINF:-1 tvg-id="Minikacocuk" tvg-name="Minikacocuk" group-title="ÇOCUK" tvg-logo="https://tvlogolar.xyz/europa/turkey/minikacocuk.png",Minikacocuk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
-#EXTINF:-1 tvg-id="Minikago" tvg-name="Minikago" group-title="ÇOCUK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/MinikaGO.png/330px-MinikaGO.png",Minikago
+#EXTINF:-1 tvg-id="Minikago" tvg-name="Minikago" group-title="ÇOCUK" tvg-logo="https://tvlogolar.xyz/europa/turkey/minika-go-tr.png",Minikago
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1 tvg-id="ŞÖMİNE" tvg-name="ŞÖMİNE" group-title="ŞÖMİNE" tvg-logo="https://i.ibb.co/4yk3ccg/mine.png",Şömine (Sesli)
 https://www.youtube.com/watch?v=mKCieTImjvU
@@ -229,11 +229,11 @@ https://yayin.rizeturk.com:3777/multi_web/play_1080.m3u8
 https://edge-e3.evrideo.tv/f2dcbecf-5af0-47db-a82e-032112050a23_1000027346_HLS/manifest.m3u8
 #EXTINF:-1 tvg-id="Deniz Postası" tvg-name="Deniz Postası" group-title="SİNEMA" tvg-logo="https://app.medyaviyana.com/uploadOrjinal/1716115984_denizpostasi-tv-logo.png",Deniz Postası
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
-#EXTINF:-1 tvg-id="Trt Diyanet Çocuk" tvg-name="Trt Diyanet Çocuk" group-title="ÇOCUK" tvg-logo="https://app.medyaviyana.com/upload/1694878471_diyanet-cocuk-logo.png",Trt Diyanet Çocuk
+#EXTINF:-1 tvg-id="Trt Diyanet Çocuk" tvg-name="Trt Diyanet Çocuk" group-title="ÇOCUK" tvg-logo="https://tvlogolar.xyz/europa/turkey/trtdiyanetcocuk.png",Trt Diyanet Çocuk
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" group-title="ÇOCUK" tvg-logo="https://i.ibb.co/6Rq4dd6t/Um5V5Wk.png",Disney Jr
+#EXTINF:-1 tvg-id="Disney Jr" tvg-name="Disney Jr" group-title="ÇOCUK" tvg-logo="https://tvlogolar.xyz/europa/turkey/disneyjunior.png",Disney Jr
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
-#EXTINF:-1 tvg-id="Baby Tv" tvg-name="Baby Tv" group-title="ÇOCUK" tvg-logo="https://www.clipartmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png",Baby Tv
+#EXTINF:-1 tvg-id="Baby Tv" tvg-name="Baby Tv" group-title="ÇOCUK" tvg-logo="https://tvlogolar.xyz/europa/turkey/babytv.png",Baby Tv
 https://saran-live.ercdn.net/babytv/index.m3u8
 #EXTINF:-1 tvg-id="Test Tv" tvg-name="Test Tv" group-title="ÇOCUK" tvg-logo="https://www.clipmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png",Test Tv
 https://edge.taksimbilisim.com/turkhaber/bant1/playlist.m3u8
