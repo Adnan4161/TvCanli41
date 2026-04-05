@@ -164,7 +164,7 @@ https://www.canlitv.tech/hls/sportstv.m3u8
 #EXTINF:-1 tvg-id="Tjk Tv" tvg-name="Tjk Tv" group-title="SPOR" tvg-logo="https://avatars.mds.yandex.net/i?id=865625f6c1250ab1df6b9ae07732f543fe9f56e4-8259514-images-thumbs&n=13",Tjk Tv
 https://tjktv-live.tjk.org/tjktv/tjktv_480p.m3u8
 #EXTINF:-1 tvg-id="Eurosport1" tvg-name="Eurosport 1" group-title="SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/cd/Logo_Eurosport.svg/250px-Logo_Eurosport.svg.png",Eurosport 1
-https://andro.5172948.xyz/checklist/androstreamlivees1.m3u8
+https://api.hitnova.net/s/eu1/mono.m3u8
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" group-title="SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/cd/Logo_Eurosport.svg/250px-Logo_Eurosport.svg.png",Eurosport 2
 https://api.hitnova.net/s/eu2/mono.m3u8
 #EXTINF:-1 tvg-id="Nba Tv" tvg-name="Nba Tv" group-title="SPOR" tvg-logo="https://cordcutting.com/wp-content/uploads/2018/06/NBA-Tv-Logo.png",Nba Tv
