@@ -89,7 +89,7 @@ https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
 #EXTINF:-1 tvg-id="Tv 24" tvg-name="Tv 24" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/a/a6/20191109190807%2124_TV_logosu.png",Tv 24
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
-#EXTINF:-1 tvg-id="Trt World" tvg-name="Trt World" group-title="HABER" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxpH0mXLmGaVaOl_xydkkMUuCfgfpVjnghhQ&s",Trt World
+#EXTINF:-1 tvg-id="Trt World" tvg-name="Trt World" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt-world-tr.png",Trt World
 http://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="İHA" tvg-name="İHA" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/39/%C4%B0HA_Logo.jpg",İHA
 https://live01.iha.tv/webabone/live/chunks.m3u8
