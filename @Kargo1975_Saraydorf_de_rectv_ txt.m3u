@@ -7,13 +7,13 @@ https://api.hitnova.net/s/atv/mono.m3u8
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8
 #EXTINF:-1 tvg-id="StarTV" tvg-name="Star TV" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/star-tv-tr.png",Star TV
 https://mss.ayakkabiparti.lol/startv/index.m3u8
-#EXTINF:-1 tvg-id="ShowTV" tvg-name="Show TV" group-title="ULUSAL" tvg-logo="https://i.ibb.co/21j5jLmG/show.jpg",Show TV
+#EXTINF:-1 tvg-id="ShowTV" tvg-name="Show TV" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/show-tr.png",Show TV
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv_1080p.m3u8
-#EXTINF:-1 tvg-id="Now" tvg-name="Now" group-title="ULUSAL" tvg-logo="https://i.ibb.co/GfrLFzWT/now.png",Now
+#EXTINF:-1 tvg-id="Now" tvg-name="Now" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/nowtv.png",Now
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" group-title="ULUSAL" tvg-logo="https://i.ibb.co/hFZ4Bnj4/tv8.png",TV8
+#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/tv8-tr.png",TV8
 https://api.hitnova.net/s/tv8/mono.m3u8
-#EXTINF:-1 tvg-id="TV85" tvg-name="TV85" group-title="ULUSAL" tvg-logo="https://i.ibb.co/dgj3MTh/tv85.png",TV8.5
+#EXTINF:-1 tvg-id="TV85" tvg-name="TV85" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/tv85-tr.png",TV8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3&ppid=ee1b3f41775e58db9a2819d5853efc22
 #EXTINF:-1 tvg-id="TV 5" tvg-name="TV 5" group-title="ULUSAL" tvg-logo="https://i.ibb.co/6m9Pb3t/tv5tr1.png",TV 5
 https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
