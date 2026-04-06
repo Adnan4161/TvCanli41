@@ -21,27 +21,27 @@ https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Trt 2" tvg-name="Trt 2" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt-2-tr.png",Trt 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="A2" tvg-name="A2" group-title="ULUSAL" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/f2/c7/72/f2c77251-bce6-9642-6daf-6fe5c0abfca6/AppIcon-1x_U007emarketing-85-220-0-6.png/256x256bb.jpg",A2
+#EXTINF:-1 tvg-id="A2" tvg-name="A2" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/a2-tr.png",A2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
-#EXTINF:-1 tvg-id="Tabiitv" tvg-name="Tabiitv" group-title="ULUSAL" tvg-logo="https://img.piri.net/mnresize/128/-/piri/upload/3/2023/5/5/5261ae99-56o7eehpuu448sjojifr85.jpeg",Tabiitv
+#EXTINF:-1 tvg-id="Tabiitv" tvg-name="Tabiitv" group-title="ULUSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Trt-tabii-logo.png/960px-Trt-tabii-logo.png?_=20230509053721",Tabiitv
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-#EXTINF:-1 tvg-id="Teve2 " tvg-name="Teve2 " group-title="ULUSAL" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4b/1d/8e/4b1d8ead-35d6-725e-142d-802e285d9d32/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/256x256bb.jpg",Teve2
+#EXTINF:-1 tvg-id="Teve2 " tvg-name="Teve2 " group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/teve2-tr.png",Teve2
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8
-#EXTINF:-1 tvg-id="Kanal 7" tvg-name="Kanal 7" group-title="ULUSAL" tvg-logo="https://yandex-images.clstorage.net/5pbQp6130/9d578cbRd42/FSG66xdnfCWb5IA0JY6aoPBf5JH4LWTQt5aw8ZdEN6R85zprO5EToiftONb295CF8sr9QwQlZym2UxZxXcJKJkGl6fvGIGkwiSOT5yRM26cimLaR6epwUnJQZTOVBezqtHqnMPHcD72s82vCoeNEA2DfKlTBtKKzOcPXtAyaU33b4L4ukb1-YhGzDPlsC1Et51gm2mOm8pjywi7lwFTpZ_W4qT4ylU64pfOkji7nj8Z11KHaVzwtuDIXF_jI1ph6WK847JIx9-ZTMkzyaIWRq21U5RGuLjPWvkzip01Uo-t3uW31c9gEP634ocFjqMWOt5nvnd63onCwEZ50QV7Q8t0g8-YV8v7oWXOFcS0LnWxiHixWoyoxU7KCby7AkemnenmqtjDVzTVq8GdCaCYOxncbpBqeM261dBmfesQYFHfUYbir2D3_7BG6hjzvzRrlLx5m1Wouu9k_y6ptRRgh4bW5pjN52wS1J7Vpi-ZhDAB23qAS0Tpv9fNSlriAXtM33uaw6ZAxf6qftQw-bYJZ72_foFrjavaXu4xlrodYqW__Om56tJsOtmp954Gir0fIsxSqVp46I7692RR0TpgVN5kluiZa-PWhnPOCNa2G021hmalWbmX_kLOCZixPUWNg8XBttLESQHTvdebI7OmFi3KTJdPZsy75exFaOcgU1HUYIjDlWj2_IR00BbkgBhggahcgXeAvcJA6jGMtA5tu5r82bTY5lIZy7DGsiejvj8FwUyLaF_vnN3-bE_1JkJf7HmixKhD1ey-b-wR94wqdq-LQplChIzAW8I2soYtUJyE3e6V1M1qFvKL1pIZoaA2EPh9iXtR4Y780HlkwhFef-JZl82aXOTbkX7SHt2rC0WQvHaTfLmZ-WTLBZ6EMkK5meD6hPjpRzLfqvGVJoysPDfcdYh5ZuKu9e12eOYSelvUcp7CrWnc0KFv8S7QkjZAq5pdvXqal91d_Q2UkSk",Kanal 7
+#EXTINF:-1 tvg-id="Kanal 7" tvg-name="Kanal 7" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/kanal-7-tr.png",Kanal 7
 https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7.m3u8
-#EXTINF:-1 tvg-id="Showmax " tvg-name="Showmax " group-title="ULUSAL" tvg-logo="https://avatars.mds.yandex.net/i?id=4c15e51de9a9e24da4e1603240a7b5ecac43368e-4575448-images-thumbs&n=13",Showmax
+#EXTINF:-1 tvg-id="Showmax " tvg-name="Showmax " group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/show-max-tr.png",Showmax
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax_1080p.m3u8
-#EXTINF:-1 tvg-id="Beyaztv" tvg-name="Beyaztv" group-title="ULUSAL" tvg-logo="https://avatars.mds.yandex.net/i?id=5359c74eb814f779d2d2f68d6b800ed292ba0215-6959765-images-thumbs&n=13",Beyaztv
+#EXTINF:-1 tvg-id="Beyaztv" tvg-name="Beyaztv" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/beyaz-tv-tr.png",Beyaztv
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-#EXTINF:-1 tvg-id="TRTTurk" tvg-name="TRT Turk" group-title="ULUSAL" tvg-logo="https://avatars.mds.yandex.net/i?id=828f76184381e7e24654794ce29ff810f81ef698-4521333-images-thumbs&n=13",TRT Turk
+#EXTINF:-1 tvg-id="TRTTurk" tvg-name="TRT Turk" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt-turk-tr.png",TRT Turk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRTAvaz" tvg-name="TRT Avaz" group-title="ULUSAL" tvg-logo="https://avatars.mds.yandex.net/i?id=ba4e50be44b7604d84f4c80596eba0d6916e9aa3-5225319-images-thumbs&n=13",TRT Avaz
+#EXTINF:-1 tvg-id="TRTAvaz" tvg-name="TRT Avaz" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt-avaz-tr.png",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="Tv 100" tvg-name="Tv 100" group-title="ULUSAL" tvg-logo="https://suleymanpasa.bel.tr/images/basinULUSAL/tv100.png",Tv 100
+#EXTINF:-1 tvg-id="Tv 100" tvg-name="Tv 100" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/tv100-tr.png",Tv 100
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
-#EXTINF:-1 tvg-id="Kanal B" tvg-name="Kanal B" group-title="ULUSAL" tvg-logo="https://avatars.mds.yandex.net/i?id=f4c69624fdadcf54fc002911feb1e1febcd7e6c5-5878159-images-thumbs&n=13",Kanal B
+#EXTINF:-1 tvg-id="Kanal B" tvg-name="Kanal B" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/kanal-b-tr.png",Kanal B
 https://tv.kanalb.tr/hls/kanalb/index.m3u8?hash=07db62ddfaba22e9801fceafed4b3e89
-#EXTINF:-1 tvg-id="Cnbc-e" tvg-name="Cnbc-e" group-title="ULUSAL" tvg-logo="https://yandex-images.clstorage.net/Dn9p93E85/e264bfVOLB/J4K8Bc-CK05qWW_nTb73urdRy1z5jXMOXIOinTqu1nis96qN-qQ3JVqlWFmT0EzgH76Bndid_kvWa5hDMx6vmTKC_EmJyTQbOhh2s0W98riqDIhN5dd3U0bB_sh48I99q_TEsILSFhskwSh76qtT4Enp09HFz6BDznrafltbiNAVjawx_LVRZmpHEtl-ivGxvzrQe-jkeUlDqdDmcJuXA9Ot3bek4RUmIekgRueNSclV5vLeivu_V6pozG5HFYHxP6GQA828ZlpEWhj_ZZPLjLsFw1bu2nt8XJLP6kemozLJnvO1ssMXPjP5JknBnWvZYsrm_Z7khme6f9ppXjWV5T6CpRbNgX9NZXMmx2iW3J2eFtZt9Mhee0eG3txfurIuzLDtgLXwDBEn5glmyK5C42vKwO2u1YpnlW3mREIomukrk5op2bBxcXpJBfNnvum0uzP9YP34fUdhjv3JYZ2AJuyT7IC0wAcQB_QVe_Cib8RD5ezlu8S7YqVJwW1-HoHDJbOBKui5VkVlbi_6eKPknro782rY4HZ_WpD46UCImwf_k9OMgP81EjjjCX7UrWTZce7U07rfm0CsVONMVzyG7AGUvADsvWhkf3AS8VSR5q2pMeBr_cpyYFiO9uJQibMB46DxvKjSJwEb1Axr9Kxt7F_Hz-667ZZWmmb6TG4sgtY8jroc055Jdn9eEthLgPWGiwfka-PkXl5hivHqboqzAeq00oCZxTUmBuQjX9aoYOtsz_vfgsmkbKV40ElxIpTlHaijIsewb2pIfzbcYaLllp4a0lDmzlNJX6T641K8tBrRkvOfrOYFLh3aKFvQo2XNa8zHz4PNvWKLZ_lAag-X9j26rTLNhGNaW00t2F2D4JyGBcJ3z_RyUEaF2M1hoqYX-IvzuLHhAjwDwTFI9Idl9HfI8se9x4trh0_mdHM-r9I7sas13p1SbnZjMt1Yiv6pvSv1UtXzSnJDlenjbaA",Cnbc-e
+#EXTINF:-1 tvg-id="Cnbc-e" tvg-name="Cnbc-e" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/360-tr.png",Cnbc-e
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 tvg-id="Tv 360" tvg-name="Tv 360" group-title="ULUSAL" tvg-logo="https://i.ibb.co/s3gJCGL/360.png",Tv 360
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
