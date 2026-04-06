@@ -49,11 +49,11 @@ https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
 #EXTINF:-1 tvg-id="Ülke Tv" tvg-name="Ülke Tv" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/ulke-tv-tr.png",Ülke Tv
 https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
-#EXTINF:-1 tvg-id="Baku Tv" tvg-name="Baku Tv" group-title="ULUSAL" tvg-logo="https://yandex-images.clstorage.net/Dn9p93E85/e264bfVOLB/J4K8Bc-CK05qWW_nTb73urdRy1z5jXMOXIOikj-qhyKv8q_c8qRhIQihAwmW1UvgReiGmo2eqUzUas1CNUL-kGHT_UmIwDEROxhxs0W98riqDIhN5dd3U0bB_sh48I99q_TEsILSFhskwSh76qtT4Enp09HFz6BDznrafltbiNAVjawx_LVRZmpHEtl-ivGxvzrQe-jkeUlDqdDmcJuXA9Ot3bek4RUmIekgRueNSclV5vLeivu_V6pozG5HFYHxP6GQA828ZlpEWhj_ZZPLjLsFw1bu2nt8XJLP6kemozLJnvO1ssMXPjP5JknBnWvZYsrm_Z7khme6f9ppXjWV5T6CpRbNgX9NZXMmx2iW3J2eFtZt9Mhee0eG3txfurIuzLDtgLXwDBEn5glmyK5C42vKwO2u1YpnlW3mREIomukrk5op2bBxcXpJBfNnvum0uzP9YP34fUdhjv3JYZ2AJuyT7IC0wAcQB_QVe_Cib8RD5ezlu8S7YqVJwW1-HoHDJbOBKui5VkVlbi_6eKPknro782rY4HZ_WpD46UCImwf_k9OMgP81EjjjCX7UrWTZce7U07rfm0CsVONMVzyG7AGUvADsvWhkf3AS8VSR5q2pMeBr_cpyYFiO9uJQibMB46DxvKjSJwEb1Axr9Kxt7F_Hz-667ZZWmmb6TG4sgtY8jroc055Jdn9eEthLgPWGiwfka-PkXl5hivHqboqzAeq00oCZxTUmBuQjX9aoYOtsz_vfgsmkbKV40ElxIpTlHaijIsewb2pIfzbcYaLllp4a0lDmzlNJX6T641K8tBrRkvOfrOYFLh3aKFvQo2XNa8zHz4PNvWKLZ_lAag-X9j26rTLNhGNaW00t2F2D4JyGBcJ3z_RyUEaF2M1hoqYX-IvzuLHhAjwDwTFI9Idl9HfI8se9x4trh0_mdHM-r9I7sas13p1SbnZjMt1Yiv6pvSv1UtXzSnJDlenjbaA",Baku Tv
+#EXTINF:-1 tvg-id="Baku Tv" tvg-name="Baku Tv" group-title="ULUSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Baku_TV_%282018%29.png",Baku Tv
 https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
-#EXTINF:-1 tvg-id="Rehber Tv" tvg-name="Rehber Tv" group-title="ULUSAL" tvg-logo="https://res.cloudinary.com/rehbertv/image/upload/v1709735756/rehber_Logo_Yeni_20e8e49a20.png",Rehber Tv
+#EXTINF:-1 tvg-id="Rehber Tv" tvg-name="Rehber Tv" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/rehber-tv-tr.png",Rehber Tv
 https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Vav Tv" tvg-name="Vav Tv" group-title="ULUSAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-p-zqUbNtblOcvWJH9mTQyNTp9QsCkTj_bA&s",Vav Tv
+#EXTINF:-1 tvg-id="Vav Tv" tvg-name="Vav Tv" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/vav-tv-tr.png",Vav Tv
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ilm-tv/playlist/0.m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel" tvg-name="TRT Belgesel" group-title="BELGESEL" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt-belgesel-tr.png",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
@@ -199,11 +199,11 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 https://www.youtube.com/watch?v=mKCieTImjvU
 #EXTINF:-1 tvg-id="Tivi6" tvg-name="Tivi6" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/tivi6.png",Tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
-#EXTINF:-1 tvg-id="Tv 4" tvg-name="Tv 4" group-title="ULUSAL" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2025/09/tv4-300x208.webp",Tv 4
+#EXTINF:-1 tvg-id="Tv 4" tvg-name="Tv 4" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/tv4-tr.png",Tv 4
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
 #EXTINF:-1 tvg-id="Teve 2" tvg-name="Teve 2" group-title="ULUSAL" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png",Teve 2
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8
-#EXTINF:-1 tvg-id="Bengü Türk" tvg-name="Bengü Türk" group-title="ULUSAL" tvg-logo="https://i.imgur.com/p3ON1oX.png",Bengü Türk
+#EXTINF:-1 tvg-id="Bengü Türk" tvg-name="Bengü Türk" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/bengu-turk-tr.png",Bengü Türk
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 #EXTINF:-1 tvg-id="Gzt Tv" tvg-name="Gzt Tv" group-title="HABER" tvg-logo="https://i.ibb.co/9s9YKYT/gzt.png",Gzt Tv
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
