@@ -243,5 +243,4 @@ https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg0
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 #EXTINF:-1 tvg-id="Sdm Tv" tvg-name="Sdm Tv" group-title="SİNEMA" tvg-logo="https://www.tvkeyfi.com.tr/upload/tv/k_sdm-tv-snema-logo_20260217113813.png",Sdm Tv
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Yansıma Tv" tvg-name="Yansıma Tv" group-title="SİNEMA" tvg-logo="https://i.ibb.co/4zcRVKw/yans-ma-tv.png",Yansıma Tv
-http://cdn4.yayin.com.tr/yansimasinematv/video.m3u8
+
