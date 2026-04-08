@@ -209,8 +209,6 @@ https://tv.ensonhaber.com/benguturk/benguturk.m3u8
 https://mn-nl.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1 tvg-id="Haber 61" tvg-name="Haber 61" group-title="HABER" tvg-logo="https://www.haber61.net/assets/logo.png",Haber 61
 https://cdn1-haber61tv.yayin.com.tr/haber61tv/haber61tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Lider Haber" tvg-name="Lider Haber" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/liderhaber.png",Lider Haber
-https://lidertv.radyotelekom.com.tr/player/m3u8/9217b6e91d17c38f7d171eb2b3670349/chunklist_w2105444297.m3u8
 #EXTINF:-1 tvg-id="A Haber" tvg-name="A Haber" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png",A Haber
 https://www.canlitv.tech/hls/ahaber.m3u8
 #EXTINF:-1 tvg-id="Türk Haber" tvg-name="Türk Haber" group-title="HABER" tvg-logo="https://www.turkhabertv.com/wp-content/uploads/2024/06/Logo164x50.png",Türk Haber
