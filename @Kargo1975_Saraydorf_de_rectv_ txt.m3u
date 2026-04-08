@@ -101,10 +101,10 @@ https://mss.ayakkabiparti.lol/sozcutv/index.m3u8
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1 tvg-id="Tele1" tvg-name="Tele1" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/tele1-tr.png",Tele1
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
-#EXTINF:-1 tvg-id="Bloomberght" tvg-name="Bloomberght" group-title="HABER" tvg-logo="https://avatars.mds.yandex.net/i?id=971ccc4248003f9258a5ccefaf882cf82fcd76e6-11454708-images-thumbs&n=13",Bloomberght
+#EXTINF:-1 tvg-id="Bloomberght" tvg-name="Bloomberght" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/bloomberg-ht-tr.png",Bloomberght
 https://tatatam.trt1sultanfatihss.workers.dev/https://ciner.daioncdn.net/bloomberght/bloomberght_720p.m3u8?app=201b9556-b11c-4d92-b264-f21fd24e9aaf&ce=3
-#EXTINF:-1 tvg-id="Haberglobal" tvg-name="Haberglobal" group-title="HABER" tvg-logo="https://avatars.mds.yandex.net/i?id=cc446b993b022799350889d1f0d12c4501ff70e6-5239568-images-thumbs&n=13",Haber Global
-https://mss.ayakkabiparti.lol/haberglobal/index.m3u8
+#EXTINF:-1 tvg-id="Akit Tv" tvg-name="Akit Tv" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/akit-tv-tr.png",Akit Tv
+https://www.canlitv.tech/hls/akittv.m3u8
 #EXTINF:-1 tvg-id="Tgrt Haber" tvg-name="Tgrt Haber" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/tgrt-haber-tr.png",Tgrt Haber
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 #EXTINF:-1 tvg-id="TV24" tvg-name="TV24" group-title="HABER" tvg-logo="https://avatars.mds.yandex.net/i?id=cc7d7325c844ffe641ea2ed7cd90ed237cbfe265-4885223-images-thumbs&n=13",TV24
