@@ -131,8 +131,6 @@ https://mss.ayakkabiparti.lol/sinema1001/index.m3u8
 https://mss.ayakkabiparti.lol/sinema1002/index.m3u8
 #EXTINF:-1 tvg-id="Fx" tvg-name="Fx" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/fx-tr.png",Fx
 https://saran-live.ercdn.net/fx/index.m3u8
-#EXTINF:-1 tvg-id="Epic Drama" tvg-name="Epic Drama" group-title="SİNEMA" tvg-logo="https://image.pngaaa.com/398/2715398-middle.png",Epic Drama
-https://ottcdn.kablowebtv.net/live_turksat_sub3/epicdramahd_stream/tracks-a2/mono.ts.m3u8?nimblesessionid=710735135&wmsAuthSign=c2VydmVyX3RpbWU9MDMvMTUvMjAyNiAwOTowMTowMyBBTSZoYXNoX3ZhbHVlPWZQYkhETXl5ZEdEeFQ2dWdyV2wySGc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0xNTY0ODUxZC1hY2ViLTQyZWUtYjkwZi04MGFlNTczOGEyM2EsM2RjYjY2YmItNmE2Ny00MjBiLWI3YzItODdkZDYwYWM0M2NkLGViZmJhNzhhLTY3MzEtNDBiMy1iNzUyLTc1Nzk1MjgwZWQ1OCwsMTc2LjMzLjcwLjIxNywxNzczNTc2MDYzJmNsaWVudF9pcD0xNzYuMzMuNzAuMjE3JmNoZWNraXA9dHJ1ZQ==
 #EXTINF:-1 tvg-id="Net Spor" tvg-name="Net Spor" group-title="SPOR" tvg-logo="https://i.ibb.co/x8Gb2D3w/net-spor.png",Net Spor
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
 #EXTINF:-1 tvg-id="Net Spor 2" tvg-name="Net Spor 2" group-title="SPOR" tvg-logo="https://i.ibb.co/x8Gb2D3w/net-spor.png",Net Spor 2
