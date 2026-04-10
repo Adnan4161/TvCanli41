@@ -134,7 +134,7 @@ https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 tvg-id="Net Spor" tvg-name="Net Spor" group-title="SPOR" tvg-logo="https://i.ibb.co/x8Gb2D3w/net-spor.png",Net Spor
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
 #EXTINF:-1 tvg-id="Net Spor 2" tvg-name="Net Spor 2" group-title="SPOR" tvg-logo="https://i.ibb.co/x8Gb2D3w/net-spor.png",Net Spor 2
-https://api.hitnova.net/s/smarts/mono.m3u8
+hhttps://api.hitnova.net/s/smarts/mono.m3u8
 #EXTINF:-1 tvg-id="Net Spor 3" tvg-name="Net Spor 3" group-title="SPOR" tvg-logo="https://i.ibb.co/x8Gb2D3w/net-spor.png",Net Spor 3
 hhttps://betconnectstreamserver1001.site/601/mono.m3u8
 #EXTINF:-1 tvg-id="Net Spor 4" tvg-name="Net Spor 4" group-title="SPOR" tvg-logo="https://i.ibb.co/x8Gb2D3w/net-spor.png",Net Spor 4
