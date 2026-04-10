@@ -159,6 +159,10 @@ https://hlsssssss.yemerke.workers.dev/https://corestream.ronaldovurdu.help//hls/
 https://hlsssssss.yemerke.workers.dev/https://corestream.ronaldovurdu.help//hls/tabii1.m3u8
 #EXTINF:-1 tvg-id="Tivibu Spor 1" tvg-name="Tivibu Spor 1" group-title="SPOR" tvg-logo="https://tvlogolar.xyz/europa/turkey/tivibuspor.png",Tivibu Spor 1
 https://api.hitnova.net/s/t1/mono.m3u8
+#EXTINF:-1 tvg-id="Spor Smart" tvg-name="Spor Smart" group-title="SPOR" tvg-logo="https://tvlogolar.xyz/europa/turkey/sporsmart1.png",Spor Smart
+https://api.hitnova.net/s/smarts/mono.m3u8
+#EXTINF:-1 tvg-id="Spor Smart 2" tvg-name="Spor Smart 2" group-title="SPOR" tvg-logo="https://tvlogolar.xyz/europa/turkey/sporsmart2.png",Spor Smart 2
+https://api.hitnova.net/s/smarts/mono.m3u8
 #EXTINF:-1 tvg-id="Bilardo Tv" tvg-name="Bilardo Tv" group-title="SPOR" tvg-logo="https://www.freelivesports.tv/wp-content/uploads/2021/07/billiard-logo-sml.png",Bilardo Tv
 https://bbb-billi-amagi.otteravision.com/bbb/billi/billi.m3u8
 #EXTINF:-1 tvg-id="Sports Tv" tvg-name="Sports Tv" group-title="SPOR" tvg-logo="https://tvlogolar.xyz/europa/turkey/sportstv.png",Sports Tv
