@@ -92,7 +92,7 @@ http://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="İHA" tvg-name="İHA" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/39/%C4%B0HA_Logo.jpg",İHA
 https://live01.iha.tv/webabone/live/chunks.m3u8
 #EXTINF:-1 tvg-id="Cnn Türk" tvg-name="Cnn Türk" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/cnn-turk-tr.png",Cnn Türk
-https://mss.ayakkabiparti.lol/cnn/index.m3u8
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=VrpfQgjvjNgR_9VssQD7jA&e=1776108315
 #EXTINF:-1 tvg-id="Sözcütv" tvg-name="Sözcü tv" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/sozcutv.png",Sözcü tv
 https://www.canlitv.tech/hls/sozcu.m3u8
 #EXTINF:-1 tvg-id="Halktv" tvg-name="Halktv" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/halktv.png",Halktv
