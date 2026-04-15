@@ -222,11 +222,11 @@ https://edge.taksimbilisim.com/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="B Series Drama" tvg-name="B Series Drama" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/bein-series-drama-hd-tr.png",B Series Drama
 https://mss.ayakkabiparti.lol/bsaction1/index.m3u8
 #EXTINF:-1 tvg-id="B Movies Family" tvg-name="B Movies Family" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/bein-movies-family-hd-tr.png",B Movies Family
-https://mss.ayakkabiparti.lol/bsfamily/index.m3u8
+https://proud-river-e20b.pantonum1.workers.dev/bsfamily.m3u8
 #EXTINF:-1 tvg-id="B Movies Premier" tvg-name="B Movies Premier" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/bein-movies-premiere-hd-tr.png",B Movies Premier
-https://mss.ayakkabiparti.lol/bspremier1/index.m3u8
+https://proud-river-e20b.pantonum1.workers.dev/bspremier1.m3u8
 #EXTINF:-1 tvg-id="B Movies Türk" tvg-name="B Movies Türk" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/bein-movies-turk-hd-tr.png",B Movies Türk
-https://mss.ayakkabiparti.lol/bsturk/index.m3u8
+https://proud-river-e20b.pantonum1.workers.dev/bsturk.m3u8
 #EXTINF:-1 tvg-id="Rize Türk" tvg-name="Rize Türk" group-title="SİNEMA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFqUAdF7Tg2HfBWFru-Yl2rVntju4lRUSxFIMR4gvaHV7Y1FyGZnFma2QbxHzL0yw-ofOqVt2oQk-BaoW_iYIbEri56Q0ZrW90tPnFNCLTZMd3sSy5JyEbb_p5zhNVyxJQa4U-dd3scI6Z8CBhrnDMF-TGkgZfCdoDqcP5SBWkM18IoCx_ObsNO1AUJw/s434/rizeturktv.png",Rize Türk
 https://yayin.rizeturk.com:3777/multi_web/play_1080.m3u8
 #EXTINF:-1 tvg-id="Film Screen" tvg-name="Film Screen" group-title="SİNEMA" tvg-logo="https://cosmobluemedia.com/wp-content/uploads/elementor/thumbs/film-screen-1-qgrlrm8vb8gjhoo4j5h6ctontf0f0n1yff1uhjsrci.png",Film Screen
@@ -239,8 +239,8 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #EXTINF:-1 tvg-id="Baby Tv" tvg-name="Baby Tv" group-title="ÇOCUK" tvg-logo="https://tvlogolar.xyz/europa/turkey/babytv.png",Baby Tv
 https://saran-live.ercdn.net/babytv/index.m3u8
-#EXTINF:-1 tvg-id="Test Tv" tvg-name="Test Tv" group-title="ÇOCUK" tvg-logo="https://www.clipmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png",Test
-https://proud-river-e20b.pantonum1.workers.dev/sinemakomedi.m3u8
+#EXTINF:-1 tvg-id="Test Tv" tvg-name="Test Tv" group-title="ÇOCUK" tvg-logo="https://www.clipmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png",Test Tv
+https://proud-river-e20b.pantonum1.workers.dev/bsseries1.m3u8
 #EXTINF:-1 tvg-id="Dizi Tv" tvg-name="Dizi Tv" group-title="SİNEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d5/Dizi_TV_logosu.jpg",Dizi Tv
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF:-1 tvg-id="Mr.Bean" tvg-name="Mr.Bean" group-title="SİNEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhp3DufSRPrRsKSICC514wHpyboJJkV9CgHw&s",Mr.Bean
