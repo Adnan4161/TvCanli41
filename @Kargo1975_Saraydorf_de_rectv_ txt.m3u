@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="Trt1" tvg-name="TRT 1" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt1.png",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 tvg-id="Atv" tvg-name="ATV" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/atv-tr.png",ATV
-http://89.187.191.41/ATV-HD-TR/video.m3u8
+https://www.canlitv.tech/hls/aspor.m3u8
 #EXTINF:-1 tvg-id="KanalD" tvg-name="Kanal D" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/kanald.png",Kanal D
 https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web
 #EXTINF:-1 tvg-id="StarTV" tvg-name="Star TV" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/star-tv-tr.png",Star TV
