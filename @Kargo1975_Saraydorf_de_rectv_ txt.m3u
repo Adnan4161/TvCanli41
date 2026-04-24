@@ -258,8 +258,8 @@ https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg0
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 #EXTINF:-1 tvg-id="Sdm Tv" tvg-name="Sdm Tv" group-title="SİNEMA" tvg-logo="https://www.tvkeyfi.com.tr/upload/tv/k_sdm-tv-snema-logo_20260217113813.png",Sdm Tv
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Brt1" tvg-name="Brt1" group-title="ÇOCUK" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/BRT-HD.png",Brt1
+#EXTINF:-1 tvg-id="Brt1" tvg-name="Brt1" group-title="KIBRIS" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/BRT-HD.png",Brt1
 https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="Brt2" tvg-name="Brt2" group-title="ÇOCUK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/BRT_2_%282014-g%C3%BCn%C3%BCm%C3%BCz%29.png",Brt2
+#EXTINF:-1 tvg-id="Brt2" tvg-name="Brt2" group-title="KIBRIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/BRT_2_%282014-g%C3%BCn%C3%BCm%C3%BCz%29.png",Brt2
 https://edge.kuzeykibrissmart.tv/brt2hd/bant1/playlist.m3u8
 
