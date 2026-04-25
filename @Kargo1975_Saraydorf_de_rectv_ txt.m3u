@@ -47,8 +47,6 @@ https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
 #EXTINF:-1 tvg-id="Ülke Tv" tvg-name="Ülke Tv" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/ulke-tv-tr.png",Ülke Tv
 https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
-#EXTINF:-1 tvg-id="Baku Tv" tvg-name="Baku Tv" group-title="ULUSAL" tvg-logo="https://baku.tv/assets/frontend/img/hd-logo.png",Baku Tv
-https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
 #EXTINF:-1 tvg-id="Rehber Tv" tvg-name="Rehber Tv" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/rehber-tv-tr.png",Rehber Tv
 https://cdn4.yayin.com.tr/rehbertv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Vav Tv" tvg-name="Vav Tv" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/vav-tv-tr.png",Vav Tv
@@ -261,12 +259,22 @@ https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 #EXTINF:-1 tvg-id="Sdm Tv" tvg-name="Sdm Tv" group-title="SİNEMA" tvg-logo="https://www.tvkeyfi.com.tr/upload/tv/k_sdm-tv-snema-logo_20260217113813.png",Sdm Tv
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Apa Tv" tvg-name="Apa Tv" group-title="Y.DIŞI" tvg-logo="http://radio.vipotv.com/wp-content/uploads/2024/05/APA-TV-live-vipotv.png",Apa Tv (Az)
-http://stream.apa.tv/apastream/index.m3u8
 #EXTINF:-1 tvg-id="Ayaz Tv" tvg-name="Ayaz Tv" group-title="Y.DIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2024/07/ayaz-tv-izle-vipotv.png",Ayaz Tv (Az)
 https://janya-ayaztv.vgcdn.net/ptnr-VipoTV/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
 #EXTINF:-1 tvg-id="Az Tv" tvg-name="Az Tv" group-title="Y.DIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/aztv-min.png",Az Tv (Az)
 https://str.yodacdn.net/azertv/index.m3u8
+#EXTINF:-1 tvg-id="Azad Tv" tvg-name="Azad Tv" group-title="Y.DIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/atv-azerbaycan.png",Azad Tv (Az)
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+#EXTINF:-1 tvg-id="Azad Tv" tvg-name="Azad Tv" group-title="Y.DIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/atv-azerbaycan.png",Azad Tv (Az)
+https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
+#EXTINF:-1 tvg-id="Baku Tv" tvg-name="Baku Tv" group-title="Y.DIŞI" tvg-logo="https://baku.tv/assets/frontend/img/hd-logo.png",Baku Tv (Az)
+https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
+#EXTINF:-1 tvg-id="Gunaz Tv" tvg-name="Gunaz Tv" group-title="Y.DIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2021/03/gunaz-tv-live-vipotv.png",Gunaz Tv (Az)
+https://tv.gunaz.tv/hls/live.m3u8
+#EXTINF:-1 tvg-id="Mədəniyyət Tv" tvg-name="Mədəniyyət Tv" group-title="Y.DIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/medeniyyet-vipotv.png",Mədəniyyət Tv (Az)
+https://str.yodacdn.net/medeniyyettele/index.m3u8
+#EXTINF:-1 tvg-id="Show Plus Tv" tvg-name="Show Plus Tv" group-title="Y.DIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2024/05/Show-Plus-TV-canli-izle-vipotv.png",Show Plus Tv (Az)
+https://rtmp.showplus.tv/hls/myshow.m3u8
 #EXTINF:-1 tvg-id="Brt1" tvg-name="Brt1" group-title="Y.DIŞI" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/BRT-HD.png",Brt1 (Kktc)
 https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Brt2" tvg-name="Brt2" group-title="Y.DIŞI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/BRT_2_%282014-g%C3%BCn%C3%BCm%C3%BCz%29.png",Brt2 (Kktc)
