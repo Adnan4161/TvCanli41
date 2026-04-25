@@ -260,6 +260,13 @@ https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg0
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 #EXTINF:-1 tvg-id="Sdm Tv" tvg-name="Sdm Tv" group-title="SİNEMA" tvg-logo="https://www.tvkeyfi.com.tr/upload/tv/k_sdm-tv-snema-logo_20260217113813.png",Sdm Tv
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="Apa Tv" tvg-name="Apa Tv" group-title="Y.DIŞI" tvg-logo="http://radio.vipotv.com/wp-content/uploads/2024/05/APA-TV-live-vipotv.png",Apa Tv (Az)
+http://stream.apa.tv/apastream/index.m3u8
+#EXTINF:-1 tvg-id="Ayaz Tv" tvg-name="Ayaz Tv" group-title="Y.DIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2024/07/ayaz-tv-izle-vipotv.png",Ayaz Tv (Az)
+https://janya-ayaztv.vgcdn.net/ptnr-VipoTV/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
+#EXTINF:-1 tvg-id="Az Tv" tvg-name="Az Tv" group-title="Y.DIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/aztv-min.png",Az Tv (Az)
+https://str.yodacdn.net/azertv/index.m3u8
 #EXTINF:-1 tvg-id="Brt1" tvg-name="Brt1" group-title="Y.DIŞI" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/BRT-HD.png",Brt1 (Kktc)
 https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Brt2" tvg-name="Brt2" group-title="Y.DIŞI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/BRT_2_%282014-g%C3%BCn%C3%BCm%C3%BCz%29.png",Brt2 (Kktc)
