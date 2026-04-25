@@ -121,12 +121,10 @@ http://cdn.tvheryerde.workers.dev/ID=1109
 http://cdn.tvheryerde.workers.dev/ID=1110
 #EXTINF:-1 tvg-id="Sinematv" tvg-name="Sinematv" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-tv-tr.png",Sinema Tv
 http://cdn.tvheryerde.workers.dev/ID=1908
-#EXTINF:-1 tvg-id="Sinematv2" tvg-name="Sinematv2" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-tv2-tr.png",Sinema Tv2
-http://cdn.tvheryerde.workers.dev/ID=1909
 #EXTINF:-1 tvg-id="Sinema1001" tvg-name="Sinema1001" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-1001-tr.png",Sinema1001
-https://proud-river-e20b.pantonum1.workers.dev/sinema1001.m3u8
+http://cdn.tvheryerde.workers.dev/ID=2602
 #EXTINF:-1 tvg-id="Sinema1002" tvg-name="Sinema1002" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-1002-tr.png",Sinema1002
-https://proud-river-e20b.pantonum1.workers.dev/sinema1002.m3u8
+http://cdn.tvheryerde.workers.dev/ID=2603
 #EXTINF:-1 tvg-id="Fx" tvg-name="Fx" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/fx-tr.png",Fx
 https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 tvg-id="Net Spor" tvg-name="Net Spor" group-title="SPOR" tvg-logo="https://i.ibb.co/x8Gb2D3w/net-spor.png",Net Spor
