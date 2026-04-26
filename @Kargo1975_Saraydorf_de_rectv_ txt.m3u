@@ -155,7 +155,7 @@ https://www.canlitv.tech/hls/aspor.m3u8
 #EXTINF:-1 tvg-id="Ht Spor" tvg-name="Ht Spor" group-title="SPOR" tvg-logo="https://tvlogolar.xyz/europa/turkey/HT_SPOR.eno.png",Ht Spor
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1 tvg-id="Bi Kanal" tvg-name="Bi Kanal" group-title="SPOR" tvg-logo="https://yt3.googleusercontent.com/4YCt21qCi-6kw6DpxuqhvHYekgnOeaSP01VBQSiINXXTM9x1FtQBkClgatnf0kkYSbk7yWkH=s900-c-k-c0x00ffffff-no-rj",Bi Kanal
-https://bikanal-live.ercdn.net/bikanal/bikanal_1080p.m3u8
+https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
 #EXTINF:-1 tvg-id="S Sport 1" tvg-name="S Sport 1" group-title="SPOR" tvg-logo="https://tvlogolar.xyz/europa/turkey/ssport1.png",S Sport 1
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydus1.m3u8
 #EXTINF:-1 tvg-id="S Sport 2" tvg-name="S Sport 2" group-title="SPOR" tvg-logo="https://tvlogolar.xyz/europa/turkey/ssport2.png",S Sport 2
