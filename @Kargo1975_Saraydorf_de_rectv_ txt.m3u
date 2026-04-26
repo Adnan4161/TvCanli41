@@ -261,31 +261,49 @@ https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 #EXTINF:-1 tvg-id="Sdm Tv" tvg-name="Sdm Tv" group-title="SİNEMA" tvg-logo="https://www.tvkeyfi.com.tr/upload/tv/k_sdm-tv-snema-logo_20260217113813.png",Sdm Tv
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="Ayaz Tv" tvg-name="Ayaz Tv" group-title="Y.DIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2024/07/ayaz-tv-izle-vipotv.png",Ayaz Tv (Az)
+#EXTINF:-1 tvg-id="Ayaz Tv" tvg-name="Ayaz Tv" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2024/07/ayaz-tv-izle-vipotv.png",Ayaz Tv (Az)
 https://janya-ayaztv.vgcdn.net/ptnr-VipoTV/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
-#EXTINF:-1 tvg-id="Az Tv" tvg-name="Az Tv" group-title="Y.DIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/aztv-min.png",Az Tv (Az)
+#EXTINF:-1 tvg-id="Az Tv" tvg-name="Az Tv" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/aztv-min.png",Az Tv (Az)
 https://str.yodacdn.net/azertv/index.m3u8
-#EXTINF:-1 tvg-id="Azad Tv" tvg-name="Azad Tv" group-title="Y.DIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/atv-azerbaycan.png",Azad Tv (Az)
+#EXTINF:-1 tvg-id="Azad Tv" tvg-name="Azad Tv" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/atv-azerbaycan.png",Azad Tv (Az)
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
-#EXTINF:-1 tvg-id="Azad Tv" tvg-name="Azad Tv" group-title="Y.DIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/atv-azerbaycan.png",Azad Tv (Az)
+#EXTINF:-1 tvg-id="Azad Tv" tvg-name="Azad Tv" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/atv-azerbaycan.png",Azad Tv (Az)
 https://lives.atv.az:5443/ATV_TV_STREAM/streams/atvcanli.m3u8
-#EXTINF:-1 tvg-id="Baku Tv" tvg-name="Baku Tv" group-title="Y.DIŞI" tvg-logo="https://baku.tv/assets/frontend/img/hd-logo.png",Baku Tv (Az)
+#EXTINF:-1 tvg-id="Baku Tv" tvg-name="Baku Tv" group-title="YURTDIŞI" tvg-logo="https://baku.tv/assets/frontend/img/hd-logo.png",Baku Tv (Az)
 https://rtmp.baku.tv/hls/bakutv_1080p.m3u8
-#EXTINF:-1 tvg-id="Gunaz Tv" tvg-name="Gunaz Tv" group-title="Y.DIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2021/03/gunaz-tv-live-vipotv.png",Gunaz Tv (Az)
+#EXTINF:-1 tvg-id="Gunaz Tv" tvg-name="Gunaz Tv" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2021/03/gunaz-tv-live-vipotv.png",Gunaz Tv (Az)
 https://tv.gunaz.tv/hls/live.m3u8
-#EXTINF:-1 tvg-id="Mədəniyyət Tv" tvg-name="Mədəniyyət Tv" group-title="Y.DIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/medeniyyet-vipotv.png",Mədəniyyət Tv (Az)
+#EXTINF:-1 tvg-id="Mədəniyyət Tv" tvg-name="Mədəniyyət Tv" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/medeniyyet-vipotv.png",Mədəniyyət Tv (Az)
 https://str.yodacdn.net/medeniyyettele/index.m3u8
-#EXTINF:-1 tvg-id="Show Plus Tv" tvg-name="Show Plus Tv" group-title="Y.DIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2024/05/Show-Plus-TV-canli-izle-vipotv.png",Show Plus Tv (Az)
+#EXTINF:-1 tvg-id="Show Plus Tv" tvg-name="Show Plus Tv" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2024/05/Show-Plus-TV-canli-izle-vipotv.png",Show Plus Tv (Az)
 https://rtmp.showplus.tv/hls/myshow.m3u8
-#EXTINF:-1 tvg-id="Brt1" tvg-name="Brt1" group-title="Y.DIŞI" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/BRT-HD.png",Brt1 (Kktc)
+#EXTINF:-1 tvg-id="Brt1" tvg-name="Brt1" group-title="YURTDIŞI" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/BRT-HD.png",Brt1 (Kktc)
 https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="Brt2" tvg-name="Brt2" group-title="Y.DIŞI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/BRT_2_%282014-g%C3%BCn%C3%BCm%C3%BCz%29.png",Brt2 (Kktc)
+#EXTINF:-1 tvg-id="Brt2" tvg-name="Brt2" group-title="YURTDIŞI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/BRT_2_%282014-g%C3%BCn%C3%BCm%C3%BCz%29.png",Brt2 (Kktc)
 https://edge.kuzeykibrissmart.tv/brt2hd/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="Bbc News" tvg-name="Bbc News" group-title="Y.DIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2022/08/BBC-World-News-live-vipotv-england.png",Bbc News (Eng)
+#EXTINF:-1 tvg-id="Bbc News" tvg-name="Bbc News" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2022/08/BBC-World-News-live-vipotv-england.png",Bbc News (Eng)
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
-#EXTINF:-1 tvg-id="Bloomberg Tv" tvg-name="Bloomberg Tv" group-title="Y.DIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/Bloomberg-TV-Asia-min.png",Bloomberg Tv (Eng)
+#EXTINF:-1 tvg-id="Bloomberg Tv" tvg-name="Bloomberg Tv" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/Bloomberg-TV-Asia-min.png",Bloomberg Tv (Eng)
 https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
-#EXTINF:-1 tvg-id="Euro News" tvg-name="Euro News" group-title="Y.DIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2022/08/euro-news-english-live-vipotv-england.png",Euro News (Eng)
+#EXTINF:-1 tvg-id="Euro News" tvg-name="Euro News" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2022/08/euro-news-english-live-vipotv-england.png",Euro News (Eng)
 https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="Rakuten Tv" tvg-name="Rakuten Tv" group-title="Y.DIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2023/05/Rakuten-TV-live-vipotv-england.png",Rakuten Tv (Eng)
+#EXTINF:-1 tvg-id="Rakuten Tv" tvg-name="Rakuten Tv" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2023/05/Rakuten-TV-live-vipotv-england.png",Rakuten Tv (Eng)
 https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6241/master.m3u8
+#EXTINF:-1 tvg-id="Anixe +" tvg-name="Anixe +" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/anixe-tv-vipotv-min.png",Anixe + (Ger)
+https://ma.anixa.tv/clips/stream/anixesd/index.m3u8
+#EXTINF:-1 tvg-id="Anixe HD Serie" tvg-name="Anixe HD Serie" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/anixe-tv-vipotv-min.png",Anixe HD Serie (Ger)
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+#EXTINF:-1 tvg-id="ARD Alpha" tvg-name="ARD Alpha" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2024/07/ARD-Alpha-live-vipotv.png",ARD Alpha (Ger)
+https://mcdn.br.de/br/fs/ard_alpha/hls/int/master.m3u8
+#EXTINF:-1 tvg-id="Baden Tv" tvg-name="Baden Tv" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/baden-tv.png",Baden Tv (Ger)
+https://cdn.icu.de/rtplive/smil:btv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ARD 1" tvg-name="ARD 1" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/1das-este-min.png",ARD 1 (Ger)
+https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+#EXTINF:-1 tvg-id="Deluxe Music" tvg-name="Deluxe Music" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2024/07/Deluxe-Music-live-vipotv.png",Deluxe Music (Ger)
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-id="DW Deutsch" tvg-name="DW Deutsch" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/dw-d-vipotv-min.png",DW Deutsch (Ger)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="MDF 1" tvg-name="MDF 1" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/MDF-1-live-vipotv.png",MDF 1 (Ger)
+https://h056.video-stream-hosting.de/medienasa-live/_definst_/mdf1_high/playlist.m3u8
+#EXTINF:-1 tvg-id="WDR TV" tvg-name="WDR TV" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/wdrfernsehen-min.png",WDR TV (Ger)
+https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8
