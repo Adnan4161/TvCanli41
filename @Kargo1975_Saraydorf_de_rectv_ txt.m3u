@@ -75,6 +75,8 @@ https://proud-river-e20b.pantonum1.workers.dev/lovenature.m3u8
 https://saran-live.ercdn.net/natgeohd/index.m3u8
 #EXTINF:-1 tvg-id="Natgeowild" tvg-name="Natgeowild" group-title="BELGESEL" tvg-logo="https://avatars.mds.yandex.net/i?id=c33008f4627c5248a57c03648349c9cf3207fd9a-4395607-images-thumbs&n=13",Natgeo Wild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
+#EXTINF:-1 tvg-id="B Gurme" tvg-name="B Gurme" group-title="BELGESEL" tvg-logo="https://vectorseek.com/wp-content/uploads/2024/02/bein-gurme-Logo-Vector.svg-.png",B Gurme (v)
+https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 tvg-id="Tarım Tv" tvg-name="Tarım Tv" group-title="BELGESEL" tvg-logo="https://haberhd.com/upload/tv/k_tarim-tv-logo_20240813141133.jpeg",Tarım Tv
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
 #EXTINF:-1 tvg-id="Agro Tv" tvg-name="Agro Tv" group-title="BELGESEL" tvg-logo="https://agrotvcomtr.teimg.com/agrotv-com-tr/uploads/2024/09/100x400-1.png",AgroTv
