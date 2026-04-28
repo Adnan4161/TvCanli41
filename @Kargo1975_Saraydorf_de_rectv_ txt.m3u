@@ -102,7 +102,7 @@ https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1 tvg-id="Bloomberght" tvg-name="Bloomberght" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/bloomberg-ht-tr.png",Bloomberght
 https://www.canlitv.tech/hls/bloomberght.m3u8
 #EXTINF:-1 tvg-id="Akit Tv" tvg-name="Akit Tv" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/akit-tv-tr.png",Akit Tv
-https://www.canlitv.tech/hls/akittv.m3u8
+https://cdn900.tvkulesi.com/akittv.m3u8?tkn=-oie5wsYa-0JlcAVgXO4iw&tms=1777377783&hst=amp.tvkulesi.com&ip=176.33.68.51&utkn=863b4366b23e24d18e8b8867b6be64f9&ch=akit-tv
 #EXTINF:-1 tvg-id="Tgrt Haber" tvg-name="Tgrt Haber" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/tgrt-haber-tr.png",Tgrt Haber
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
 #EXTINF:-1 tvg-id="Tv 100" tvg-name="Tv 100" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/tv100-tr.png",Tv 100
