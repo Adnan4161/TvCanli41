@@ -167,6 +167,8 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1 tvg-id="Bi Kanal" tvg-name="Bi Kanal" group-title="SPOR" tvg-logo="https://yt3.googleusercontent.com/4YCt21qCi-6kw6DpxuqhvHYekgnOeaSP01VBQSiINXXTM9x1FtQBkClgatnf0kkYSbk7yWkH=s900-c-k-c0x00ffffff-no-rj",Bi Kanal
 https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
+#EXTINF:-1 tvg-id="Sıfır Tv" tvg-name="Sıfır Tv" group-title="SPOR" tvg-logo="https://www.sifirtv.com/sifir-tv-logo.png",Sıfır Tv (v)
+https://huhu.to/vavoo-iptv/play/2611296981b853ec9139b6
 #EXTINF:-1 tvg-id="S Sport 1" tvg-name="S Sport 1" group-title="SPOR" tvg-logo="https://tvlogolar.xyz/europa/turkey/ssport1.png",S Sport 1
 https://tinyurl.com/Fiat-linea-multijet/yula/ceydus1.m3u8
 #EXTINF:-1 tvg-id="S Sport 1" tvg-name="S Sport 1" group-title="SPOR" tvg-logo="https://tvlogolar.xyz/europa/turkey/ssport1.png",S Sport 1 (v)
@@ -189,8 +191,8 @@ https://api.hitnova.net/s/sms2/mono.m3u8
 https://betconnectstreamserver1001.site/beinsportshaber/mono.m3u8
 #EXTINF:-1 tvg-id="Bilardo Tv" tvg-name="Bilardo Tv" group-title="SPOR" tvg-logo="https://www.freelivesports.tv/wp-content/uploads/2021/07/billiard-logo-sml.png",Bilardo Tv
 https://bbb-billi-amagi.otteravision.com/bbb/billi/billi.m3u8
-#EXTINF:-1 tvg-id="Sports Tv" tvg-name="Sports Tv" group-title="SPOR" tvg-logo="https://tvlogolar.xyz/europa/turkey/sportstv.png",Sports Tv
-https://www.canlitv.tech/hls/sportstv.m3u8
+#EXTINF:-1 tvg-id="Sports Tv" tvg-name="Sports Tv" group-title="SPOR" tvg-logo="https://tvlogolar.xyz/europa/turkey/sportstv.png",Sports Tv (v)
+https://huhu.to/vavoo-iptv/play/3422827985f7ff6e82532a
 #EXTINF:-1 tvg-id="Tjk Tv" tvg-name="Tjk Tv" group-title="SPOR" tvg-logo="https://tvlogolar.xyz/europa/turkey/tjktv.png",Tjk Tv
 https://tjktv-live.tjk.org/tjktv/tjktv_480p.m3u8
 #EXTINF:-1 tvg-id="Eurosport1" tvg-name="Eurosport 1" group-title="SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/cd/Logo_Eurosport.svg/250px-Logo_Eurosport.svg.png",Eurosport 1
