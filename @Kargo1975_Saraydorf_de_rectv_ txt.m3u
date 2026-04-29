@@ -29,8 +29,12 @@ https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=tv8_web
 https://huhu.to/vavoo-iptv/play/2196709234badbc159d5a2
 #EXTINF:-1 tvg-id="TV85" tvg-name="TV85" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/tv85-tr.png",TV8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3&ppid=ee1b3f41775e58db9a2819d5853efc22
+#EXTINF:-1 tvg-id="TV85" tvg-name="TV85" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/tv85-tr.png",TV8.5 (v)
+https://huhu.to/vavoo-iptv/play/19082658164debc10cdc44
 #EXTINF:-1 tvg-id="TV 5" tvg-name="TV 5" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/tv5-tr.png",TV 5
 https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
+#EXTINF:-1 tvg-id="TV 5" tvg-name="TV 5" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/tv5-tr.png",TV 5 (v)
+https://huhu.to/vavoo-iptv/play/12213538441d78d3ba3c7
 #EXTINF:-1 tvg-id="Trt Genç" tvg-name="Trt Genç" group-title="ULUSAL" tvg-logo="https://i.ibb.co/Qv5vKtxS/trt-gen.png",Trt Genç
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Trt 2" tvg-name="Trt 2" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt-2-tr.png",Trt 2
