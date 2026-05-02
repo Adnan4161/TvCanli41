@@ -151,6 +151,8 @@ https://huhu.to/vavoo-iptv/play/24669057008c1d07812ce0
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1 tvg-id="Halktv" tvg-name="Halktv" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/halktv.png",Halktv (v)
 https://huhu.to/vavoo-iptv/play/17719991006aa1a0ebf68a
+#EXTINF:-1 tvg-id="Haber Global" tvg-name="Haber Global" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Haber_Global_logo.svg/1280px-Haber_Global_logo.svg.png",Haber Global
+https://cdn505.tvkulesi.com/haberglobal.m3u8?tkn=i4CNBgofFBLegLT4to1-bQ&tms=1777759072&hst=amp.tvkulesi.com&ip=176.33.65.102&utkn=863b4366b23e24d18e8b8867b6be64f9&ch=haber-global
 #EXTINF:-1 tvg-id="Tele1" tvg-name="Tele1" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/tele1-tr.png",Tele1
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1 tvg-id="Tele1" tvg-name="Tele1" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/tele1-tr.png",Tele1 (v)
@@ -333,8 +335,8 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #EXTINF:-1 tvg-id="Baby Tv" tvg-name="Baby Tv" group-title="ÇOCUK" tvg-logo="https://tvlogolar.xyz/europa/turkey/babytv.png",Baby Tv
 https://saran-live.ercdn.net/babytv/index.m3u8
-#EXTINF:-1 tvg-id="Test Tv" tvg-name="Test Tv" group-title="ÇOCUK" tvg-logo="https://www.clipmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png",TestTv
-https://cdn505.tvkulesi.com/haberglobal.m3u8?tkn=i4CNBgofFBLegLT4to1-bQ&tms=1777759072&hst=amp.tvkulesi.com&ip=176.33.65.102&utkn=863b4366b23e24d18e8b8867b6be64f9&ch=haber-global
+#EXTINF:-1 tvg-id="Test Tv" tvg-name="Test Tv" group-title="ÇOCUK" tvg-logo="https://www.clipmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png",Test Tv
+http://ataktvm3u.atakan-1983.workers.dev/sozcu
 #EXTINF:-1 tvg-id="Test Tv" tvg-name="Test Tv" group-title="ÇOCUK" tvg-logo="https://www.clipmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png",Test Tv2
 hhttps://ataktvm3u.atakan-1983.workers.dev/szctv
 #EXTINF:-1 tvg-id="Dizi Tv" tvg-name="Dizi Tv" group-title="SİNEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d5/Dizi_TV_logosu.jpg",Dizi Tv
