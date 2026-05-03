@@ -151,8 +151,8 @@ https://huhu.to/vavoo-iptv/play/24669057008c1d07812ce0
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
 #EXTINF:-1 tvg-id="Halktv" tvg-name="Halktv" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/halktv.png",Halktv (v)
 https://huhu.to/vavoo-iptv/play/17719991006aa1a0ebf68a
-#EXTINF:-1 tvg-id="Haber Global" tvg-name="Haber Global" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Haber_Global_logo.svg/1280px-Haber_Global_logo.svg.png",Haber Global
-https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:-1 tvg-id="Haber Global" tvg-name="Haber Global" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Haber_Global_logo.svg/1280px-Haber_Global_logo.svg.png",Haber Global (v)
+https://huhu.to/vavoo-iptv/play/1224377838995614ed0843
 #EXTINF:-1 tvg-id="Tele1" tvg-name="Tele1" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/tele1-tr.png",Tele1
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1 tvg-id="Tele1" tvg-name="Tele1" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/tele1-tr.png",Tele1 (v)
