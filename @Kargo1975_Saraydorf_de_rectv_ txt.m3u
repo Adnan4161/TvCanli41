@@ -194,7 +194,7 @@ https://proud-river-e20b.pantonum1.workers.dev/sinema.m3u8
 #EXTINF:-1 tvg-id="Sinematv2" tvg-name="Sinematv2" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-tv-tr.png",Sinema Tv 2
 https://proud-river-e20b.pantonum1.workers.dev/sinema2.m3u8
 #EXTINF:-1 tvg-id="Sinema1001" tvg-name="Sinema1001" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-1001-tr.png",Sinema1001
-http://cdn.tvheryerde.workers.dev/ID=2602
+https://proud-river-e20b.pantonum1.workers.dev/sinema1001.m3u8
 #EXTINF:-1 tvg-id="Sinema1002" tvg-name="Sinema1002" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-1002-tr.png",Sinema1002
 https://proud-river-e20b.pantonum1.workers.dev/sinema1002.m3u8
 #EXTINF:-1 tvg-id="Fx" tvg-name="Fx" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/fx-tr.png",Fx
