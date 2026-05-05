@@ -107,6 +107,8 @@ https://saran-live.ercdn.net/natgeowild/index.m3u8
 https://huhu.to/vavoo-iptv/play/361703541447c2d8cea904
 #EXTINF:-1 tvg-id="B IZ" tvg-name="B IZ" group-title="BELGESEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREm1Dd1REwtBZimALVwgoOU3ztrctvO0lK1A&s",B IZ (v)
 https://huhu.to/vavoo-iptv/play/16912230784a73b11d66ed
+#EXTINF:-1 tvg-id="Bizim Ev" tvg-name="Bizim Ev" group-title="BELGESEL" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2025/09/bizim-ev-tv.webp",Bizim Ev
+http://live.yt-hls.workers.dev/UCIHMK8qtjB_GNuXmeex6i8g.m3u8
 #EXTINF:-1 tvg-id="Tarım Tv" tvg-name="Tarım Tv" group-title="BELGESEL" tvg-logo="https://haberhd.com/upload/tv/k_tarim-tv-logo_20240813141133.jpeg",Tarım Tv
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
 #EXTINF:-1 tvg-id="Agro Tv" tvg-name="Agro Tv" group-title="BELGESEL" tvg-logo="https://agrotvcomtr.teimg.com/agrotv-com-tr/uploads/2024/09/100x400-1.png",AgroTv
