@@ -164,6 +164,8 @@ https://huhu.to/vavoo-iptv/play/1025979520ee1c8a3dc728
 https://www.canlitv.tech/hls/bloomberght.m3u8
 #EXTINF:-1 tvg-id="Bloomberght" tvg-name="Bloomberght" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/bloomberg-ht-tr.png",Bloomberght (v)
 https://huhu.to/vavoo-iptv/play/236989031b5bce3e87ca9
+#EXTINF:-1 tvg-id="Akit Tv" tvg-name="Akit Tv" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/akit-tv-tr.png",Akit Tv
+http://152.67.4.22/GLTurk.php?ID=AKiT_HD
 #EXTINF:-1 tvg-id="Akit Tv" tvg-name="Akit Tv" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/akit-tv-tr.png",Akit Tv (v)
 https://huhu.to/vavoo-iptv/play/194868101172e4362de24e
 #EXTINF:-1 tvg-id="Tgrt Haber" tvg-name="Tgrt Haber" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/tgrt-haber-tr.png",Tgrt Haber
