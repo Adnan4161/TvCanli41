@@ -391,6 +391,8 @@ https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8
 https://edge.kuzeykibrissmart.tv/brt2hd/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Bbc News" tvg-name="Bbc News" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2022/08/BBC-World-News-live-vipotv-england.png",Bbc News (Eng)
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1 tvg-id="Cnn Int" tvg-name="Cnn Int" group-title="YURTDIŞI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/CNN_Logo_%282014%29.svg",Cnn Int (Eng)
+http://79.76.41.101/Heryerde.php?ID=3005
 #EXTINF:-1 tvg-id="Bloomberg Tv" tvg-name="Bloomberg Tv" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/Bloomberg-TV-Asia-min.png",Bloomberg Tv (Eng)
 https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
 #EXTINF:-1 tvg-id="Euro News" tvg-name="Euro News" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2022/08/euro-news-english-live-vipotv-england.png",Euro News (Eng)
