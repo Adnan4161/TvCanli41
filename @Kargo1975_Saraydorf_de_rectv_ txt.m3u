@@ -368,6 +368,8 @@ https://tv.gunaz.tv/hls/live.m3u8
 https://str.yodacdn.net/medeniyyettele/index.m3u8
 #EXTINF:-1 tvg-id="Show Plus Tv" tvg-name="Show Plus Tv" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2024/05/Show-Plus-TV-canli-izle-vipotv.png",Show Plus Tv (Az)
 https://rtmp.showplus.tv/hls/myshow.m3u8
+#EXTINF:-1 tvg-id="S Tv" tvg-name="S Tv" group-title="YURTDIŞI" tvg-logo="https://i.ibb.co/6Jcj8szS/s-tv.jpg",S Tv (Az)
+https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 #EXTINF:-1 tvg-id="Brt1" tvg-name="Brt1" group-title="YURTDIŞI" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/BRT-HD.png",Brt1 (Kktc)
 https://edge.kuzeykibrissmart.tv/brt1hd/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Brt2" tvg-name="Brt2" group-title="YURTDIŞI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/BRT_2_%282014-g%C3%BCn%C3%BCm%C3%BCz%29.png",Brt2 (Kktc)
