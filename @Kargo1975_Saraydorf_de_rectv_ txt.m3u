@@ -263,6 +263,8 @@ https://huhu.to/vavoo-iptv/play/37466838109fc1c67c228d
 https://api.hitnova.net/s/smarts/mono.m3u8
 #EXTINF:-1 tvg-id="Spor Smart 2" tvg-name="Spor Smart 2" group-title="SPOR" tvg-logo="https://tvlogolar.xyz/europa/turkey/sporsmart2.png",Spor Smart 2
 https://api.hitnova.net/s/sms2/mono.m3u8
+#EXTINF:-1 tvg-id="Beinsports Haber" tvg-name="Beinsports Haber" group-title="SPOR" tvg-logo="https://tvlogolar.xyz/europa/turkey/beinsportshaber.png",Beinsports Haber
+http://79.76.41.101/Heryerde.php?ID=2114
 #EXTINF:-1 tvg-id="Beinsports Haber" tvg-name="Beinsports Haber" group-title="SPOR" tvg-logo="https://tvlogolar.xyz/europa/turkey/beinsportshaber.png",Beinsports Haber (v)
 https://huhu.to/vavoo-iptv/play/3989995533d0efea1c8696
 #EXTINF:-1 tvg-id="Bilardo Tv" tvg-name="Bilardo Tv" group-title="SPOR" tvg-logo="https://www.freelivesports.tv/wp-content/uploads/2021/07/billiard-logo-sml.png",Bilardo Tv
