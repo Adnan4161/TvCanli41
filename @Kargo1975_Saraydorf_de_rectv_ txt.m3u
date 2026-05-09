@@ -241,6 +241,8 @@ https://huhu.to/vavoo-iptv/play/22528142332d275721233
 https://andro.226503.xyz/checklist/androstreamliveexn5.m3u8
 #EXTINF:-1 tvg-id="Net Spor Box Office" tvg-name="Net Spor Box Office" group-title="SPOR" tvg-logo="https://i.ibb.co/x8Gb2D3w/net-spor.png",Net Spor Box Office
 hhttp://152.67.4.22/vavoTV.php?ID=132036385097914b13e539
+#EXTINF:-1 tvg-id="Net Spor IZ" tvg-name="Net Spor IZ" group-title="SPOR" tvg-logo="https://i.ibb.co/x8Gb2D3w/net-spor.png",Net Spor IZ
+https://andro.226503.xyz/checklist/androstreamliveexn6.m3u8
 
 #EXTINF:-1 tvg-id="Trt Spor" tvg-name="Trt Spor" group-title="SPOR" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt-spor-tr.png",Trt Spor
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
