@@ -366,14 +366,14 @@ https://huhu.to/vavoo-iptv/play/1174108535f425095f15a6
 https://edge.taksimbilisim.com/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Brüksel Türk TV" tvg-name="Brüksel Türk TV" group-title="HABER" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/brukselturktv.png",Brüksel Türk TV
 https://live.euromediacenter.com/brukselturk/index.m3u8
-#EXTINF:-1 tvg-id="B Series Drama" tvg-name="B Series Drama" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/bein-series-drama-hd-tr.png",B Series Drama
-hhttps://proud-river-e20b.pantonum1.workers.dev/bsdrama.m3u8
+#EXTINF:-1 tvg-id="B Box Office 1" tvg-name="B Box Office 1" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/bein-box-office-1-tr.png",B Box Office 1 (v)
+https://huhu.to/vavoo-iptv/play/29307461023dd1f85985b0
 #EXTINF:-1 tvg-id="B Movies Family" tvg-name="B Movies Family" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/bein-movies-family-hd-tr.png",B Movies Family
 http://152.67.4.22/vavoTV.php?ID=24851991523ab5180680ed
-#EXTINF:-1 tvg-id="B Movies Premier" tvg-name="B Movies Premier" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/bein-movies-premiere-hd-tr.png",B Movies Premier
-hhttps://proud-river-e20b.pantonum1.workers.dev/bspremier1.m3u8
-#EXTINF:-1 tvg-id="B Movies Türk" tvg-name="B Movies Türk" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/bein-movies-turk-hd-tr.png",B Movies Türk
-hhttps://proud-river-e20b.pantonum1.workers.dev/bsturk.m3u8
+#EXTINF:-1 tvg-id="B Stars" tvg-name="B Stars" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/bein-movies-stars-hd-tr.png",B Stars (v)
+https://huhu.to/vavoo-iptv/play/19637487849304979bfdcb
+#EXTINF:-1 tvg-id="B Movies Türk" tvg-name="B Movies Türk" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/bein-movies-turk-hd-tr.png",B Movies Türk (v)
+https://huhu.to/vavoo-iptv/play/33905759489e0915a21ca8
 #EXTINF:-1 tvg-id="Epic Drama" tvg-name="Epic Drama" group-title="SİNEMA" tvg-logo="https://image.pngaaa.com/398/2715398-middle.png",Epic Drama
 http://79.76.41.101/Heryerde.php?ID=2802
 #EXTINF:-1 group-title="SİNEMA" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/B/IQ/246150/logo.png",MovieSmart Classic
