@@ -308,6 +308,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 http://79.76.41.101/Heryerde.php?ID=2709
 #EXTINF:-1 group-title="SPOR" tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/0/0/Vod/HLS/eacbf9b8-9c4c-490b-b462-f3656a6aa833.png",Cosmo Sports
 http://79.76.41.101/Heryerde.php?ID=3504
+#EXTINF:-1 tvg-id="TNA Wrestling Channel" tvg-name="TNA Wrestling Channel" group-title="SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/35/TNA-logo-June-2024-v2.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",TNA Wrestling Channel
+https://amg00966-amg00966c1-freelivesports-emea-7712.playouts.now.amagi.tv/playlist/amg00966-anthem-tnawrestling-freelivesportsemea/playlist.m3u8
 #EXTINF:-1 tvg-id="Fight Network" tvg-name="Fight Network" group-title="SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1280px-Fight_network_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",Fight Network
 https://amg00966-amg00966c10-amgplt0201.playout.now3.amagi.tv/playlist/amg00966-amg00966c10-amgplt0201/playlist.m3u8
 #EXTINF:-1 tvg-id="Strongman Tv" tvg-name="Strongman Tv" group-title="SPOR" tvg-logo="https://ih1.redbubble.net/image.3177021482.1687/fposter,small,wall_texture,square_product,600x600.jpg",Strongman Tv
