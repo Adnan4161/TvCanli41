@@ -191,6 +191,10 @@ http://79.76.41.101/Go.php?ID=246204
 https://nord.ayakkabiparti.lol/sinemaaksiyon/index.m3u8
 #EXTINF:-1 tvg-id="Sinemaaksiyon2" tvg-name="Sinemaaksiyon2" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aksiyon-tr.png",Sinema Aksiyon 2
 https://nord.ayakkabiparti.lol/sinemaaksiyon2/index.m3u8
+#EXTINF:-1 tvg-id="Sinema Yerli" tvg-name="Sinema Yerli" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-yerli-tr.png",Sinema Yerli
+https://nord.ayakkabiparti.lol/sinemayerli/index.m3u8?token=BF0rEit1gRv96ks_7WF4wA&tms=1778944192
+#EXTINF:-1 tvg-id="Sinema Yerli2" tvg-name="Sinema Yerli2" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-yerli2-tr.png",Sinema Yerli 2
+https://nord.ayakkabiparti.lol/sinemayerli2/index.m3u8?token=BF0rEit1gRv96ks_7WF4wA&tms=1778944192
 #EXTINF:-1 tvg-id="Sinemakomedi" tvg-name="Sinemakomedi" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-komedi-tr.png",Sinema Komedi
 https://nord.ayakkabiparti.lol/sinemakomedi/index.m3u8
 #EXTINF:-1 tvg-id="Sinematv" tvg-name="Sinematv" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-tv-tr.png",Sinema Tv
