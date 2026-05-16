@@ -186,7 +186,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c05
 #EXTINF:-1 tvg-id="Flash Haber" tvg-name="Flash Haber" group-title="HABER" tvg-logo="https://flashhabertv.com.tr/assets/img/logo-v4.png",Flash Haber (v)
 https://huhu.to/vavoo-iptv/play/20273310967517aba18b29
 #EXTINF:-1 tvg-id="Sinemaaile" tvg-name="Sinemaaile" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aile-tr.png",Sinema Aile
-http://79.76.41.101/Go.php?ID=246204
+https://nord.ayakkabiparti.lol/sinemaaile/index.m3u8
 #EXTINF:-1 tvg-id="Sinemaaksiyon" tvg-name="Sinemaaksiyon" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aksiyon-tr.png",Sinema Aksiyon
 https://nord.ayakkabiparti.lol/sinemaaksiyon/index.m3u8
 #EXTINF:-1 tvg-id="Sinemaaksiyon2" tvg-name="Sinemaaksiyon2" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aksiyon-tr.png",Sinema Aksiyon 2
@@ -202,9 +202,9 @@ https://nord.ayakkabiparti.lol/sinema/index.m3u8
 #EXTINF:-1 tvg-id="Sinematv2" tvg-name="Sinematv2" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-tv-tr.png",Sinema Tv 2
 https://nord.ayakkabiparti.lol/sinema1002/index.m3u8
 #EXTINF:-1 tvg-id="Sinema1001" tvg-name="Sinema1001" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-1001-tr.png",Sinema1001
-http://79.76.41.101/Go.php?ID=246216
+https://nord.ayakkabiparti.lol/sinema1001/index.m3u8
 #EXTINF:-1 tvg-id="Sinema1002" tvg-name="Sinema1002" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-1002-tr.png",Sinema1002
-http://79.76.41.101/Go.php?ID=246219
+https://nord.ayakkabiparti.lol/sinema1002/index.m3u8
 #EXTINF:-1 tvg-id="Fx" tvg-name="Fx" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/fx-tr.png",Fx
 https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 tvg-id="Net Spor" tvg-name="Net Spor" group-title="SPOR" tvg-logo="https://i.ibb.co/x8Gb2D3w/net-spor.png",Net Spor 1
