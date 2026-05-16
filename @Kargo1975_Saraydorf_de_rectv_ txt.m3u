@@ -188,9 +188,9 @@ https://huhu.to/vavoo-iptv/play/20273310967517aba18b29
 #EXTINF:-1 tvg-id="Sinemaaile" tvg-name="Sinemaaile" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aile-tr.png",Sinema Aile
 http://79.76.41.101/Go.php?ID=246204
 #EXTINF:-1 tvg-id="Sinemaaksiyon" tvg-name="Sinemaaksiyon" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aksiyon-tr.png",Sinema Aksiyon
-http://79.76.41.101/Go.php?ID=246201
+https://nord.ayakkabiparti.lol/sinemaaksiyon/index.m3u8
 #EXTINF:-1 tvg-id="Sinemaaksiyon2" tvg-name="Sinemaaksiyon2" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aksiyon-tr.png",Sinema Aksiyon 2
-http://79.76.41.101/Go.php?ID=246198
+https://nord.ayakkabiparti.lol/sinemaaksiyon2/index.m3u8
 #EXTINF:-1 tvg-id="Sinemakomedi" tvg-name="Sinemakomedi" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-komedi-tr.png",Sinema Komedi
 http://79.76.41.101/Go.php?ID=246210
 #EXTINF:-1 tvg-id="Sinematv" tvg-name="Sinematv" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-tv-tr.png",Sinema Tv
