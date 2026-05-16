@@ -116,7 +116,7 @@ https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
 #EXTINF:-1 tvg-id="Agro Tv" tvg-name="Agro Tv" group-title="BELGESEL" tvg-logo="https://agrotvcomtr.teimg.com/agrotv-com-tr/uploads/2024/09/100x400-1.png",AgroTv
 https://www.canlitv.tech/hls/agrotv.m3u8
 #EXTINF:-1 tvg-id="Çiftçi Tv" tvg-name="Çiftçi Tv" group-title="BELGESEL" tvg-logo="https://tvlogolar.xyz/europa/turkey/ciftcitv.png",Çiftçi Tv
-https://www.canlitv.tech/hls/ciftcitv.m3u8
+https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
 #EXTINF:-1 tvg-id="Antik Çağda Uzaylılar (Ancient Aliens)" tvg-name="Antik Çağda Uzaylılar (Ancient Aliens)" group-title="BELGESEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzh-BVOfPPyZPZe0X7fy0K3026Uu2nDEd4yw&s",Antik Çağda Uzaylılar (Ancient Aliens) 7/24
 https://aka-live1050.delivery.roku.com/b8e37b4a-9483-4f8c-a31e-92739379129c/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 tvg-id="TRTHaber" tvg-name="TRT Haber" group-title="HABER" tvg-logo="https://avatars.mds.yandex.net/i?id=8086718a2b361699906be423e94868c13676c6b8-12179478-images-thumbs&n=13",TRT Haber
