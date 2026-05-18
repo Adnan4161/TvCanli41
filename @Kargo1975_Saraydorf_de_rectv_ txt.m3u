@@ -386,6 +386,8 @@ https://huhu.to/vavoo-iptv/play/1174108535f425095f15a6
 https://edge.taksimbilisim.com/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Brüksel Türk TV" tvg-name="Brüksel Türk TV" group-title="HABER" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/brukselturktv.png",Brüksel Türk TV
 https://live.euromediacenter.com/brukselturk/index.m3u8
+#EXTINF:-1 tvg-id="B Box Office 1" tvg-name="B Box Office 1" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/bein-box-office-1-tr.png",B Box Office 1
+https://cr.denek1544.workers.dev/izle/bsboxoffice1-70.m3u8
 #EXTINF:-1 tvg-id="B Box Office 1" tvg-name="B Box Office 1" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/bein-box-office-1-tr.png",B Box Office 1 (v)
 https://huhu.to/vavoo-iptv/play/29307461023dd1f85985b0
 #EXTINF:-1 tvg-id="B Movies Premier 2" tvg-name="B Movies Premier 2" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/bein-movies-premiere-2-hd-tr.png",B Movies Premier 2
