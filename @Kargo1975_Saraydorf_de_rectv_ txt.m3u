@@ -428,8 +428,8 @@ https://saran-live.ercdn.net/disneyjunior/index.m3u8
 https://saran-live.ercdn.net/babytv/index.m3u8
 #EXTINF:-1 tvg-id="Keloğlan Tv" tvg-name="Keloğlan Tv" group-title="ÇOCUK" tvg-logo="https://cdn.sinemalar.com/images/movie/239576/poster/keloglan-1459206993.jpg",Keloğlan Tv (v)
 https://huhu.to/vavoo-iptv/play/4644476933bb028f5c20f
-#EXTINF:-1 tvg-id="Test Tv" tvg-name="Test Tv" group-title="ÇOCUK" tvg-logo="https://www.clipmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png",Test Tv
-http://localhost/Dady.php?ID=62
+#EXTINF:-1 tvg-id="Test Tv" tvg-name="Test Tv" group-title="ÇOCUK" tvg-logo="https://www.clipmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png",TestTv
+https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8_1080p.m3u8
 #EXTINF:-1 tvg-id="Test Tv" tvg-name="Test Tv" group-title="ÇOCUK" tvg-logo="https://www.clipmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png",Test Tv2
 hhttps://ataktvm3u.atakan-1983.workers.dev/szctv
 #EXTINF:-1 tvg-id="Dizi Tv" tvg-name="Dizi Tv" group-title="SİNEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d5/Dizi_TV_logosu.jpg",Dizi Tv
