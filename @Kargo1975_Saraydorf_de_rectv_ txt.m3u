@@ -24,7 +24,7 @@ https://yakala.atakann.workers.dev/?url=https://www.nowtv.com.tr/canli-yayin&ext
 #EXTINF:-1 tvg-id="Now" tvg-name="Now" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/nowtv.png",Now (v)
 https://huhu.to/vavoo-iptv/play/919108696a1b98997373b
 #EXTINF:-1 tvg-id="TV8" tvg-name="TV8" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/tv8-tr.png",TV 8
-https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=tv8_web
+https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivetv8.m3u8
 #EXTINF:-1 tvg-id="TV8" tvg-name="TV8" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/tv8-tr.png",TV 8 (v)
 https://huhu.to/vavoo-iptv/play/1662562034e8a914e62dce
 #EXTINF:-1 tvg-id="TV85" tvg-name="TV85" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/tv85-tr.png",TV8.5
