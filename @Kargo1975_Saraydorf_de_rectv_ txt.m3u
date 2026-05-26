@@ -349,8 +349,11 @@ https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95
 https://lbl.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-1 group-title="DİNİ" tvg-logo="https://ginikoturkish.com/channels/logo/dost-tv.jpg",Dost TV
 https://dost.stream.emsal.im/tv/live.m3u8
+#EXTINF:-1 group-title="DİNİ" tvg-logo="https://www.on4.com.tr/imgs/280x100x2/on4-logo.png",On4 TV
+https://edge.taksimbilisim.com/on4/bant1/playlist.m3u8
 #EXTINF:-1 group-title="DİNİ" tvg-logo="https://www.batitrakya.org/wp-content/uploads/2015/01/medine-tv.jpg",Medine TV
 https://www.canlitv.tech/hls/medinetv.m3u8
+
 
 #EXTINF:-1 tvg-id="trtmuzik" tvg-name="trtmuzik" group-title="MÜZİK" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt-muzik-tr.png",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
