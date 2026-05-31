@@ -303,7 +303,7 @@ https://api.hitnova.net/s/smarts/mono.m3u8
 #EXTINF:-1 tvg-id="Spor Smart 2" tvg-name="Spor Smart 2" group-title="SPOR" tvg-logo="https://tvlogolar.xyz/europa/turkey/sporsmart2.png",Spor Smart 2
 https://api.hitnova.net/s/sms2/mono.m3u8
 #EXTINF:-1 tvg-id="Beinsports Haber" tvg-name="Beinsports Haber" group-title="SPOR" tvg-logo="https://tvlogolar.xyz/europa/turkey/beinsportshaber.png",Beinsports Haber
-http://87.121.104.29:1071/bshaberyt/stream.m3u8?token=c86a7b188f1f5ef0e283f3d4751896f9
+http://62.182.82.238/sunshine/_XV_cSvW9suGMFmm8ae3sRCgY3HDCD9UgUOQqq3Wo-zvu04SPb6pp0gz-8DrBgr2LyHyWvwWhWzwPI20KGeXfHit6uIaB-KabHE4A8AAznn69Foxq6Ejy05LUmcvzY5EDSZOLy8oeZSD5fS_D4suvKwpnyDKzJ-Y5KFQCMnJousZeZ4iWGofxuORNX_ixlvENFgFgVwjL9f8hQoz_4DMScaF59_3w_SyrTjNGFj51cA/hls/index.m3u8
 #EXTINF:-1 tvg-id="Beinsports Haber" tvg-name="Beinsports Haber" group-title="SPOR" tvg-logo="https://tvlogolar.xyz/europa/turkey/beinsportshaber.png",Beinsports Haber (v)
 https://huhu.to/vavoo-iptv/play/3989995533d0efea1c8696
 #EXTINF:-1 tvg-id="Bilardo Tv" tvg-name="Bilardo Tv" group-title="SPOR" tvg-logo="https://www.freelivesports.tv/wp-content/uploads/2021/07/billiard-logo-sml.png",Bilardo Tv
