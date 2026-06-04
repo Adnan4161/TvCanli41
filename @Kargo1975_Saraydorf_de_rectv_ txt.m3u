@@ -204,7 +204,7 @@ https://nord.ayakkabiparti.lol/sinemayerli2/index.m3u8?token=BF0rEit1gRv96ks_7WF
 #EXTINF:-1 tvg-id="Sinemakomedi" tvg-name="Sinemakomedi" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-komedi-tr.png",Sinema Komedi
 https://live.weinformers.com/wp-admin/admin-ajax.php?action=ucs_proxy_m3u8&url=http://65.108.239.207/sinemakomedi/index.m3u8
 #EXTINF:-1 tvg-id="Sinemakomedi2" tvg-name="Sinemakomedi2" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-komedi-tr.png",Sinema Komedi 2
-https://nord.ayakkabiparti.lol/sinemakomedi/index.m3u8
+https://nord.ayakkabiparti.lol/sinemakomedi2/index.m3u8
 #EXTINF:-1 tvg-id="Sinematv" tvg-name="Sinematv" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-tv-tr.png",Sinema Tv
 https://live.weinformers.com/wp-admin/admin-ajax.php?action=ucs_proxy_m3u8&url=http://65.108.239.207/sinema/index.m3u8
 #EXTINF:-1 tvg-id="Sinematv2" tvg-name="Sinematv2" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-tv-tr.png",Sinema Tv 2
