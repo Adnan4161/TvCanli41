@@ -397,7 +397,7 @@ https://huhu.to/vavoo-iptv/play/292300494652c302afd5d5
 https://www.canlitv.tech/hls/ahaber.m3u8
 #EXTINF:-1 tvg-id="A Haber" tvg-name="A Haber" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png",A Haber (v)
 https://huhu.to/vavoo-iptv/play/1174108535f425095f15a6
-#EXTINF:-1 tvg-id="Ekol Tv" tvg-name="Ekol Tv" group-title="HABER" tvg-logo="https://scontent.fsaw1-13.fna.fbcdn.net/v/t39.30808-6/370510333_121232497733620_1868843866559955384_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=-1G5ZyizE9cQ7kNvwFjWjMi&_nc_oc=AdoRd5hX3OoRSo2gQegaaFy5EtH9HDJbCxIkHLC7pmh26gBCc64UhRalCzo2_i1vALM&_nc_zt=23&_nc_ht=scontent.fsaw1-13.fna&_nc_gid=qMbsqII48JmDYV89uD4oQg&_nc_ss=7a2a8&oh=00_Af8fDLZrGmo7l6lDPKP022XrCym2NOmUDVF_WrxnrX95xg&oe=6A26D861",Ekol Tv
+#EXTINF:-1 tvg-id="Ekol Tv" tvg-name="Ekol Tv" group-title="ULUSAL" tvg-logo="https://www.gidamo.org.tr/uploads/contents/2024-07-11-10-27-55-162495.png",Ekol Tv
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
 #EXTINF:-1 tvg-id="Türk Haber" tvg-name="Türk Haber" group-title="HABER" tvg-logo="https://www.turkhabertv.com/wp-content/uploads/2024/06/Logo164x50.png",Türk Haber
 https://edge.taksimbilisim.com/turkhaber/bant1/playlist.m3u8
