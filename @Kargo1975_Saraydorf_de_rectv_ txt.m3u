@@ -150,7 +150,7 @@ https://huhu.to/vavoo-iptv/play/387890889759c06a2c4da1
 #EXTINF:-1 tvg-id="İHA" tvg-name="İHA" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/39/%C4%B0HA_Logo.jpg",İHA
 https://live01.iha.tv/webabone/live/chunks.m3u8
 #EXTINF:-1 tvg-id="Cnn Türk" tvg-name="Cnn Türk" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/cnn-turk-tr.png",Cnn Türk
-https://cdn.tecostream.xyz/Cnn_Turk.m3u8
+https://cdn03.kablowebtv.net/live_turksat_sub3/cnnturk_stream/tracks-v1a1/mono.ts.m3u8?nimblesessionid=295826302&wmsAuthSign=c2VydmVyX3RpbWU9MDYvMTUvMjAyNiAwNDoxMzo0NCBQTSZoYXNoX3ZhbHVlPVdMNkhFYTBRY0dVcEpwQnZlL3ZBd1E9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD1jYjZmZGMwMi1iOGJlLTQ3MTYtYTZjYi1iZTEyYTg4YjdmMDksMzBhMzljOWUtYThkNi00YTAwLTk0MGYtMWMxMTg0ODNkNzEyLDdkMjU1MTFlLWE0NjMtNDY3MC1hY2RjLThiMWRkNThjMDliMywzRUY3NSwxNzYuMzMuNzEuMTQ1LDE3ODE1NTA4MjQmY2xpZW50X2lwPTE3Ni4zMy43MS4xNDUmY2hlY2tpcD10cnVl
 #EXTINF:-1 tvg-id="Cnn Türk" tvg-name="Cnn Türk" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/cnn-turk-tr.png",Cnn Türk (v)
 https://huhu.to/vavoo-iptv/play/28683185347b6a700744ac
 #EXTINF:-1 tvg-id="Sözcütv" tvg-name="Sözcü tv" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/sozcutv.png",Sözcü Tv
