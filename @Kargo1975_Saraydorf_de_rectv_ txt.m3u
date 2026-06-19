@@ -162,7 +162,7 @@ http://flussonic.izone.az:80/cnnturk/index.m3u8
 #EXTINF:-1 tvg-id="Cnn Türk" tvg-name="Cnn Türk" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/cnn-turk-tr.png",Cnn Türk (v)
 https://huhu.to/vavoo-iptv/play/28683185347b6a700744ac
 #EXTINF:-1 tvg-id="Sözcütv" tvg-name="Sözcü tv" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/sozcutv.png",Sözcü Tv
-https://nord.ayakkabiparti.lol/sozcutv/index.m3u8
+http://5.178.103.239:55/yt1/szctv.m3u8
 #EXTINF:-1 tvg-id="Sözcütv" tvg-name="Sözcü tv" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/sozcutv.png",Sözcü Tv (v)
 https://huhu.to/vavoo-iptv/play/24669057008c1d07812ce0
 #EXTINF:-1 tvg-id="Halktv" tvg-name="Halktv" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/halktv.png",Halktv
