@@ -444,7 +444,7 @@ https://saran-live.ercdn.net/babytv/index.m3u8
 #EXTINF:-1 tvg-id="Keloğlan Tv" tvg-name="Keloğlan Tv" group-title="ÇOCUK" tvg-logo="https://cdn.sinemalar.com/images/movie/239576/poster/keloglan-1459206993.jpg",Keloğlan Tv (v)
 https://huhu.to/vavoo-iptv/play/7506985355cc13fb952d5
 #EXTINF:-1 tvg-id="Test Tv" tvg-name="Test Tv" group-title="ÇOCUK" tvg-logo="https://www.clipmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png",TestTv
-http://89.187.179.148:826/anto.j/c9yJDcXyPe/119333
+http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:4E:C2:6F&stream=744&extension=ts
 #EXTINF:-1 tvg-id="Test Tv" tvg-name="Test Tv" group-title="ÇOCUK" tvg-logo="https://www.clipmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png",Test Tv2
 hhttps://aksacli-stream-api-dizi.vercel.app/yayin/benim-adim-aylamaz/s1b1?fmt=json
 #EXTINF:-1 tvg-id="Dizi Tv" tvg-name="Dizi Tv" group-title="SİNEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d5/Dizi_TV_logosu.jpg",Dizi Tv
