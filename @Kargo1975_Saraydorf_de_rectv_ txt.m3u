@@ -506,3 +506,9 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream04/strea
 https://h056.video-stream-hosting.de/medienasa-live/_definst_/mdf1_high/playlist.m3u8
 #EXTINF:-1 tvg-id="WDR TV" tvg-name="WDR TV" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/wdrfernsehen-min.png",WDR TV (Ger)
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="YouTube", TRT Haber
+https://www.youtube.com/@trthaber/live
+#EXTINF:-1 tvg-logo="LOGO_URL" group-title="YouTube", NTV
+https://www.youtube.com/@ntv/live
