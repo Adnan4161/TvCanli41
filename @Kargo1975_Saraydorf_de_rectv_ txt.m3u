@@ -507,7 +507,8 @@ https://h056.video-stream-hosting.de/medienasa-live/_definst_/mdf1_high/playlist
 #EXTINF:-1 tvg-id="WDR TV" tvg-name="WDR TV" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/wdrfernsehen-min.png",WDR TV (Ger)
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/tv100-tr.png" group-title="YOUTUBE", Tv 100
+https://www.youtube.com/watch?v=4WSvLRk83-c
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/b5VZGo1h1TUQMFkf-bkjT5gudh82TZErpVndci3AjKEuzzrY5GJIqE8t4IcA2Cc1roBvhQqyJ0a6GH0nEmQ-aFE" group-title="YOUTUBE", TRT Haber
 https://www.youtube.com/watch?v=vjNZVmImcxg
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="YOUTUBE", NTV
