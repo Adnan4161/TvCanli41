@@ -508,7 +508,7 @@ https://h056.video-stream-hosting.de/medienasa-live/_definst_/mdf1_high/playlist
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8
 
 
-#EXTINF:-1 tvg-logo="LOGO_URL" group-title="YouTube", TRT Haber
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/b5VZGo1h1TUQMFkf-bkjT5gudh82TZErpVndci3AjKEuzzrY5GJIqE8t4IcA2Cc1roBvhQqyJ0a6GH0nEmQ-aFE" group-title="YouTube", TRT Haber
 https://www.youtube.com/@trthaber/live
-#EXTINF:-1 tvg-logo="LOGO_URL" group-title="YouTube", NTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="YouTube", NTV
 https://www.youtube.com/@ntv/live
