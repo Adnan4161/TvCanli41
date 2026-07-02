@@ -507,6 +507,8 @@ https://h056.video-stream-hosting.de/medienasa-live/_definst_/mdf1_high/playlist
 #EXTINF:-1 tvg-id="WDR TV" tvg-name="WDR TV" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/wdrfernsehen-min.png",WDR TV (Ger)
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/cnn-turk-tr.png" group-title="YOUTUBE YAYINLARI", Cnn Türk
+https://www.youtube.com/watch?v=6N8_r2uwLEc
 #EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/sozcutv.png" group-title="YOUTUBE YAYINLARI", Sözcü Tv
 https://www.youtube.com/watch?v=ztmY_cCtUl0
 #EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/tv100-tr.png" group-title="YOUTUBE YAYINLARI", Tv 100
@@ -515,4 +517,5 @@ https://www.youtube.com/watch?v=4WSvLRk83-c
 https://www.youtube.com/watch?v=vjNZVmImcxg
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="YOUTUBE YAYINLARI", NTV
 https://www.youtube.com/@ntv/live
-
+#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/halktv.png" group-title="YOUTUBE YAYINLARI", Halk Tv
+https://www.youtube.com/watch?v=jHMsvYrf-UA
