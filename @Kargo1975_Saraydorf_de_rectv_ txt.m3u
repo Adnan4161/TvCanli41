@@ -523,6 +523,13 @@ https://www.youtube.com/watch?v=jHMsvYrf-UA
 https://www.youtube.com/watch?v=RNVNlJSUFoE
 #EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/haberglobal.png" group-title="YOUTUBE YAYINLARI", Haber Global
 https://www.youtube.com/watch?v=EqoCJ8BPxtE
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="YOUTUBE YAYINLARI", A Haber
+https://www.youtube.com/watch?v=jCoBWUqi6AI
+#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/tgrt-haber-tr.png" group-title="YOUTUBE YAYINLARI", Tgrt Haber
+https://www.youtube.com/watch?v=WX29nlgdqho
+#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/tvnet.png" group-title="YOUTUBE YAYINLARI", Tv Net
+https://www.youtube.com/watch?v=Z5bqy4gwEmc
+#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/a-spor-tr.png" group-title="YOUTUBE YAYINLARI", A Spor
+https://www.youtube.com/watch?v=egVX_YVCx3s
 #EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/showmax.png" group-title="YOUTUBE YAYINLARI", Show Max
 https://www.youtube.com/watch?v=Y3vGHFrsqrs
-
