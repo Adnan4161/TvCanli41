@@ -1,6 +1,6 @@
 #EXTM3U 
 #EXTINF:-1 tvg-id="Trt1" tvg-name="TRT 1" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt1.png",TRT 1
-https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?app=web&platform=trtspor
+https://tv-trt1.medya.trt.com.tr/master_1440.m3u8
 #EXTINF:-1 tvg-id="Trt1" tvg-name="TRT 1" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt1.png",TRT 1 (v)
 https://huhu.to/vavoo-iptv/play/1762199258e25181300f62
 #EXTINF:-1 tvg-id="Atv" tvg-name="ATV" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/atv-tr.png",ATV
@@ -267,7 +267,7 @@ hhttp://152.67.4.22/vavoTV.php?ID=132036385097914b13e539
 hhttps://andro.226503.xyz/checklist/androstreamliveexn6.m3u8
 
 #EXTINF:-1 tvg-id="Trt Spor" tvg-name="Trt Spor" group-title="SPOR" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt-spor-tr.png",Trt Spor
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+https://trt.daioncdn.net/trtspor-yildiz/master_1080p.m3u8?app=web&platform=trtspor
 #EXTINF:-1 tvg-id="Trt Spor" tvg-name="Trt Spor" group-title="SPOR" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt-spor-tr.png",Trt Spor (v)
 https://huhu.to/vavoo-iptv/play/22629699381f94fcd9dbe6
 #EXTINF:-1 tvg-id="Trt Spor Yıldız" tvg-name="Trt Spor Yıldız" group-title="SPOR" tvg-logo="https://tvlogolar.xyz/europa/turkey/trtsporyildiz.png",Trt Spor Yıldız
