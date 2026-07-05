@@ -202,7 +202,7 @@ https://huhu.to/vavoo-iptv/play/20273310967517aba18b29
 #EXTINF:-1 tvg-id="Sinemaaile" tvg-name="Sinemaaile" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aile-tr.png",Sinema Aile
 http://sup-4k.org/play/live.php?mac=00:1A:79:DC:71:A9&stream=196830&extension=ts
 #EXTINF:-1 tvg-id="Sinemaaksiyon" tvg-name="Sinemaaksiyon" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aksiyon-tr.png",Sinema Aksiyon
-https://live.st15.lol/sinemaaksiyon/index.m3u8
+https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemaaksiyon_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDcvMDUvMjAyNiAwNTowNjoyNCBQTSZoYXNoX3ZhbHVlPWJBTE1UdlBKMGhWK3V0SndyeU9ma2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD00YTE5N2FhNC1mNTExLTQ3YTEtODU3My0yOTgwMzIzYTAyMWQsNDJlYjdhYjktYjUwNy00NzFlLWJiZmEtYjk2MDQ2YTNjZWU4LDdlMWJiNWQ0LTQxNWUtNDgxMi1iZmNmLWM5OTJmY2RkZTM1NSwzRUY3NSwxNzYuMzMuNjcuMjUyLDE3ODMyODE5ODQmY2xpZW50X2lwPTE3Ni4zMy42Ny4yNTImY2hlY2tpcD10cnVl
 #EXTINF:-1 tvg-id="Sinemaaksiyon2" tvg-name="Sinemaaksiyon2" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aksiyon-tr.png",Sinema Aksiyon 2
 http://sup-4k.org/play/live.php?mac=00:1A:79:DC:71:A9&stream=196829&extension=ts
 #EXTINF:-1 tvg-id="Sinema Yerli" tvg-name="Sinema Yerli" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-yerli-tr.png",Sinema Yerli
