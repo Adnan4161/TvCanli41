@@ -202,11 +202,11 @@ https://huhu.to/vavoo-iptv/play/20273310967517aba18b29
 #EXTINF:-1 tvg-id="Sinemaaile" tvg-name="Sinemaaile" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aile-tr.png",Sinema Aile
 http://sup-4k.org/play/live.php?mac=00:1A:79:DC:71:A9&stream=196830&extension=ts
 #EXTINF:-1 tvg-id="Sinemaaksiyon" tvg-name="Sinemaaksiyon" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aksiyon-tr.png",Sinema Aksiyon
-http://sup-4k.org/play/live.php?mac=00:1A:79:DC:71:A9&stream=196828&extension=ts
+https://live.st15.lol/sinemaaksiyon/index.m3u8
 #EXTINF:-1 tvg-id="Sinemaaksiyon2" tvg-name="Sinemaaksiyon2" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aksiyon-tr.png",Sinema Aksiyon 2
 http://sup-4k.org/play/live.php?mac=00:1A:79:DC:71:A9&stream=196829&extension=ts
 #EXTINF:-1 tvg-id="Sinema Yerli" tvg-name="Sinema Yerli" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-yerli-tr.png",Sinema Yerli
-https://nord.ayakkabiparti.lol/sinemayerli/index.m3u8
+https://live.st15.lol/sinemayerli2/index.m3u8
 #EXTINF:-1 tvg-id="Sinemakomedi" tvg-name="Sinemakomedi" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-komedi-tr.png",Sinema Komedi
 http://sup-4k.org/play/live.php?mac=00:1A:79:DC:71:A9&stream=196832&extension=ts
 #EXTINF:-1 tvg-id="Sinemakomedi2" tvg-name="Sinemakomedi2" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-komedi-tr.png",Sinema Komedi 2
