@@ -449,12 +449,9 @@ hhttps://aksacli-stream-api-dizi.vercel.app/yayin/benim-adim-aylamaz/s1b1?fmt=js
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF:-1 tvg-id="Mr.Bean" tvg-name="Mr.Bean" group-title="SİNEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhp3DufSRPrRsKSICC514wHpyboJJkV9CgHw&s",Mr.Bean
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="Play Tv" tvg-name="Play Tv" group-title="SİNEMA" tvg-logo="https://i.ibb.co/4ntLXmKw/N5-EVE5b0-SFu6-Uwcg-AJVxxw.webp",Play Tv
-https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
-#EXTINF:-1 tvg-id="Sdm Tv" tvg-name="Sdm Tv" group-title="SİNEMA" tvg-logo="https://www.tvkeyfi.com.tr/upload/tv/k_sdm-tv-snema-logo_20260217113813.png",Sdm Tv
+#EXTINF:-1 tvg-id="Sdm Tv" tvg-name="Sdm Tv" group-title="SİNEMA" tvg-logo="https://www.sdmtv.com.tr/images/sdm-tv-300x109.png",Sdm Tv
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Şaban Tv" tvg-name="Şaban Tv" group-title="SİNEMA" tvg-logo="https://i.ibb.co/PZXWyPJX/aban-tv.jpg",Şaban Tv
-https://tv191.radyotelekom.com.tr:3996/stream/play.m3u8
+
 
 #EXTINF:-1 tvg-id="Ayaz Tv" tvg-name="Ayaz Tv" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2024/07/ayaz-tv-izle-vipotv.png",Ayaz Tv (Az)
 https://janya-ayaztv.vgcdn.net/ptnr-VipoTV/title-Ayaz_TV/v1/vglive-sk-934820/main.m3u8
