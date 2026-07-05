@@ -212,9 +212,9 @@ http://sup-4k.org/play/live.php?mac=00:1A:79:DC:71:A9&stream=196832&extension=ts
 #EXTINF:-1 tvg-id="Sinemakomedi2" tvg-name="Sinemakomedi2" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-komedi-tr.png",Sinema Komedi 2
 http://sup-4k.org/play/live.php?mac=00:1A:79:DC:71:A9&stream=196833&extension=ts
 #EXTINF:-1 tvg-id="Sinematv" tvg-name="Sinematv" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-tv-tr.png",Sinema Tv
-https://live.st15.lol/sinema/index.m3u8
+https://nord.ayakkabiparti.lol/sinema/index.m3u8
 #EXTINF:-1 tvg-id="Sinematv2" tvg-name="Sinematv2" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-tv-tr.png",Sinema Tv 2
-http://sup-4k.org/play/live.php?mac=00:1A:79:DC:71:A9&stream=196827&extension=ts
+https://nord.ayakkabiparti.lol/sinema2/index.m3u8
 #EXTINF:-1 tvg-id="Sinema1001" tvg-name="Sinema1001" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-1001-tr.png",Sinema1001
 http://sup-4k.org/play/live.php?mac=00:1A:79:DC:71:A9&stream=196825&extension=ts
 #EXTINF:-1 tvg-id="Sinema1002" tvg-name="Sinema1002" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-1002-tr.png",Sinema1002
