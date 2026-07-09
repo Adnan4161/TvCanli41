@@ -80,7 +80,7 @@ https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df4
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" group-title="BELGESEL" tvg-logo="https://tvlogolar.xyz/europa/turkey/tlc.png",TLC (v)
 https://huhu.to/vavoo-iptv/play/17668406603d2e9e4942ac
 #EXTINF:-1 tvg-id="tgrtbelgesel" tvg-name="tgrtbelgesel" group-title="BELGESEL" tvg-logo="https://www.tgrtbelgesel.com.tr/wp-content/uploads/2021/08/TGRT_Belgesel_Logo.png",Tgrt Belgesel
-https://cdn509.tvkulesi.com/tgrtbelgesel.m3u8?tkn=lYIN4MZEyPZhf127fUdxLg&tms=1783437066&hst=tr.tvkulesi.com&ip=176.33.67.252&utkn=4c0463f7038dd9a97b4da3a04525f65a&ch=tgrt-belgesel
+https://www.youtube.com/watch?v=32y7IEtD5OU
 #EXTINF:-1 tvg-id="tgrtbelgesel" tvg-name="tgrtbelgesel" group-title="BELGESEL" tvg-logo="https://www.tgrtbelgesel.com.tr/wp-content/uploads/2021/08/TGRT_Belgesel_Logo.png",Tgrt Belgesel (v)
 https://huhu.to/vavoo-iptv/play/2753787815ca92c106e311
 #EXTINF:-1 tvg-id="Bbc Earth" tvg-name="Bbc Earth" group-title="BELGESEL" tvg-logo="https://tvlogolar.xyz/europa/turkey/bbcearth.png",Bbc Earth
@@ -557,7 +557,7 @@ https://www.youtube.com/watch?v=jCoBWUqi6AI
 #EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/tgrt-haber-tr.png" group-title="YOUTUBE YAYINLARI", Tgrt Haber
 https://www.youtube.com/watch?v=WX29nlgdqho
 #EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/tgrtbelgesel.png" group-title="YOUTUBE YAYINLARI", Tgrt Belgesel
-https://www.youtube.com/watch?v=32y7IEtD5OU
+hhttps://www.youtube.com/watch?v=32y7IEtD5OU
 #EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/tvnet.png" group-title="YOUTUBE YAYINLARI", Tv Net
 https://www.youtube.com/watch?v=Z5bqy4gwEmc
 #EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/akit-tv-tr.png" group-title="YOUTUBE YAYINLARI", Akit Tv
