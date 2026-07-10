@@ -70,7 +70,7 @@ https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel" tvg-name="TRT Belgesel" group-title="BELGESEL" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt-belgesel-tr.png",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTBelgesel" tvg-name="TRT Belgesel" group-title="BELGESEL" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt-belgesel-tr.png",TRT Belgesel (v)
-https://huhu.to/vavoo-iptv/play/786973656b665fa8beb18
+https://huhu.to/vavoo-iptv/play/59975740553631f8c458f
 #EXTINF:-1 tvg-logo="https://files.sikayetvar.com/lg/cmp/20/203096.png?1616338650" group-title="BELGESEL", DMAX
 https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7&token=dEovSlBqVzRrNmRiWnVQMFhiT2VCWkdabkhJdjEwaDBlZm52ZHlWZXhjZz0=
 #EXTINF:-1 tvg-logo="https://files.sikayetvar.com/lg/cmp/20/203096.png?1616338650" group-title="BELGESEL", DMAX (v)
@@ -136,7 +136,7 @@ https://aka-live1050.delivery.roku.com/b8e37b4a-9483-4f8c-a31e-92739379129c/t2-o
 #EXTINF:-1 tvg-id="TRTHaber" tvg-name="TRT Haber" group-title="HABER" tvg-logo="https://avatars.mds.yandex.net/i?id=8086718a2b361699906be423e94868c13676c6b8-12179478-images-thumbs&n=13",TRT Haber
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTHaber" tvg-name="TRT Haber" group-title="HABER" tvg-logo="https://avatars.mds.yandex.net/i?id=8086718a2b361699906be423e94868c13676c6b8-12179478-images-thumbs&n=13",TRT Haber (v)
-https://huhu.to/vavoo-iptv/play/2579401878b96c047d58b3
+https://huhu.to/vavoo-iptv/play/786973656b665fa8beb18
 #EXTINF:-1 tvg-id="Ntv" tvg-name="Ntv" group-title="HABER" tvg-logo="https://avatars.mds.yandex.net/i?id=dbdba02ce8b22c342c2c4a3d558d4ecf40c6f02c-12731609-images-thumbs&n=13",Ntv
 https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
 #EXTINF:-1 tvg-id="Ntv" tvg-name="Ntv" group-title="HABER" tvg-logo="https://avatars.mds.yandex.net/i?id=dbdba02ce8b22c342c2c4a3d558d4ecf40c6f02c-12731609-images-thumbs&n=13",Ntv (v)
