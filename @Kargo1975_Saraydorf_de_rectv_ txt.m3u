@@ -200,13 +200,13 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtyycglqauzjhlive/broadcast_67c05
 #EXTINF:-1 tvg-id="Flash Haber" tvg-name="Flash Haber" group-title="HABER" tvg-logo="https://flashhabertv.com.tr/assets/img/logo-v4.png",Flash Haber (v)
 https://huhu.to/vavoo-iptv/play/20273310967517aba18b29
 #EXTINF:-1 tvg-id="Sinemaaile" tvg-name="Sinemaaile" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aile-tr.png",Sinema Aile
-http://sup-4k.org/play/live.php?mac=00:1A:79:DC:71:A9&stream=196830&extension=ts
+https://nord.ayakkabiparti.lol/sinemaaile/index.m3u8
 #EXTINF:-1 tvg-id="Sinemaaksiyon" tvg-name="Sinemaaksiyon" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aksiyon-tr.png",Sinema Aksiyon
-https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemaaksiyon_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDcvMDUvMjAyNiAwNTowNjoyNCBQTSZoYXNoX3ZhbHVlPWJBTE1UdlBKMGhWK3V0SndyeU9ma2c9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD00YTE5N2FhNC1mNTExLTQ3YTEtODU3My0yOTgwMzIzYTAyMWQsNDJlYjdhYjktYjUwNy00NzFlLWJiZmEtYjk2MDQ2YTNjZWU4LDdlMWJiNWQ0LTQxNWUtNDgxMi1iZmNmLWM5OTJmY2RkZTM1NSwzRUY3NSwxNzYuMzMuNjcuMjUyLDE3ODMyODE5ODQmY2xpZW50X2lwPTE3Ni4zMy42Ny4yNTImY2hlY2tpcD10cnVl
+https://nord.ayakkabiparti.lol/sinemaaksiyon/index.m3u8
 #EXTINF:-1 tvg-id="Sinemaaksiyon2" tvg-name="Sinemaaksiyon2" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aksiyon-tr.png",Sinema Aksiyon 2
 https://nord.ayakkabiparti.lol/sinemaaksiyon2/index.m3u8
 #EXTINF:-1 tvg-id="Sinema Yerli" tvg-name="Sinema Yerli" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-yerli-tr.png",Sinema Yerli
-https://ottcdn.kablowebtv.net/live_turksat_sub3/sinemayerli_stream/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MDcvMDUvMjAyNiAxMDowNzo0NiBBTSZoYXNoX3ZhbHVlPXhIMEJrcHIyaHkxUmZoaGpyY29EbGc9PSZ2YWxpZG1pbnV0ZXM9Mjg4MCZpZD0yNTYwODM0NS0yN2VmLTQ1OGQtOGU1YS1mMTkyMWQ0NzY4MjUsMzk0MDZhNWQtZDcwMS00MmM3LTg2MzQtN2E3OWNkZTE4Y2ZjLDlkYzU5ZDg2LWYxZDgtNGNjNi1hZDJjLWQ3YTA3OWQ2M2UyZiwzRUY3NSwxNzYuMzMuNjcuMjUyLDE3ODMyNTY4NjYmY2xpZW50X2lwPTE3Ni4zMy42Ny4yNTImY2hlY2tpcD10cnVl
+https://nord.ayakkabiparti.lol/sinemayerli/index.m3u8
 #EXTINF:-1 tvg-id="Sinemakomedi" tvg-name="Sinemakomedi" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-komedi-tr.png",Sinema Komedi
 http://sup-4k.org/play/live.php?mac=00:1A:79:DC:71:A9&stream=196832&extension=ts
 #EXTINF:-1 tvg-id="Sinemakomedi2" tvg-name="Sinemakomedi2" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-komedi-tr.png",Sinema Komedi 2
