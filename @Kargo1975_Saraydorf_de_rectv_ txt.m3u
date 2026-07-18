@@ -457,6 +457,8 @@ https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-id="Sdm Tv" tvg-name="Sdm Tv" group-title="SİNEMA" tvg-logo="https://www.sdmtv.com.tr/images/sdm-tv-300x109.png",Sdm Tv
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://r.resimlink.com/OfLGBb4.png" group-title="SİNEMA",F MOVIE
+http://162.212.179.32/akamaissh101/ssh101/fmovie/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="Ayaz Tv" tvg-name="Ayaz Tv" group-title="YURTDIŞI" tvg-logo="https://vipotv.com/wp-content/uploads/2024/07/ayaz-tv-izle-vipotv.png",Ayaz Tv (Az)
