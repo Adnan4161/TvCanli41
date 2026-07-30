@@ -209,7 +209,7 @@ https://proud-river-e20b.pantonum1.workers.dev/sinemaaksiyon.m3u8
 #EXTINF:-1 tvg-id="Sinemaaksiyon2" tvg-name="Sinemaaksiyon2" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aksiyon-tr.png",Sinema Aksiyon 2
 https://nord.ayakkabiparti.lol/sinemaaksiyon2/index.m3u8
 #EXTINF:-1 tvg-id="Sinema Yerli" tvg-name="Sinema Yerli" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-yerli-tr.png",Sinema Yerli
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:F5:CC:FD&stream=1471695&extension=ts&play_token=4gVsSqTs89
+https://proud-river-e20b.pantonum1.workers.dev/sinemayerli.m3u8
 #EXTINF:-1 tvg-id="Sinemakomedi" tvg-name="Sinemakomedi" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-komedi-tr.png",Sinema Komedi
 https://nord.ayakkabiparti.lol/sinemakomedi/index.m3u8
 #EXTINF:-1 tvg-id="Sinemakomedi2" tvg-name="Sinemakomedi2" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-komedi-tr.png",Sinema Komedi 2
