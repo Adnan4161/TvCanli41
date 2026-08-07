@@ -464,7 +464,7 @@ hhttps://aksacli-stream-api-dizi.vercel.app/yayin/benim-adim-aylamaz/s1b1?fmt=js
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF:-1 tvg-id="Mr.Bean" tvg-name="Mr.Bean" group-title="SİNEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhp3DufSRPrRsKSICC514wHpyboJJkV9CgHw&s",Mr.Bean
 https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-#EXTINF:-1 tvg-id="Sdm Tv" tvg-name="Sdm Tv" group-title="SİNEMA" tvg-logo="https://www.sdmtv.com.tr/images/sdm-tv-300x109.png",Sdm Tv
+#EXTINF:-1 tvg-id="Sdm Tv" tvg-name="Sdm Tv" group-title="SİNEMA" tvg-logo="https://www.sdmtv.com.tr/logo.png?t=1786078599",Sdm Tv
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://server-cover-prod.nimostatic.tv/202504061743967500394_2139512740036_cover.png?t=1785538200000" group-title="SİNEMA",Teleon
 https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/chunklist_w2028408927.m3u8
