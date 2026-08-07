@@ -209,19 +209,19 @@ https://proud-river-e20b.pantonum1.workers.dev/sinemaaksiyon.m3u8
 #EXTINF:-1 tvg-id="Sinemaaksiyon2" tvg-name="Sinemaaksiyon2" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-aksiyon-tr.png",Sinema Aksiyon 2
 https://nord.ayakkabiparti.lol/sinemaaksiyon2/index.m3u8
 #EXTINF:-1 tvg-id="Sinema Yerli" tvg-name="Sinema Yerli" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-yerli-tr.png",Sinema Yerli
-http://benstv2025.art:8080/live/abab2680/abab2112yy00y/122557.m3u8
+hhttp://benstv2025.art:8080/live/abab2680/abab2112yy00y/122557.m3u8
 #EXTINF:-1 tvg-id="Sinemakomedi" tvg-name="Sinemakomedi" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-komedi-tr.png",Sinema Komedi
 https://nord.ayakkabiparti.lol/sinemakomedi/index.m3u8
 #EXTINF:-1 tvg-id="Sinemakomedi2" tvg-name="Sinemakomedi2" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-komedi-tr.png",Sinema Komedi 2
 http://sup-4k.org/play/live.php?mac=00:1A:79:DC:71:A9&stream=196833&extension=ts
 #EXTINF:-1 tvg-id="Sinematv" tvg-name="Sinematv" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-tv-tr.png",Sinema Tv
-https://steamixtvlive-qcnu.onrender.com/p/aHR0cDovL2N0bjM0Lnh5ejoyMDk1/live/aziz6486/aziz.6486/128156.m3u8
+https://nord.ayakkabiparti.lol/sinema/index.m3u8
 #EXTINF:-1 tvg-id="Sinematv2" tvg-name="Sinematv2" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-tv-tr.png",Sinema Tv 2
 https://proud-river-e20b.pantonum1.workers.dev/sinema2.m3u8
 #EXTINF:-1 tvg-id="Sinema1001" tvg-name="Sinema1001" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-1001-tr.png",Sinema1001
 https://proud-river-e20b.pantonum1.workers.dev/sinema1001.m3u8
 #EXTINF:-1 tvg-id="Sinema1002" tvg-name="Sinema1002" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/sinema-1002-tr.png",Sinema1002
-https://steamixtvlive-qcnu.onrender.com/p/aHR0cDovL2N0bjM0Lnh5ejoyMDk1/live/aziz6486/aziz.6486/40438.m3u8
+hhttps://nord.ayakkabiparti.lol/sinema1002/index.m3u8
 #EXTINF:-1 tvg-id="Fx" tvg-name="Fx" group-title="SİNEMA" tvg-logo="https://tvlogolar.xyz/europa/turkey/fx-tr.png",Fx
 https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1 tvg-id="Net Spor" tvg-name="Net Spor" group-title="SPOR" tvg-logo="https://i.ibb.co/x8Gb2D3w/net-spor.png",Net Spor 1
