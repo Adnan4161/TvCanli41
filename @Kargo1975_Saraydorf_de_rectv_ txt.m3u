@@ -291,6 +291,10 @@ https://huhu.to/vavoo-iptv/play/21232735984a3f0b463d66
 https://andro.evrenesoglu57.click/checklist/androstreamlivess2.m3u8
 #EXTINF:-1 tvg-id="S Sport 2" tvg-name="S Sport 2" group-title="SPOR" tvg-logo="https://tvlogolar.xyz/europa/turkey/ssport2.png",S Sport 2 (v)
 https://huhu.to/vavoo-iptv/play/1313768516926dc999c43b
+#EXTINF:-1 tvg-id="Beinsports Haber" tvg-name="Beinsports Haber" group-title="SPOR" tvg-logo="https://tvlogolar.xyz/europa/turkey/beinsportshaber.png",Beinsports Haber
+http://87.121.104.29:1071/bshaberyt/stream.m3u8?token=b541e6be604e9067eeb78a440b3014ce
+#EXTINF:-1 tvg-id="Beinsports Haber" tvg-name="Beinsports Haber" group-title="SPOR" tvg-logo="https://tvlogolar.xyz/europa/turkey/beinsportshaber.png",Beinsports Haber (v)
+https://huhu.to/vavoo-iptv/play/3989995533d0efea1c8696
 #EXTINF:-1 tvg-id="Tabii Spor" tvg-name="Tabii Spor" group-title="SPOR" tvg-logo="https://avatars.mds.yandex.net/i?id=101d88dccb5f472d6ab2958a0fc69af503755e37-5870427-images-thumbs&n=13",Tabii Spor
 https://kl9mr2vxw7nq5py1sh4tj3gb6.medya.trt.com.tr/master_1440p.m3u8
 #EXTINF:-1 tvg-id="Tabii Spor" tvg-name="Tabii Spor" group-title="SPOR" tvg-logo="https://avatars.mds.yandex.net/i?id=101d88dccb5f472d6ab2958a0fc69af503755e37-5870427-images-thumbs&n=13",Tabii Spor (v)
@@ -305,10 +309,6 @@ https://huhu.to/vavoo-iptv/play/37466838109fc1c67c228d
 https://netspor.tecostream.xyz/sm1.m3u8
 #EXTINF:-1 tvg-id="Spor Smart 2" tvg-name="Spor Smart 2" group-title="SPOR" tvg-logo="https://tvlogolar.xyz/europa/turkey/sporsmart2.png",Spor Smart 2
 https://netspor.tecostream.xyz/sm2.m3u8
-#EXTINF:-1 tvg-id="Beinsports Haber" tvg-name="Beinsports Haber" group-title="SPOR" tvg-logo="https://tvlogolar.xyz/europa/turkey/beinsportshaber.png",Beinsports Haber
-http://87.121.104.29:1071/bshaberyt/stream.m3u8?token=b541e6be604e9067eeb78a440b3014ce
-#EXTINF:-1 tvg-id="Beinsports Haber" tvg-name="Beinsports Haber" group-title="SPOR" tvg-logo="https://tvlogolar.xyz/europa/turkey/beinsportshaber.png",Beinsports Haber (v)
-https://huhu.to/vavoo-iptv/play/3989995533d0efea1c8696
 #EXTINF:-1 tvg-id="Bi Kanal" tvg-name="Bi Kanal" group-title="SPOR" tvg-logo="https://yt3.googleusercontent.com/4YCt21qCi-6kw6DpxuqhvHYekgnOeaSP01VBQSiINXXTM9x1FtQBkClgatnf0kkYSbk7yWkH=s900-c-k-c0x00ffffff-no-rj",Bi Kanal
 https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
 #EXTINF:-1 tvg-id="Sıfır Tv" tvg-name="Sıfır Tv" group-title="SPOR" tvg-logo="https://www.sifirtv.com/sifir-tv-logo.png",Sıfır Tv
