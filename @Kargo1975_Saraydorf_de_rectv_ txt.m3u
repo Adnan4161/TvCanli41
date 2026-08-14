@@ -312,7 +312,7 @@ https://netspor.tecostream.xyz/sm1.m3u8
 #EXTINF:-1 tvg-id="Spor Smart 2" tvg-name="Spor Smart 2" group-title="SPOR" tvg-logo="https://tvlogolar.xyz/europa/turkey/sporsmart2.png",Spor Smart 2
 https://netspor.tecostream.xyz/sm2.m3u8
 #EXTINF:-1 tvg-id="Beinsports Haber" tvg-name="Beinsports Haber" group-title="SPOR" tvg-logo="https://tvlogolar.xyz/europa/turkey/beinsportshaber.png",Beinsports Haber
-https://netspor.tecostream.xyz/bsh.m3u8
+http://87.121.104.29:1071/bshaberyt/stream.m3u8?token=b541e6be604e9067eeb78a440b3014ce
 #EXTINF:-1 tvg-id="Beinsports Haber" tvg-name="Beinsports Haber" group-title="SPOR" tvg-logo="https://tvlogolar.xyz/europa/turkey/beinsportshaber.png",Beinsports Haber (v)
 https://huhu.to/vavoo-iptv/play/3989995533d0efea1c8696
 #EXTINF:-1 group-title="SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/960px-SuperTennis_-_Logo_2016.svg.png" tvg-id="SuperTennis.it@SD" ,SuperTennis
