@@ -283,12 +283,6 @@ https://huhu.to/vavoo-iptv/play/28805292086eedfe83d038
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1 tvg-id="Ht Spor" tvg-name="Ht Spor" group-title="SPOR" tvg-logo="https://tvlogolar.xyz/europa/turkey/HT_SPOR.eno.png",Ht Spor (v)
 https://huhu.to/vavoo-iptv/play/2773338492aa94862b5b31
-#EXTINF:-1 tvg-id="Bi Kanal" tvg-name="Bi Kanal" group-title="SPOR" tvg-logo="https://yt3.googleusercontent.com/4YCt21qCi-6kw6DpxuqhvHYekgnOeaSP01VBQSiINXXTM9x1FtQBkClgatnf0kkYSbk7yWkH=s900-c-k-c0x00ffffff-no-rj",Bi Kanal
-https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
-#EXTINF:-1 tvg-id="Sıfır Tv" tvg-name="Sıfır Tv" group-title="SPOR" tvg-logo="https://www.sifirtv.com/sifir-tv-logo.png",Sıfır Tv
-https://biraz.6781237.xyz/checklist/androstreamlivets.m3u8
-#EXTINF:0 tvg-logo="https://i.postimg.cc/ydZTXKGs/In-Shot-20251010-212140721.png" group-title="SPOR",TRSPOR TV
-http://162.55.99.99/gzcspor/gzcspor/playlist.m3u8
 #EXTINF:-1 tvg-id="S Sport 1" tvg-name="S Sport 1" group-title="SPOR" tvg-logo="https://tvlogolar.xyz/europa/turkey/ssport1.png",S Sport 1
 https://corestream.siteyaptim.live/s-sport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="S Sport 1" tvg-name="S Sport 1" group-title="SPOR" tvg-logo="https://tvlogolar.xyz/europa/turkey/ssport1.png",S Sport 1 (v)
@@ -315,6 +309,12 @@ https://netspor.tecostream.xyz/sm2.m3u8
 http://87.121.104.29:1071/bshaberyt/stream.m3u8?token=b541e6be604e9067eeb78a440b3014ce
 #EXTINF:-1 tvg-id="Beinsports Haber" tvg-name="Beinsports Haber" group-title="SPOR" tvg-logo="https://tvlogolar.xyz/europa/turkey/beinsportshaber.png",Beinsports Haber (v)
 https://huhu.to/vavoo-iptv/play/3989995533d0efea1c8696
+#EXTINF:-1 tvg-id="Bi Kanal" tvg-name="Bi Kanal" group-title="SPOR" tvg-logo="https://yt3.googleusercontent.com/4YCt21qCi-6kw6DpxuqhvHYekgnOeaSP01VBQSiINXXTM9x1FtQBkClgatnf0kkYSbk7yWkH=s900-c-k-c0x00ffffff-no-rj",Bi Kanal
+https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
+#EXTINF:-1 tvg-id="Sıfır Tv" tvg-name="Sıfır Tv" group-title="SPOR" tvg-logo="https://www.sifirtv.com/sifir-tv-logo.png",Sıfır Tv
+https://biraz.6781237.xyz/checklist/androstreamlivets.m3u8
+#EXTINF:0 tvg-logo="https://i.postimg.cc/ydZTXKGs/In-Shot-20251010-212140721.png" group-title="SPOR",TRSPOR TV
+http://162.55.99.99/gzcspor/gzcspor/playlist.m3u8
 #EXTINF:-1 group-title="SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/960px-SuperTennis_-_Logo_2016.svg.png" tvg-id="SuperTennis.it@SD" ,SuperTennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1 tvg-id="Tennis Tv" tvg-name="Tennis Tv" group-title="SPOR" tvg-logo="https://s.yimg.com/ny/api/res/1.2/aBB1uYYMTwMPmRYlydIIyg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTQ0MDtoPTMzMDtjZj13ZWJw/https://s.yimg.com/uu/api/res/1.2/qkxu7T4kMlxd7w_R8cDIBA--~B/aD01MTU7dz02ODU7YXBwaWQ9eXRhY2h5b24-/https://s.yimg.com/os/creatr-uploaded-images/2025-09/5dd4cf50-9242-11f0-b5ed-e235fcb224a2",Tennis Tv
