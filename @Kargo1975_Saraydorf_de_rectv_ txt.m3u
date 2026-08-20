@@ -376,6 +376,9 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e18
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
 #EXTINF:-1 tvg-id="Nr1 Ask" tvg-name="Nr1 Ask" group-title="MÜZİK" tvg-logo="https://tvlogolar.xyz/europa/turkey/nr1-ask-hd-tr.png",Nr1 Ask
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Boncuk Tv" tvg-name="Boncuk Tv" group-title="ÇOCUK" tvg-logo="https://i.ibb.co/LdkpP5GS/boncuktv.png",Boncuk Tv
+http://104.238.23.191/BoncukTV/live/index.m3u8
 #EXTINF:-1 tvg-id="TRTÇocuk" tvg-name="TRT Çocuk" group-title="ÇOCUK" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt-cocuk-tr.png",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Minikacocuk" tvg-name="Minikacocuk" group-title="ÇOCUK" tvg-logo="https://tvlogolar.xyz/europa/turkey/minikacocuk.png",Minikacocuk
