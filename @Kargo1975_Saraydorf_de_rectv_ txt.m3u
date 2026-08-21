@@ -15,23 +15,23 @@ https://huhu.to/vavoo-iptv/play/231583905a5fd80471ac8
 https://b.livev.xyz/star/index.m3u8
 #EXTINF:-1 tvg-id="StarTV" tvg-name="Star TV" group-title="ULUSAL" tvg-logo="https://www.lyngsat.com/logo/tv/ss/star-tv-tr.svg",Star TV (v)
 https://huhu.to/vavoo-iptv/play/69930592375bf26f3bb25
-#EXTINF:-1 tvg-id="ShowTV" tvg-name="Show TV" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/show-tr.png",Show TV
+#EXTINF:-1 tvg-id="ShowTV" tvg-name="Show TV" group-title="ULUSAL" tvg-logo="https://www.lyngsat.com/logo/tv/ss/show-tv-tr.svg",Show TV
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
-#EXTINF:-1 tvg-id="ShowTV" tvg-name="Show TV" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/show-tr.png",Show TV (v)
+#EXTINF:-1 tvg-id="ShowTV" tvg-name="Show TV" group-title="ULUSAL" tvg-logo="https://www.lyngsat.com/logo/tv/ss/show-tv-tr.svg",Show TV (v)
 https://huhu.to/vavoo-iptv/play/2485009235d60801ad626b
 #EXTINF:-1 tvg-id="Now" tvg-name="Now" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/nowtv.png",Now
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 #EXTINF:-1 tvg-id="Now" tvg-name="Now" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/nowtv.png",Now (v)
 https://huhu.to/vavoo-iptv/play/919108696a1b98997373b
-#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/tv8-tr.png",TV 8
+#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" group-title="ULUSAL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv8_tr.png",TV 8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=tv8_web
-#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/tv8-tr.png",TV 8 (v)
+#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" group-title="ULUSAL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv8_tr.png",TV 8 (v)
 https://huhu.to/vavoo-iptv/play/1702470161fe0c4007a0bb
 #EXTINF:-1 tvg-id="TV85" tvg-name="TV85" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/tv85-tr.png",TV8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3&ppid=ee1b3f41775e58db9a2819d5853efc22
 #EXTINF:-1 tvg-id="TV85" tvg-name="TV85" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/tv85-tr.png",TV8.5 (v)
 https://huhu.to/vavoo-iptv/play/19082658164debc10cdc44
-#EXTINF:-1 tvg-id="TV 5" tvg-name="TV 5" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/tv5-tr.png",TV 5
+#EXTINF:-1 tvg-id="TV 5" tvg-name="TV 5" group-title="ULUSAL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv5-tr.png",TV 5
 https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
 #EXTINF:-1 tvg-id="TV 5" tvg-name="TV 5" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/tv5-tr.png",TV 5 (v)
 https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
@@ -39,31 +39,31 @@ https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Trt 2" tvg-name="Trt 2" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt-2-tr.png",Trt 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="A2" tvg-name="A2" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/a2-tr.png",A2
+#EXTINF:-1 tvg-id="A2" tvg-name="A2" group-title="ULUSAL" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv_tr_2.png",A2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 #EXTINF:-1 tvg-id="Tabiitv" tvg-name="Tabiitv" group-title="ULUSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Trt-tabii-logo.png/960px-Trt-tabii-logo.png?_=20230509053721",Tabiitv
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-#EXTINF:-1 tvg-id="Teve2 " tvg-name="Teve2 " group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/teve2-tr.png",Teve2
+#EXTINF:-1 tvg-id="Teve2 " tvg-name="Teve2 " group-title="ULUSAL" tvg-logo="https://www.facebook.com/100025075123669/posts/teve2-tv2-oldu-logo-de%C4%9Fi%C5%9Fti/2054653062047178/",Tv2
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8
 #EXTINF:-1 tvg-id="Kanal 7" tvg-name="Kanal 7" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/kanal-7-tr.png",Kanal 7
 https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7.m3u8
-#EXTINF:-1 tvg-id="Showmax " tvg-name="Showmax " group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/show-max-tr.png",Showmax
+#EXTINF:-1 tvg-id="Showmax " tvg-name="Showmax " group-title="ULUSAL" tvg-logo="https://www.lyngsat.com/logo/tv/ss/show-max-tr.svg",Showmax
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax_1080p.m3u8
-#EXTINF:-1 tvg-id="Beyaztv" tvg-name="Beyaztv" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/beyaz-tv-tr.png",Beyaztv
+#EXTINF:-1 tvg-id="Beyaztv" tvg-name="Beyaztv" group-title="ULUSAL" tvg-logo="https://www.lyngsat.com/logo/tv/bb/beyaz_tv_tr.png",Beyaztv
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:-1 tvg-id="TRTTurk" tvg-name="TRT Turk" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt-turk-tr.png",TRT Turk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTAvaz" tvg-name="TRT Avaz" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt-avaz-tr.png",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="Kanal B" tvg-name="Kanal B" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/kanal-b-tr.png",Kanal B
+#EXTINF:-1 tvg-id="Kanal B" tvg-name="Kanal B" group-title="ULUSAL" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal_b_tr.png",Kanal B
 https://tv.kanalb.tr/hls/kanalb/index.m3u8?hash=07db62ddfaba22e9801fceafed4b3e89
 #EXTINF:-1 tvg-id="Cnbc-e" tvg-name="Cnbc-e" group-title="ULUSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/CNBC-e-Logo.png",Cnbc-e
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 tvg-id="Tv 360" tvg-name="Tv 360" group-title="ULUSAL" tvg-logo="https://i.ibb.co/s3gJCGL/360.png",Tv 360
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
-#EXTINF:-1 tvg-id="Mavi Karadeniz" tvg-name="Mavi Karadeniz" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/mavi-karadeniz-tr.png",Mavi Karadeniz
+#EXTINF:-1 tvg-id="Mavi Karadeniz" tvg-name="Mavi Karadeniz" group-title="ULUSAL" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mavi-karadeniz-tv-tr.png",Mavi Karadeniz
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
-#EXTINF:-1 tvg-id="Ülke Tv" tvg-name="Ülke Tv" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/ulke-tv-tr.png",Ülke Tv
+#EXTINF:-1 tvg-id="Ülke Tv" tvg-name="Ülke Tv" group-title="ULUSAL" tvg-logo="https://tr.wikipedia.org/wiki/Dosya:%C3%9Clke_TV_logo.svg",Ülke Tv
 https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
 
 
