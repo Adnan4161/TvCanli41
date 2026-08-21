@@ -43,7 +43,7 @@ https://tv-trt2.medya.trt.com.tr/master_720.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 #EXTINF:-1 tvg-id="Tabiitv" tvg-name="Tabiitv" group-title="ULUSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Trt-tabii-logo.png/960px-Trt-tabii-logo.png?_=20230509053721",Tabiitv
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-#EXTINF:-1 tvg-id="Teve2 " tvg-name="Teve2 " group-title="ULUSAL" tvg-logo="https://www.facebook.com/100025075123669/posts/teve2-tv2-oldu-logo-de%C4%9Fi%C5%9Fti/2054653062047178/",Tv2
+#EXTINF:-1 tvg-id="Teve2 " tvg-name="Teve2 " group-title="ULUSAL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-2-tr.svg",Tv2
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8
 #EXTINF:-1 tvg-id="Kanal 7" tvg-name="Kanal 7" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/kanal-7-tr.png",Kanal 7
 https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7.m3u8
@@ -63,7 +63,7 @@ https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
 #EXTINF:-1 tvg-id="Mavi Karadeniz" tvg-name="Mavi Karadeniz" group-title="ULUSAL" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mavi-karadeniz-tv-tr.png",Mavi Karadeniz
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
-#EXTINF:-1 tvg-id="Ülke Tv" tvg-name="Ülke Tv" group-title="ULUSAL" tvg-logo="https://tr.wikipedia.org/wiki/Dosya:%C3%9Clke_TV_logo.svg",Ülke Tv
+#EXTINF:-1 tvg-id="Ülke Tv" tvg-name="Ülke Tv" group-title="ULUSAL" tvg-logo="https://www.lyngsat.com/logo/tv/uu/ulke-tv-tr.svg",Ülke Tv
 https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
 
 
