@@ -31,7 +31,7 @@ https://huhu.to/vavoo-iptv/play/1702470161fe0c4007a0bb
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3&ppid=ee1b3f41775e58db9a2819d5853efc22
 #EXTINF:-1 tvg-id="TV85" tvg-name="TV85" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/tv85-tr.png",TV8.5 (v)
 https://huhu.to/vavoo-iptv/play/19082658164debc10cdc44
-#EXTINF:-1 tvg-id="TV 5" tvg-name="TV 5" group-title="ULUSAL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv5-tr.png",TV 5
+#EXTINF:-1 tvg-id="TV 5" tvg-name="TV 5" group-title="ULUSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a5/TV5.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original",TV 5
 https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
 #EXTINF:-1 tvg-id="TV 5" tvg-name="TV 5" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/tv5-tr.png",TV 5 (v)
 https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
@@ -55,15 +55,15 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTAvaz" tvg-name="TRT Avaz" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/trt-avaz-tr.png",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="Kanal B" tvg-name="Kanal B" group-title="ULUSAL" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kanal_b_tr.png",Kanal B
+#EXTINF:-1 tvg-id="Kanal B" tvg-name="Kanal B" group-title="ULUSAL" tvg-logo="https://www.turksatkablo.com.tr/inc/Kanaldosya-getir.aspx?ID=293",Kanal B
 https://tv.kanalb.tr/hls/kanalb/index.m3u8?hash=07db62ddfaba22e9801fceafed4b3e89
 #EXTINF:-1 tvg-id="Cnbc-e" tvg-name="Cnbc-e" group-title="ULUSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/CNBC-e-Logo.png",Cnbc-e
 https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 #EXTINF:-1 tvg-id="Tv 360" tvg-name="Tv 360" group-title="ULUSAL" tvg-logo="https://i.ibb.co/s3gJCGL/360.png",Tv 360
 https://turkmedya-live.ercdn.net/tv360/tv360_1080p.m3u8
-#EXTINF:-1 tvg-id="Mavi Karadeniz" tvg-name="Mavi Karadeniz" group-title="ULUSAL" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mavi-karadeniz-tv-tr.png",Mavi Karadeniz
+#EXTINF:-1 tvg-id="Mavi Karadeniz" tvg-name="Mavi Karadeniz" group-title="ULUSAL" tvg-logo="https://www.mavikaradeniztv.com.tr/uploads/logos/logo.jpg",Mavi Karadeniz
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks.m3u8
-#EXTINF:-1 tvg-id="Ülke Tv" tvg-name="Ülke Tv" group-title="ULUSAL" tvg-logo="https://www.lyngsat.com/logo/tv/uu/ulke-tv-tr.svg",Ülke Tv
+#EXTINF:-1 tvg-id="Ülke Tv" tvg-name="Ülke Tv" group-title="ULUSAL" tvg-logo="https://images.seeklogo.com/logo-png/26/2/ulke-tv-logo-png_seeklogo-260903.png",Ülke Tv
 https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
 
 
