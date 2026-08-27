@@ -19,17 +19,17 @@ https://huhu.to/vavoo-iptv/play/69930592375bf26f3bb25
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
 #EXTINF:-1 tvg-id="ShowTV" tvg-name="Show TV" group-title="ULUSAL" tvg-logo="https://www.lyngsat.com/logo/tv/ss/show-tv-tr.svg",Show TV (v)
 https://huhu.to/vavoo-iptv/play/2485009235d60801ad626b
-#EXTINF:-1 tvg-id="Now" tvg-name="Now" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/nowtv.png",Now
+#EXTINF:-1 tvg-id="Now" tvg-name="Now" group-title="ULUSAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/now-tr.png",Now
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
-#EXTINF:-1 tvg-id="Now" tvg-name="Now" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/nowtv.png",Now (v)
+#EXTINF:-1 tvg-id="Now" tvg-name="Now" group-title="ULUSAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/now-tr.png",Now (v)
 https://huhu.to/vavoo-iptv/play/919108696a1b98997373b
 #EXTINF:-1 tvg-id="TV8" tvg-name="TV8" group-title="ULUSAL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv8_tr.png",TV 8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=tv8_web
 #EXTINF:-1 tvg-id="TV8" tvg-name="TV8" group-title="ULUSAL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv8_tr.png",TV 8 (v)
 https://huhu.to/vavoo-iptv/play/1702470161fe0c4007a0bb
-#EXTINF:-1 tvg-id="TV85" tvg-name="TV85" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/tv85-tr.png",TV8.5
+#EXTINF:-1 tvg-id="TV85" tvg-name="TV85" group-title="ULUSAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv85-tr.png",TV8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3&ppid=ee1b3f41775e58db9a2819d5853efc22
-#EXTINF:-1 tvg-id="TV85" tvg-name="TV85" group-title="ULUSAL" tvg-logo="https://tvlogolar.xyz/europa/turkey/tv85-tr.png",TV8.5 (v)
+#EXTINF:-1 tvg-id="TV85" tvg-name="TV85" group-title="ULUSAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv85-tr.png",TV8.5 (v)
 https://huhu.to/vavoo-iptv/play/19082658164debc10cdc44
 #EXTINF:-1 tvg-id="TV 5" tvg-name="TV 5" group-title="ULUSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a5/TV5.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original",TV 5
 https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
