@@ -154,45 +154,45 @@ https://huhu.to/vavoo-iptv/play/2360854158813051c3c887
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:-1 tvg-id="Tv 24" tvg-name="Tv 24" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/a/a6/20191109190807%2124_TV_logosu.png",Tv 24 (v)
 https://huhu.to/vavoo-iptv/play/3828793616b62b9cc5834c
-#EXTINF:-1 tvg-id="Trt World" tvg-name="Trt World" group-title="HABER" tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-world-televizyon-kanali.3b79eeb.png",Trt World
+#EXTINF:-1 tvg-id="Trt World" tvg-name="Trt World" group-title="HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-world-tr.png",Trt World
 http://tv-trtworld.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="Trt World" tvg-name="Trt World" group-title="HABER" tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-world-televizyon-kanali.3b79eeb.png",Trt World (v)
+#EXTINF:-1 tvg-id="Trt World" tvg-name="Trt World" group-title="HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-world-tr.png",Trt World (v)
 https://huhu.to/vavoo-iptv/play/3203147403a3de72a3f660
 #EXTINF:-1 tvg-id="" tvg-name="A NEWS HD .b"" tvg-logo="https://play-lh.googleusercontent.com/dCZweDYrw8oop1uxE0AUD4EI0-A1sMzEPHAuz4dS4GMjz3838uzh_i2ggBl9LYgBBQI" group-title="HABER",A News (v)
 https://huhu.to/vavoo-iptv/play/387890889759c06a2c4da1
 #EXTINF:-1 tvg-id="İHA" tvg-name="İHA" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/39/%C4%B0HA_Logo.jpg",İHA
 https://live01.iha.tv/webabone/live/chunks.m3u8
-#EXTINF:-1 tvg-id="Cnn Türk" tvg-name="Cnn Türk" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/cnn-turk-tr.png",Cnn Türk
+#EXTINF:-1 tvg-id="Cnn Türk" tvg-name="Cnn Türk" group-title="HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/cnn-turk-tr.png",Cnn Türk
 https://lord.ayakkabiparti.lol/cnn/index.m3u8
-#EXTINF:-1 tvg-id="Cnn Türk" tvg-name="Cnn Türk" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/cnn-turk-tr.png",Cnn Türk (v)
+#EXTINF:-1 tvg-id="Cnn Türk" tvg-name="Cnn Türk" group-title="HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/cnn-turk-tr.png",Cnn Türk (v)
 https://huhu.to/vavoo-iptv/play/28683185347b6a700744ac
-#EXTINF:-1 tvg-id="Sözcütv" tvg-name="Sözcü tv" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/sozcutv.png",Sözcü Tv
+#EXTINF:-1 tvg-id="Sözcütv" tvg-name="Sözcü tv" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png?utm_source=tr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",Sözcü Tv
 http://5.178.103.239:55/yt1/szctv.m3u8
-#EXTINF:-1 tvg-id="Sözcütv" tvg-name="Sözcü tv" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/sozcutv.png",Sözcü Tv (v)
+#EXTINF:-1 tvg-id="Sözcütv" tvg-name="Sözcü tv" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png?utm_source=tr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",Sözcü Tv (v)
 https://huhu.to/vavoo-iptv/play/24669057008c1d07812ce0
-#EXTINF:-1 tvg-id="Halktv" tvg-name="Halktv" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/halktv.png",Halktv
+#EXTINF:-1 tvg-id="Halktv" tvg-name="Halktv" group-title="HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/halk-tv-tr.png",Halktv
 https://halktv-live.daioncdn.net/halktv/halktv_1080p.m3u8
-#EXTINF:-1 tvg-id="Halktv" tvg-name="Halktv" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/halktv.png",Halktv (v)
+#EXTINF:-1 tvg-id="Halktv" tvg-name="Halktv" group-title="HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/halk-tv-tr.png",Halktv (v)
 https://huhu.to/vavoo-iptv/play/17719991006aa1a0ebf68a
 #EXTINF:-1 tvg-id="Haber Global" tvg-name="Haber Global" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Haber_Global_logo.svg/1280px-Haber_Global_logo.svg.png",Haber Global
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 #EXTINF:-1 tvg-id="Haber Global" tvg-name="Haber Global" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Haber_Global_logo.svg/1280px-Haber_Global_logo.svg.png",Haber Global (v)
 https://huhu.to/vavoo-iptv/play/1224377838995614ed0843
-#EXTINF:-1 tvg-id="Tele1" tvg-name="Tele1" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/tele1-tr.png",Tele1
+#EXTINF:-1 tvg-id="Tele1" tvg-name="Tele1" group-title="HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tele1-tr.png",Tele1
 https://tele1-live.ercdn.net/tele1/tele1.m3u8
-#EXTINF:-1 tvg-id="Tele1" tvg-name="Tele1" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/tele1-tr.png",Tele1 (v)
+#EXTINF:-1 tvg-id="Tele1" tvg-name="Tele1" group-title="HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tele1-tr.png",Tele1 (v)
 https://huhu.to/vavoo-iptv/play/1025979520ee1c8a3dc728
-#EXTINF:-1 tvg-id="Bloomberght" tvg-name="Bloomberght" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/bloomberg-ht-tr.png",Bloomberght
+#EXTINF:-1 tvg-id="Bloomberght" tvg-name="Bloomberght" group-title="HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bloomberg-ht-tr.png",Bloomberght
 https://www.canlitv.tech/hls/bloomberght.m3u8
-#EXTINF:-1 tvg-id="Bloomberght" tvg-name="Bloomberght" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/bloomberg-ht-tr.png",Bloomberght (v)
+#EXTINF:-1 tvg-id="Bloomberght" tvg-name="Bloomberght" group-title="HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bloomberg-ht-tr.png",Bloomberght (v)
 https://huhu.to/vavoo-iptv/play/236989031b5bce3e87ca9
-#EXTINF:-1 tvg-id="Akit Tv" tvg-name="Akit Tv" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/akit-tv-tr.png",Akit Tv
+#EXTINF:-1 tvg-id="Akit Tv" tvg-name="Akit Tv" group-title="HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/akit-tv-tr.png",Akit Tv
 http://umperisn.mywire.org/index.php?id=594236&token=DeaTHLesS
-#EXTINF:-1 tvg-id="Akit Tv" tvg-name="Akit Tv" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/akit-tv-tr.png",Akit Tv (v)
+#EXTINF:-1 tvg-id="Akit Tv" tvg-name="Akit Tv" group-title="HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/akit-tv-tr.png",Akit Tv (v)
 https://huhu.to/vavoo-iptv/play/194868101172e4362de24e
-#EXTINF:-1 tvg-id="Tgrt Haber" tvg-name="Tgrt Haber" group-title="HABER" tvg-logo="https://provideo.com.tr/wp-content/uploads/2025/07/tgrt-haber-logo.png",Tgrt Haber
+#EXTINF:-1 tvg-id="Tgrt Haber" tvg-name="Tgrt Haber" group-title="HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tgrt-haber-tr.png",Tgrt Haber
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
-#EXTINF:-1 tvg-id="Tgrt Haber" tvg-name="Tgrt Haber" group-title="HABER" tvg-logo="https://provideo.com.tr/wp-content/uploads/2025/07/tgrt-haber-logo.png",Tgrt Haber (v)
+#EXTINF:-1 tvg-id="Tgrt Haber" tvg-name="Tgrt Haber" group-title="HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tgrt-haber-tr.png",Tgrt Haber (v)
 https://huhu.to/vavoo-iptv/play/356274005436ab338d23af
 #EXTINF:-1 tvg-id="Tv 100" tvg-name="Tv 100" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/0f/TV100_logo.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original",Tv100
 https://ensonhaber-live.ercdn.net/tv100/tv100_1080p.m3u8
@@ -416,9 +416,9 @@ https://huhu.to/vavoo-iptv/play/292300494652c302afd5d5
 https://www.canlitv.tech/hls/ahaber.m3u8
 #EXTINF:-1 tvg-id="A Haber" tvg-name="A Haber" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png",A Haber (v)
 https://huhu.to/vavoo-iptv/play/1174108535f425095f15a6
-#EXTINF:-1 tvg-id="A Para" tvg-name="A Para" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/a-para-tr.png",A Para
+#EXTINF:-1 tvg-id="A Para" tvg-name="A Para" group-title="HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/a-para-tr.png",A Para
 http://176.65.146.171:9981/stream/channelid/876847536?profile=htsp
-#EXTINF:-1 tvg-id="A Para" tvg-name="A Para" group-title="HABER" tvg-logo="https://tvlogolar.xyz/europa/turkey/a-para-tr.png",A Para (v)
+#EXTINF:-1 tvg-id="A Para" tvg-name="A Para" group-title="HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/a-para-tr.png",A Para (v)
 https://huhu.to/vavoo-iptv/play/4202445834678957f05238
 #EXTINF:-1 tvg-id="Ekol Tv" tvg-name="Ekol Tv" group-title="ULUSAL" tvg-logo="https://www.gidamo.org.tr/uploads/contents/2024-07-11-10-27-55-162495.png",Ekol Tv
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
