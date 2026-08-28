@@ -146,9 +146,9 @@ https://huhu.to/vavoo-iptv/play/786973656b665fa8beb18
 https://dogus.daioncdn.net/ntv/ntv.m3u8?app=ntv_web
 #EXTINF:-1 tvg-id="Ntv" tvg-name="Ntv" group-title="HABER" tvg-logo="https://avatars.mds.yandex.net/i?id=dbdba02ce8b22c342c2c4a3d558d4ecf40c6f02c-12731609-images-thumbs&n=13",Ntv (v)
 https://huhu.to/vavoo-iptv/play/12204176595f082e0b0497
-#EXTINF:-1 tvg-id="Haberturk" tvg-name="Haberturk" group-title="HABER" tvg-logo="https://avatars.mds.yandex.net/i?id=696ee91f9f0f31252e2df6ef25afa50e6ee20c7b-9148169-images-thumbs&n=13",Haberturk
+#EXTINF:-1 tvg-id="Haberturk" tvg-name="Haberturk" group-title="HABER" tvg-logo="https://avatars.mds.yandex.net/i?id=696ee91f9f0f31252e2df6ef25afa50e6ee20c7b-9148169-images-thumbs&n=13",Haber Türk
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/haberturktv/haberturktv.m3u8
-#EXTINF:-1 tvg-id="Haberturk" tvg-name="Haberturk" group-title="HABER" tvg-logo="https://avatars.mds.yandex.net/i?id=696ee91f9f0f31252e2df6ef25afa50e6ee20c7b-9148169-images-thumbs&n=13",Haberturk (v)
+#EXTINF:-1 tvg-id="Haberturk" tvg-name="Haberturk" group-title="HABER" tvg-logo="https://avatars.mds.yandex.net/i?id=696ee91f9f0f31252e2df6ef25afa50e6ee20c7b-9148169-images-thumbs&n=13",Haber Türk (v)
 https://huhu.to/vavoo-iptv/play/2360854158813051c3c887
 #EXTINF:-1 tvg-id="Tv 24" tvg-name="Tv 24" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/a/a6/20191109190807%2124_TV_logosu.png",Tv 24
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
@@ -612,53 +612,53 @@ https://www.youtube.com/watch?v=TCRr1CAbKUo&t=84s
 
 
 
-#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/cnn-turk-tr.png" group-title="YOUTUBE YAYINLARI", Cnn Türk
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/cnn-turk-tr.png" group-title="YOUTUBE YAYINLARI", Cnn Türk
 https://www.youtube.com/watch?v=6N8_r2uwLEc
-#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/sozcutv.png" group-title="YOUTUBE YAYINLARI", Sözcü Tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png?utm_source=tr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="YOUTUBE YAYINLARI", Sözcü Tv
 https://www.youtube.com/watch?v=ztmY_cCtUl0
-#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/tv100-tr.png" group-title="YOUTUBE YAYINLARI", Tv 100
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/0/0f/TV100_logo.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original" group-title="YOUTUBE YAYINLARI", Tv 100
 https://www.youtube.com/watch?v=4WSvLRk83-c
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/b5VZGo1h1TUQMFkf-bkjT5gudh82TZErpVndci3AjKEuzzrY5GJIqE8t4IcA2Cc1roBvhQqyJ0a6GH0nEmQ-aFE" group-title="YOUTUBE YAYINLARI", TRT Haber
 https://www.youtube.com/watch?v=vjNZVmImcxg
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="YOUTUBE YAYINLARI", NTV
 https://www.youtube.com/@ntv/live
-#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/halktv.png" group-title="YOUTUBE YAYINLARI", Halk Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/halk-tv-tr.png" group-title="YOUTUBE YAYINLARI", Halk Tv
 https://www.youtube.com/watch?v=jHMsvYrf-UA
-#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/haberturk.png" group-title="YOUTUBE YAYINLARI", Haber Türk
+#EXTINF:-1 tvg-logo="https://avatars.mds.yandex.net/i?id=696ee91f9f0f31252e2df6ef25afa50e6ee20c7b-9148169-images-thumbs&n=13" group-title="YOUTUBE YAYINLARI", Haber Türk
 https://www.youtube.com/watch?v=RNVNlJSUFoE
-#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/haberglobal.png" group-title="YOUTUBE YAYINLARI", Haber Global
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Haber_Global_logo.svg/1280px-Haber_Global_logo.svg.png" group-title="YOUTUBE YAYINLARI", Haber Global
 https://www.youtube.com/watch?v=EqoCJ8BPxtE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png" group-title="YOUTUBE YAYINLARI", A Haber
 https://www.youtube.com/watch?v=jCoBWUqi6AI
-#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/tgrt-haber-tr.png" group-title="YOUTUBE YAYINLARI", Tgrt Haber
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tgrt-haber-tr.png" group-title="YOUTUBE YAYINLARI", Tgrt Haber
 https://www.youtube.com/watch?v=WX29nlgdqho
-#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/tgrtbelgesel.png" group-title="YOUTUBE YAYINLARI", Tgrt Belgesel
-hhttps://www.youtube.com/watch?v=32y7IEtD5OU
-#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/tvnet.png" group-title="YOUTUBE YAYINLARI", Tv Net
+#EXTINF:-1 tvg-logo="https://www.tgrtbelgesel.com.tr/wp-content/uploads/2021/08/TGRT_Belgesel_Logo.png" group-title="YOUTUBE YAYINLARI", Tgrt Belgesel
+https://www.youtube.com/watch?v=32y7IEtD5OU
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tvnet-tr.png" group-title="YOUTUBE YAYINLARI", Tv Net
 https://www.youtube.com/watch?v=Z5bqy4gwEmc
-#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/akit-tv-tr.png" group-title="YOUTUBE YAYINLARI", Akit Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/akit-tv-tr.png" group-title="YOUTUBE YAYINLARI", Akit Tv
 https://www.youtube.com/watch?v=fi2VYxkSv9c
-#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/liderhaber.png" group-title="YOUTUBE YAYINLARI", Lider Haber
+#EXTINF:-1 tvg-logo="https://liderhabercomtr.teimg.com/crop/1280x720/liderhaber-com-tr/uploads/2025/10/lider-21.png" group-title="YOUTUBE YAYINLARI", Lider Haber
 https://www.youtube.com/watch?v=7equqmDgUpo
-#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/ulke-tv-tr.png" group-title="YOUTUBE YAYINLARI", Ülke Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/ulke-tv-tr.png" group-title="YOUTUBE YAYINLARI", Ülke Tv
 https://www.youtube.com/watch?v=Dq2cTP4HPEM
-#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/24tv.png" group-title="YOUTUBE YAYINLARI", Kanal 24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a6/24_TV_logosu.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original" group-title="YOUTUBE YAYINLARI", Kanal 24
 https://www.youtube.com/watch?v=qFKEi2BqHYc
-#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/a-para-tr.png" group-title="YOUTUBE YAYINLARI", A Para
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/a-para-tr.png" group-title="YOUTUBE YAYINLARI", A Para
 https://www.youtube.com/watch?v=6-Q8v_e-M2g
-#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/bloomberg-ht-tr.png" group-title="YOUTUBE YAYINLARI", Bloomberg Ht
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bloomberg-ht-tr.png" group-title="YOUTUBE YAYINLARI", Bloomberg Ht
 https://www.youtube.com/watch?v=hHSmBJk6w0c
-#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/ekoturk.png" group-title="YOUTUBE YAYINLARI", Ekotürk Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/ekoturk-tr.png" group-title="YOUTUBE YAYINLARI", Ekotürk Tv
 https://www.youtube.com/watch?v=rYcb3A1-D-k
-#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/benguturk.png" group-title="YOUTUBE YAYINLARI", Bengü Türk Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bengu-turk-tr.png" group-title="YOUTUBE YAYINLARI", Bengü Türk Tv
 https://www.youtube.com/watch?v=W-wgfi-XdN8
-#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/a-spor-tr.png" group-title="YOUTUBE YAYINLARI", A Spor
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/a-spor-tr.png" group-title="YOUTUBE YAYINLARI", A Spor
 https://www.youtube.com/watch?v=d3lbKlE6kSM
-#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/beinsportshaber.png" group-title="YOUTUBE YAYINLARI", Beinsports Haber
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-sports-haber-tr.png" group-title="YOUTUBE YAYINLARI", Beinsports Haber
 https://www.youtube.com/watch?v=i7UpPgxfZZ8
-#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2025/09/bizim-ev-tv.webp" group-title="YOUTUBE YAYINLARI", Bizim Ev
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bizimev-tv-tr.png" group-title="YOUTUBE YAYINLARI", Bizim Ev
 https://www.youtube.com/watch?v=1dDCGudoqFk
-#EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/showmax.png" group-title="YOUTUBE YAYINLARI", Show Max
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/show-max-tr.png" group-title="YOUTUBE YAYINLARI", Show Max
 https://www.youtube.com/watch?v=Y3vGHFrsqrs
 #EXTINF:-1 tvg-logo="https://ginikoturkish.com/channels/logo/diyanet-tv-epg-.png" group-title="YOUTUBE YAYINLARI", Diyanet Tv
 https://www.youtube.com/watch?v=8KOE6__ogN8
