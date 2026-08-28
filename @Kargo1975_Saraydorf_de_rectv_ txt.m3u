@@ -366,19 +366,19 @@ https://edge.taksimbilisim.com/on4/bant1/playlist.m3u8
 https://www.canlitv.tech/hls/medinetv.m3u8
 
 
-#EXTINF:-1 tvg-id="trtmuzik" tvg-name="trtmuzik" group-title="MÜZİK" tvg-logo="https://www.trt.net.tr/_nuxt/img/trt-muzik-televizyon-kanali.4fe1e86.png",TRT Müzik
+#EXTINF:-1 tvg-id="trtmuzik" tvg-name="trtmuzik" group-title="MÜZİK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-muzik-tr.png",TRT Müzik
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="Power" tvg-name="Power" group-title="MÜZİK" tvg-logo="https://tvlogolar.xyz/europa/turkey/powertv.png", Power Tv
+#EXTINF:-1 tvg-id="Power" tvg-name="Power" group-title="MÜZİK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/power-tv-hd-tr.png", Power Tv
 https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
-#EXTINF:-1 tvg-id="Powerturk" tvg-name="Powerturk" group-title="MÜZİK" tvg-logo="https://tvlogolar.xyz/europa/turkey/powerturk-tr.png",Powerturk
+#EXTINF:-1 tvg-id="Powerturk" tvg-name="Powerturk" group-title="MÜZİK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/powerturk-tr.png",Powerturk
 https://listen.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Dreamturk" tvg-name="Dreamturk" group-title="MÜZİK" tvg-logo="https://tvlogolar.xyz/europa/turkey/dreamturk.png",Dreamturk
+#EXTINF:-1 tvg-id="Dreamturk" tvg-name="Dreamturk" group-title="MÜZİK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/dream-turk-tr.png",Dreamturk
 https://tatatam.trt1sultanfatihss.workers.dev/https://live.duhnet.tv/S2/HLS_LIVE/dreamturknp/playlist.m3u8
-#EXTINF:-1 tvg-id="Nr1turk" tvg-name="Nr1turk" group-title="MÜZİK" tvg-logo="https://tvlogolar.xyz/europa/turkey/nr1turk.png",Nr1 Türk
+#EXTINF:-1 tvg-id="Nr1turk" tvg-name="Nr1turk" group-title="MÜZİK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/nr1-turk-hd-tr.png",Nr1 Türk
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e187770143.smil/chunklist_b400000.m3u8
-#EXTINF:-1 tvg-id="Nr1 Dance" tvg-name="Nr1 Dance" group-title="MÜZİK" tvg-logo="https://tvlogolar.xyz/europa/turkey/nr1-dance-hd-tr.png  ",Nr1 Dance
+#EXTINF:-1 tvg-id="Nr1 Dance" tvg-name="Nr1 Dance" group-title="MÜZİK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/nr1-dance-hd-tr.png",Nr1 Dance
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa8acf44_1/playlist.m3u8
-#EXTINF:-1 tvg-id="Nr1 Ask" tvg-name="Nr1 Ask" group-title="MÜZİK" tvg-logo="https://tvlogolar.xyz/europa/turkey/nr1-ask-hd-tr.png",Nr1 Ask
+#EXTINF:-1 tvg-id="Nr1 Ask" tvg-name="Nr1 Ask" group-title="MÜZİK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/nr1-ask-hd-tr.png",Nr1 Ask
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Boncuk Tv" tvg-name="Boncuk Tv" group-title="ÇOCUK" tvg-logo="https://i.ibb.co/LdkpP5GS/boncuktv.png",Boncuk Tv
