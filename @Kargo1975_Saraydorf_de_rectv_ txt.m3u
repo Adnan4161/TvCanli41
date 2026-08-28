@@ -128,7 +128,7 @@ http://mag.tivi-one-iptv.net/play/live.php?mac=00%3A1A%3A79%3A4F%3A67%3A78&strea
 #EXTINF:-1 tvg-id="B IZ" tvg-name="B IZ" group-title="BELGESEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREm1Dd1REwtBZimALVwgoOU3ztrctvO0lK1A&s",B IZ (v)
 https://huhu.to/vavoo-iptv/play/16912230784a73b11d66ed
 #EXTINF:-1 tvg-id="Bizim Ev" tvg-name="Bizim Ev" group-title="BELGESEL" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2025/09/bizim-ev-tv.webp",Bizim Ev
-http://live.yt-hls.workers.dev/UCIHMK8qtjB_GNuXmeex6i8g.m3u8
+hhttp://live.yt-hls.workers.dev/UCIHMK8qtjB_GNuXmeex6i8g.m3u8
 #EXTINF:-1 tvg-id="Tarım Tv" tvg-name="Tarım Tv" group-title="BELGESEL" tvg-logo="https://haberhd.com/upload/tv/k_tarim-tv-logo_20240813141133.jpeg",Tarım Tv
 #EXTVLCOPT:http-referrer=https://player.tvkur.com/
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
@@ -657,7 +657,7 @@ https://www.youtube.com/watch?v=d3lbKlE6kSM
 #EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/beinsportshaber.png" group-title="YOUTUBE YAYINLARI", Beinsports Haber
 https://www.youtube.com/watch?v=i7UpPgxfZZ8
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2025/09/bizim-ev-tv.webp" group-title="YOUTUBE YAYINLARI", Bizim Ev
-https://www.youtube.com/watch?v=5SlT_WQkyFA
+https://www.youtube.com/watch?v=1dDCGudoqFk
 #EXTINF:-1 tvg-logo="https://tvlogolar.xyz/europa/turkey/showmax.png" group-title="YOUTUBE YAYINLARI", Show Max
 https://www.youtube.com/watch?v=Y3vGHFrsqrs
 #EXTINF:-1 tvg-logo="https://ginikoturkish.com/channels/logo/diyanet-tv-epg-.png" group-title="YOUTUBE YAYINLARI", Diyanet Tv
