@@ -732,3 +732,64 @@ https://www.youtube.com/watch?v=bKnpSOFkVus
 https://www.youtube.com/watch?v=VWRS8W7ACiw
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DHJ847M2/icon.png" group-title="YOUTUBE 7/24", Yeşilçam 7/24
 https://www.youtube.com/watch?v=RqegY0WKtZA
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Atv" tvg-name="ATV" group-title="TEST" tvg-logo="https://i.ibb.co/212pfbZ9/atv.jpg",ATV
+https://www.atv.com.tr/canli-yayin
+#EXTINF:-1 tvg-id="A Haber" tvg-name="A Haber" group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png",A Haber
+https://www.ahaber.com.tr/video/canli-yayin
+#EXTINF:-1 tvg-id="A Spor" tvg-name="A Spor" group-title="TEST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/a-spor-tr.png",A Spor
+https://www.aspor.com.tr/webtv/canli-yayin
+#EXTINF:-1 tvg-id="A Para" tvg-name="A Para" group-title="TEST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/a-para-tr.png",A Para
+https://www.apara.com.tr/canli-yayin
+#EXTINF:-1 tvg-id="A News" tvg-name="A NEWS HD .b"" tvg-logo="https://play-lh.googleusercontent.com/dCZweDYrw8oop1uxE0AUD4EI0-A1sMzEPHAuz4dS4GMjz3838uzh_i2ggBl9LYgBBQI" group-title="TEST",A News
+https://www.anews.com.tr/webtv/live-broadcast
+#EXTINF:-1 tvg-id="A2" tvg-name="A2" group-title="TEST" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv_tr_2.png",A2
+https://www.atv.com.tr/a2tv/canli-yayin
+#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" group-title="TEST" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv8_tr.png",TV 8
+https://www.tv8.com.tr/canli-yayin
+#EXTINF:-1 tvg-id="TV85" tvg-name="TV85" group-title="TEST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv85-tr.png",TV8.5
+https://www.tv8bucuk.com/tv8-5-canli-yayin
+#EXTINF:-1 tvg-id="Trt1" tvg-name="TRT 1" group-title="TEST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-1-hd-tr.png",TRT 1
+https://www.tabii.com/tr/watch/live/trt1?trackId=150002
+#EXTINF:-1 tvg-id="TRTHaber" tvg-name="TRT Haber" group-title="TEST" tvg-logo="https://avatars.mds.yandex.net/i?id=8086718a2b361699906be423e94868c13676c6b8-12179478-images-thumbs&n=13",TRT Haber
+https://www.trthaber.com/canli-yayin-izle.html
+#EXTINF:-1 tvg-id="Trt Spor" tvg-name="Trt Spor" group-title="TEST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-spor-tr.png",Trt Spor
+https://www.trtspor.com.tr/canli-yayin-izle/trt-spor
+#EXTINF:-1 tvg-id="Trt Spor Yıldız" tvg-name="Trt Spor Yıldız" group-title="TEST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-spor-yildiz-tr.png",Trt Spor Yıldız
+https://www.trtspor.com.tr/canli-yayin-izle/trt-spor-yildiz
+#EXTINF:-1 tvg-id="Trt 2" tvg-name="Trt 2" group-title="TEST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-2-tr.png",Trt 2
+https://www.tabii.com/watch/live/trt2?trackId=150007
+#EXTINF:-1 tvg-id="TRTTurk" tvg-name="TRT Turk" group-title="TEST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-turk-tr.png",TRT Turk
+https://www.trtturk.com.tr/canli-izle
+#EXTINF:-1 tvg-id="TRTAvaz" tvg-name="TRT Avaz" group-title="TEST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-avaz-tr.png",TRT Avaz
+https://www.trtavaz.com.tr/canli-izle
+#EXTINF:-1 tvg-id="TRTBelgesel" tvg-name="TRT Belgesel" group-title="TEST" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-belgesel-tr.svg",TRT Belgesel
+https://www.tabii.com/watch/live/trtbelgesel?trackId=150012
+#EXTINF:-1 tvg-id="Trt World" tvg-name="Trt World" group-title="TEST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-world-tr.png",Trt World
+https://www.trtworld.com/
+#EXTINF:-1 tvg-id="KanalD" tvg-name="Kanal D" group-title="TEST" tvg-logo="https://i.imgur.com/9o1atM6.png",Kanal D
+https://www.kanald.com.tr/canli-yayin
+#EXTINF:-1 tvg-id="Kanal 7" tvg-name="Kanal 7" group-title="TEST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/kanal-7-tr.png",Kanal 7
+https://www.kanal7.com/canli-izle
+#EXTINF:-1 tvg-id="Bloomberght" tvg-name="Bloomberght" group-title="TEST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bloomberg-ht-tr.png",Bloomberght
+https://www.bloomberght.com/tv
+#EXTINF:-1 tvg-id="ShowTV" tvg-name="Show TV" group-title="TEST" tvg-logo="https://www.lyngsat.com/logo/tv/ss/show-tv-tr.svg",Show TV
+https://www.showtv.com.tr/canli-yayin
+#EXTINF:-1 tvg-id="Now" tvg-name="Now" group-title="TEST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/now-tr.png",Now
+https://www.nowtv.com.tr/canli-yayin
+#EXTINF:-1 tvg-id="Tv 360" tvg-name="Tv 360" group-title="TEST" tvg-logo="https://i.ibb.co/s3gJCGL/360.png",Tv 360
+https://www.tv360.com.tr/canli-yayin
+#EXTINF:-1 tvg-id="Tv 4" tvg-name="Tv 4" group-title="TEST" tvg-logo="https://play-lh.googleusercontent.com/pVE6vap0zLCqp3-R_cLmBuis7r2tI1sUSQxlHVUnrJ1Jb72T17cbZy9FXr9PufD2Vm-g1dQ7y8xVwmDmcpEhzg=w480-h960-rw",Tv 4
+https://www.tv4.com.tr/canli-yayin
+#EXTINF:-1 tvg-id="Ht Spor" tvg-name="Ht Spor" group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Ht-spor-buyuk.webp?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original",Ht Spor
+https://www.htspor.com/canli-yayin
+#EXTINF:-1 tvg-logo="https://files.sikayetvar.com/lg/cmp/20/203096.png?1616338650" group-title="TEST", DMAX
+https://www.dmax.com.tr/canli-izle
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" group-title="TEST" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc-us.svg",TLC
+https://www.tlctv.com.tr/canli-izle
+#EXTINF:-1 tvg-id="StarTV" tvg-name="Star TV" group-title="TEST" tvg-logo="https://i.ibb.co/7xcy7bxL/star.jpg",Star TV
+https://www.startv.com.tr/canli-yayin
