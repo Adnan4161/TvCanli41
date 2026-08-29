@@ -324,7 +324,9 @@ https://bbb-billi-amagi.otteravision.com/bbb/billi/billi.m3u8
 #EXTINF:-1 tvg-id="Sports Tv" tvg-name="Sports Tv" group-title="SPOR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sports-tv-tr.png",Sports Tv (v)
 https://huhu.to/vavoo-iptv/play/3422827985f7ff6e82532a
 #EXTINF:-1 tvg-id="Tjk Tv" tvg-name="Tjk Tv" group-title="SPOR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tjk-tv-tr.png",Tjk Tv
-https://tjktv-live.tjk.org/tjktv/tjktv_480p.m3u8
+https://tjktv-live.tjk.org/tjktv/tjktv.m3u8
+#EXTINF:-1 tvg-id="Tjk Tv" tvg-name="Tjk Tv" group-title="SPOR" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tjk-tv-tr.png",Tjk Tv 2
+https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
 #EXTINF:-1 tvg-id="Eurosport1" tvg-name="Eurosport 1" group-title="SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/c/cd/Logo_Eurosport.svg/250px-Logo_Eurosport.svg.png",Eurosport 1
 https://andro.evrenesoglu57.click/checklist/androstreamlivees1.m3u8
 #EXTINF:-1 tvg-id="CBC Sport" tvg-name="CBC Sport" group-title="SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0b/CBC_Sport_Logo.png/250px-CBC_Sport_Logo.png",CBC Sport
