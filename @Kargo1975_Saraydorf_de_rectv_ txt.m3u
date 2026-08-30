@@ -65,9 +65,9 @@ https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/chunks
 https://livetv.radyotvonline.net/kanal7live/ulketv/chunklist.m3u8
 
 
-#EXTINF:-1 tvg-id="TRTBelgesel" tvg-name="TRT Belgesel" group-title="BELGESEL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-belgesel-tr.svg",TRT Belgesel
+#EXTINF:-1 tvg-id="TRTBelgesel" tvg-name="TRT Belgesel" group-title="BELGESEL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-belgesel-tr.png",TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-id="TRTBelgesel" tvg-name="TRT Belgesel" group-title="BELGESEL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-belgesel-tr.svg",TRT Belgesel (v)
+#EXTINF:-1 tvg-id="TRTBelgesel" tvg-name="TRT Belgesel" group-title="BELGESEL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-belgesel-tr.png",TRT Belgesel (v)
 https://huhu.to/vavoo-iptv/play/59975740553631f8c458f
 #EXTINF:-1 tvg-logo="https://files.sikayetvar.com/lg/cmp/20/203096.png?1616338650" group-title="BELGESEL", DMAX
 https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7&token=dEovSlBqVzRrNmRiWnVQMFhiT2VCWkdabkhJdjEwaDBlZm52ZHlWZXhjZz0=
@@ -750,7 +750,7 @@ https://www.tabii.com/watch/live/trt2?trackId=150007
 https://www.trtturk.com.tr/canli-izle
 #EXTINF:-1 tvg-id="TRTAvaz" tvg-name="TRT Avaz" group-title="TEST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-avaz-tr.png",TRT Avaz
 https://www.trtavaz.com.tr/canli-izle
-#EXTINF:-1 tvg-id="TRTBelgesel" tvg-name="TRT Belgesel" group-title="TEST" tvg-logo="https://www.lyngsat.com/logo/tv/tt/trt-belgesel-tr.svg",TRT Belgesel
+#EXTINF:-1 tvg-id="TRTBelgesel" tvg-name="TRT Belgesel" group-title="TEST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-belgesel-tr.png",TRT Belgesel
 https://www.tabii.com/watch/live/trtbelgesel?trackId=150012
 #EXTINF:-1 tvg-id="Trt World" tvg-name="Trt World" group-title="TEST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-world-tr.png",Trt World
 https://www.trtworld.com/
