@@ -782,15 +782,15 @@ https://www.cnbce.com/canli-yayin
 https://www.tv5.com.tr/canli-yayin
 #EXTINF:-1 tvg-id="Teve2 " tvg-name="Teve2 " group-title="TEST" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-2-tr.svg",Tv2
 https://www.teve2.com.tr/canli-yayin
-#EXTINF:-1 tvg-id="Ntv" tvg-name="Ntv" group-title="HABER" tvg-logo="https://avatars.mds.yandex.net/i?id=dbdba02ce8b22c342c2c4a3d558d4ecf40c6f02c-12731609-images-thumbs&n=13",Ntv
+#EXTINF:-1 tvg-id="Ntv" tvg-name="Ntv" group-title="TEST" tvg-logo="https://avatars.mds.yandex.net/i?id=dbdba02ce8b22c342c2c4a3d558d4ecf40c6f02c-12731609-images-thumbs&n=13",Ntv
 https://www.ntv.com.tr/canli-yayin/ntv
-#EXTINF:-1 tvg-id="Haberturk" tvg-name="Haberturk" group-title="HABER" tvg-logo="https://avatars.mds.yandex.net/i?id=696ee91f9f0f31252e2df6ef25afa50e6ee20c7b-9148169-images-thumbs&n=13",Haber Türk
+#EXTINF:-1 tvg-id="Haberturk" tvg-name="Haberturk" group-title="TEST" tvg-logo="https://avatars.mds.yandex.net/i?id=696ee91f9f0f31252e2df6ef25afa50e6ee20c7b-9148169-images-thumbs&n=13",Haber Türk
 https://www.haberturk.com/canliyayin
-#EXTINF:-1 tvg-id="Tv 24" tvg-name="Tv 24" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/a/a6/20191109190807%2124_TV_logosu.png",Tv 24
+#EXTINF:-1 tvg-id="Tv 24" tvg-name="Tv 24" group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/a/a6/20191109190807%2124_TV_logosu.png",Tv 24
 https://www.yirmidort.tv/televizyon/canli-yayin/
-#EXTINF:-1 tvg-id="Cnn Türk" tvg-name="Cnn Türk" group-title="HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/cnn-turk-tr.png",Cnn Türk
+#EXTINF:-1 tvg-id="Cnn Türk" tvg-name="Cnn Türk" group-title="TEST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/cnn-turk-tr.png",Cnn Türk
 https://www.cnnturk.com/canli-yayin
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/halk-tv-tr.png" group-title="YOUTUBE YAYINLARI", Halk Tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/halk-tv-tr.png" group-title="TEST", Halk Tv
 https://halktv.com.tr/canli-yayin
-#EXTINF:-1 tvg-id="Flash Haber" tvg-name="Flash Haber" group-title="HABER" tvg-logo="https://flashhabertv.com.tr/assets/img/logo-v4.png",Flash Haber
+#EXTINF:-1 tvg-id="Flash Haber" tvg-name="Flash Haber" group-title="TEST tvg-logo="https://flashhabertv.com.tr/assets/img/logo-v4.png",Flash Haber
 https://flashhabertv.com.tr/
