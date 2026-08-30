@@ -15,17 +15,17 @@ https://huhu.to/vavoo-iptv/play/231583905a5fd80471ac8
 https://b.livev.xyz/star/index.m3u8
 #EXTINF:-1 tvg-id="StarTV" tvg-name="Star TV" group-title="ULUSAL" tvg-logo="https://i.ibb.co/7xcy7bxL/star.jpg",Star TV (v)
 https://huhu.to/vavoo-iptv/play/69930592375bf26f3bb25
-#EXTINF:-1 tvg-id="ShowTV" tvg-name="Show TV" group-title="ULUSAL" tvg-logo="https://www.lyngsat.com/logo/tv/ss/show-tv-tr.svg",Show TV
+#EXTINF:-1 tvg-id="ShowTV" tvg-name="Show TV" group-title="ULUSAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/show-tr.png",Show TV
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
-#EXTINF:-1 tvg-id="ShowTV" tvg-name="Show TV" group-title="ULUSAL" tvg-logo="https://www.lyngsat.com/logo/tv/ss/show-tv-tr.svg",Show TV (v)
+#EXTINF:-1 tvg-id="ShowTV" tvg-name="Show TV" group-title="ULUSAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/show-tr.png",Show TV (v)
 https://huhu.to/vavoo-iptv/play/2485009235d60801ad626b
 #EXTINF:-1 tvg-id="Now" tvg-name="Now" group-title="ULUSAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/now-tr.png",Now
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv_720p.m3u8
 #EXTINF:-1 tvg-id="Now" tvg-name="Now" group-title="ULUSAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/now-tr.png",Now (v)
 https://huhu.to/vavoo-iptv/play/919108696a1b98997373b
-#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" group-title="ULUSAL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv8_tr.png",TV 8
+#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" group-title="ULUSAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv8-tr.png",TV 8
 https://tv8.daioncdn.net/tv8/tv8_1080p.m3u8?app=tv8_web
-#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" group-title="ULUSAL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv8_tr.png",TV 8 (v)
+#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" group-title="ULUSAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv8-tr.png",TV 8 (v)
 https://huhu.to/vavoo-iptv/play/1702470161fe0c4007a0bb
 #EXTINF:-1 tvg-id="TV85" tvg-name="TV85" group-title="ULUSAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv85-tr.png",TV8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3&ppid=ee1b3f41775e58db9a2819d5853efc22
@@ -732,7 +732,7 @@ https://www.ahaber.com.tr/video/canli-yayin
 https://www.aspor.com.tr/webtv/canli-yayin
 #EXTINF:-1 tvg-id="A2" tvg-name="A2" group-title="TEST" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv_tr_2.png",A2
 https://www.atv.com.tr/a2tv/canli-yayin
-#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" group-title="TEST" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv8_tr.png",TV 8
+#EXTINF:-1 tvg-id="TV8" tvg-name="TV8" group-title="TEST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv8-tr.png",TV 8
 https://www.tv8.com.tr/canli-yayin
 #EXTINF:-1 tvg-id="TV85" tvg-name="TV85" group-title="TEST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv85-tr.png",TV8.5
 https://www.tv8bucuk.com/tv8-5-canli-yayin
@@ -760,7 +760,7 @@ https://www.kanald.com.tr/canli-yayin
 https://www.kanal7.com/canli-izle
 #EXTINF:-1 tvg-id="Bloomberght" tvg-name="Bloomberght" group-title="TEST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bloomberg-ht-tr.png",Bloomberght
 https://www.bloomberght.com/tv
-#EXTINF:-1 tvg-id="ShowTV" tvg-name="Show TV" group-title="TEST" tvg-logo="https://www.lyngsat.com/logo/tv/ss/show-tv-tr.svg",Show TV
+#EXTINF:-1 tvg-id="ShowTV" tvg-name="Show TV" group-title="TEST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/show-tr.png",Show TV
 https://www.showtv.com.tr/canli-yayin
 #EXTINF:-1 tvg-id="Now" tvg-name="Now" group-title="TEST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/now-tr.png",Now
 https://www.nowtv.com.tr/canli-yayin
