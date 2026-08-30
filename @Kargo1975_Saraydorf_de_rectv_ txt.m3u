@@ -788,8 +788,6 @@ https://www.ntv.com.tr/canli-yayin/ntv
 https://www.haberturk.com/canliyayin
 #EXTINF:-1 tvg-id="Tv 24" tvg-name="Tv 24" group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/a/a6/20191109190807%2124_TV_logosu.png",Tv 24
 https://www.yirmidort.tv/televizyon/canli-yayin/
-#EXTINF:-1 tvg-id="Cnn Türk" tvg-name="Cnn Türk" group-title="TEST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/cnn-turk-tr.png",Cnn Türk
-https://www.cnnturk.com/canli-yayin
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/halk-tv-tr.png" group-title="TEST", Halk Tv
 https://halktv.com.tr/canli-yayin
 #EXTINF:-1 tvg-id="Flash Haber" tvg-name="Flash Haber" group-title="TEST" tvg-logo="https://flashhabertv.com.tr/assets/img/logo-v4.png",Flash Haber
