@@ -792,5 +792,5 @@ https://www.yirmidort.tv/televizyon/canli-yayin/
 https://www.cnnturk.com/canli-yayin
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/halk-tv-tr.png" group-title="TEST", Halk Tv
 https://halktv.com.tr/canli-yayin
-#EXTINF:-1 tvg-id="Flash Haber" tvg-name="Flash Haber" group-title="TEST tvg-logo="https://flashhabertv.com.tr/assets/img/logo-v4.png",Flash Haber
+#EXTINF:-1 tvg-id="Flash Haber" tvg-name="Flash Haber" group-title="TEST" tvg-logo="https://flashhabertv.com.tr/assets/img/logo-v4.png",Flash Haber
 https://flashhabertv.com.tr/
