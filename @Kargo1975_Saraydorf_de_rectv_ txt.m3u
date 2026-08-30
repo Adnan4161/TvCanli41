@@ -33,8 +33,6 @@ https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3&ppid=ee1b3
 https://huhu.to/vavoo-iptv/play/19082658164debc10cdc44
 #EXTINF:-1 tvg-id="TV 5" tvg-name="TV 5" group-title="ULUSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a5/TV5.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original",TV 5
 https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
-#EXTINF:-1 tvg-id="TV 5" tvg-name="TV 5" group-title="ULUSAL" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a5/TV5.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original",TV 5 (v)
-https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
 #EXTINF:-1 tvg-id="Trt Genç" tvg-name="Trt Genç" group-title="ULUSAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-gen%C3%A7-tr.png",Trt Genç
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Trt 2" tvg-name="Trt 2" group-title="ULUSAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-2-tr.png",Trt 2
@@ -776,4 +774,11 @@ https://www.htspor.com/canli-yayin
 https://www.dmax.com.tr/canli-izle
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" group-title="TEST" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc-us.svg",TLC
 https://www.tlctv.com.tr/canli-izle
-
+#EXTINF:-1 tvg-id="Showmax " tvg-name="Showmax " group-title="TEST" tvg-logo="https://www.lyngsat.com/logo/tv/ss/show-max-tr.svg",Showmax
+https://www.showmax.com.tr/canliyayin
+#EXTINF:-1 tvg-id="Cnbc-e" tvg-name="Cnbc-e" group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/CNBC-e-Logo.png",Cnbc-e
+https://www.cnbce.com/canli-yayin
+#EXTINF:-1 tvg-id="TV 5" tvg-name="TV 5" group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a5/TV5.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original",TV 5
+https://www.tv5.com.tr/canli-yayin
+#EXTINF:-1 tvg-id="Teve2 " tvg-name="Teve2 " group-title="TEST" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-2-tr.svg",Tv2
+https://www.teve2.com.tr/canli-yayin
