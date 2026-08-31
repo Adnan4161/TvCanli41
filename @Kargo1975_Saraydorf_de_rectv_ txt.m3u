@@ -37,17 +37,17 @@ https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
 https://tv-trtgenc.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Trt 2" tvg-name="Trt 2" group-title="ULUSAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-2-tr.png",Trt 2
 https://tv-trt2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-id="A2" tvg-name="A2" group-title="ULUSAL" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv_tr_2.png",A2
+#EXTINF:-1 tvg-id="A2" tvg-name="A2" group-title="ULUSAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/a2-tr.png",A2
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 #EXTINF:-1 tvg-id="Tabiitv" tvg-name="Tabiitv" group-title="ULUSAL" tvg-logo="https://image.hurimg.com/i/hurriyet/90/0x0/6717c07d366b147689dac4aa.jpg",Tabiitv
 https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8
-#EXTINF:-1 tvg-id="Teve2 " tvg-name="Teve2 " group-title="ULUSAL" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-2-tr.svg",Tv2
+#EXTINF:-1 tvg-id="Teve2 " tvg-name="Teve2 " group-title="ULUSAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv2-tr.png",Tv2
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/teve2/teve2_1080p.m3u8
 #EXTINF:-1 tvg-id="Kanal 7" tvg-name="Kanal 7" group-title="ULUSAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/kanal-7-tr.png",Kanal 7
 https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7.m3u8
-#EXTINF:-1 tvg-id="Showmax " tvg-name="Showmax " group-title="ULUSAL" tvg-logo="https://www.lyngsat.com/logo/tv/ss/show-max-tr.svg",Showmax
+#EXTINF:-1 tvg-id="Showmax " tvg-name="Showmax " group-title="ULUSAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/show-max-tr.png",Showmax
 https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax_1080p.m3u8
-#EXTINF:-1 tvg-id="Beyaztv" tvg-name="Beyaztv" group-title="ULUSAL" tvg-logo="https://www.lyngsat.com/logo/tv/bb/beyaz_tv_tr.png",Beyaztv
+#EXTINF:-1 tvg-id="Beyaztv" tvg-name="Beyaztv" group-title="ULUSAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/beyaz-tv-tr.png",Beyaztv
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:-1 tvg-id="TRTTurk" tvg-name="TRT Turk" group-title="ULUSAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-turk-tr.png",TRT Turk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
@@ -730,7 +730,7 @@ https://www.atv.com.tr/canli-yayin
 https://www.ahaber.com.tr/video/canli-yayin
 #EXTINF:-1 tvg-id="A Spor" tvg-name="A Spor" group-title="TEST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/a-spor-tr.png",A Spor
 https://www.aspor.com.tr/webtv/canli-yayin
-#EXTINF:-1 tvg-id="A2" tvg-name="A2" group-title="TEST" tvg-logo="https://www.lyngsat.com/logo/tv/aa/atv_tr_2.png",A2
+#EXTINF:-1 tvg-id="A2" tvg-name="A2" group-title="TEST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/a2-tr.png",A2
 https://www.atv.com.tr/a2tv/canli-yayin
 #EXTINF:-1 tvg-id="TV8" tvg-name="TV8" group-title="TEST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv8-tr.png",TV 8
 https://www.tv8.com.tr/canli-yayin
@@ -774,13 +774,13 @@ https://www.htspor.com/canli-yayin
 https://www.dmax.com.tr/canli-izle
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" group-title="TEST" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tlc-us.svg",TLC
 https://www.tlctv.com.tr/canli-izle
-#EXTINF:-1 tvg-id="Showmax " tvg-name="Showmax " group-title="TEST" tvg-logo="https://www.lyngsat.com/logo/tv/ss/show-max-tr.svg",Showmax
+#EXTINF:-1 tvg-id="Showmax " tvg-name="Showmax " group-title="TEST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/show-max-tr.png",Showmax
 https://www.showmax.com.tr/canliyayin
 #EXTINF:-1 tvg-id="Cnbc-e" tvg-name="Cnbc-e" group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/CNBC-e-Logo.png",Cnbc-e
 https://www.cnbce.com/canli-yayin
 #EXTINF:-1 tvg-id="TV 5" tvg-name="TV 5" group-title="TEST" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/a/a5/TV5.jpg?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original",TV 5
 https://www.tv5.com.tr/canli-yayin
-#EXTINF:-1 tvg-id="Teve2 " tvg-name="Teve2 " group-title="TEST" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-2-tr.svg",Tv2
+#EXTINF:-1 tvg-id="Teve2 " tvg-name="Teve2 " group-title="TEST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tv2-tr.png",Tv2
 https://www.teve2.com.tr/canli-yayin
 #EXTINF:-1 tvg-id="Ntv" tvg-name="Ntv" group-title="TEST" tvg-logo="https://avatars.mds.yandex.net/i?id=dbdba02ce8b22c342c2c4a3d558d4ecf40c6f02c-12731609-images-thumbs&n=13",Ntv
 https://www.ntv.com.tr/canli-yayin/ntv
