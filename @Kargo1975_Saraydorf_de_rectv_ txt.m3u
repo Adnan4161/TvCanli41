@@ -383,8 +383,7 @@ https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2aa
 #EXTINF:-1 tvg-id="Nr1 Ask" tvg-name="Nr1 Ask" group-title="MÜZİK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/nr1-ask-hd-tr.png",Nr1 Ask
 https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Boncuk Tv" tvg-name="Boncuk Tv" group-title="ÇOCUK" tvg-logo="https://i.ibb.co/LdkpP5GS/boncuktv.png",Boncuk Tv
-http://104.238.23.191/BoncukTV/live/index.m3u8
+
 #EXTINF:-1 tvg-id="TRTÇocuk" tvg-name="TRT Çocuk" group-title="ÇOCUK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/trt-cocuk-tr.png",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="Minikacocuk" tvg-name="Minikacocuk" group-title="ÇOCUK" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/minika-cocuk-tr.png",Minikacocuk
@@ -404,6 +403,8 @@ https://lord.ayakkabiparti.lol/bsseries3/index.m3u8
 https://lord.ayakkabiparti.lol/bsseries4/index.m3u8
 #EXTINF:-1 tvg-id="Tivi6" tvg-name="Tivi6" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tivi6-tr.png",Tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
+#EXTINF:-1 tvg-id="Boncuk Tv" tvg-name="Boncuk Tv" group-title="SİNEMA" tvg-logo="https://i.ibb.co/LdkpP5GS/boncuktv.png",Boncuk Tv
+http://104.238.23.191/BoncukTV/live/index.m3u8
 #EXTINF:-1 tvg-id="Tv 4" tvg-name="Tv 4" group-title="ULUSAL" tvg-logo="https://play-lh.googleusercontent.com/pVE6vap0zLCqp3-R_cLmBuis7r2tI1sUSQxlHVUnrJ1Jb72T17cbZy9FXr9PufD2Vm-g1dQ7y8xVwmDmcpEhzg=w480-h960-rw",Tv 4
 https://www.tv4.com.tr/canli-yayin
 #EXTINF:-1 tvg-id="Bengü Türk" tvg-name="Bengü Türk" group-title="ULUSAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bengu-turk-tr.png",Bengü Türk
