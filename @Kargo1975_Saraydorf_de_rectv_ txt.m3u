@@ -394,13 +394,13 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 https://www.youtube.com/watch?v=mKCieTImjvU
 
 #EXTINF:-1 tvg-id="Tivi6" tvg-name="Bein Series1" group-title="SİNEMA" tvg-logo="https://banner2.cleanpng.com/20181118/hlu/kisspng-bein-series-logo-bein-channels-network-bein-media-turkiye-tv-show-bing-images-5bf13a04b63317.5351684715425356847463.jpg",B Series 1
-https://lord.ayakkabiparti.lol/bsseries1/index.m3u8
+http://65.108.239.207/bsseries1/index.m3u8
 #EXTINF:-1 tvg-id="Tivi6" tvg-name="Bein Series2" group-title="SİNEMA" tvg-logo="https://banner2.cleanpng.com/20181118/hlu/kisspng-bein-series-logo-bein-channels-network-bein-media-turkiye-tv-show-bing-images-5bf13a04b63317.5351684715425356847463.jpg",B Series 2
-https://lord.ayakkabiparti.lol/bsseries2/index.m3u8
+http://65.108.239.207/bsseries2/index.m3u8
 #EXTINF:-1 tvg-id="Tivi6" tvg-name="Bein Series3" group-title="SİNEMA" tvg-logo="https://banner2.cleanpng.com/20181118/hlu/kisspng-bein-series-logo-bein-channels-network-bein-media-turkiye-tv-show-bing-images-5bf13a04b63317.5351684715425356847463.jpg",B Series 3
-https://lord.ayakkabiparti.lol/bsseries3/index.m3u8
+http://65.108.239.207/bsseries3/index.m3u8
 #EXTINF:-1 tvg-id="Tivi6" tvg-name="Bein Series4" group-title="SİNEMA" tvg-logo="https://banner2.cleanpng.com/20181118/hlu/kisspng-bein-series-logo-bein-channels-network-bein-media-turkiye-tv-show-bing-images-5bf13a04b63317.5351684715425356847463.jpg",B Series 4
-https://lord.ayakkabiparti.lol/bsseries4/index.m3u8
+http://65.108.239.207/bsseries4/index.m3u8
 #EXTINF:-1 tvg-id="Tivi6" tvg-name="Tivi6" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tivi6-tr.png",Tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:-1 tvg-id="Boncuk Tv" tvg-name="Boncuk Tv" group-title="SİNEMA" tvg-logo="https://i.ibb.co/LdkpP5GS/boncuktv.png",Boncuk Tv
@@ -430,11 +430,11 @@ https://edge.taksimbilisim.com/turkhaber/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Brüksel Türk TV" tvg-name="Brüksel Türk TV" group-title="HABER" tvg-logo="https://vipotv.com/wp-content/uploads/2020/04/brukselturktv.png",Brüksel Türk TV
 https://live.euromediacenter.com/brukselturk/index.m3u8
 #EXTINF:-1 tvg-id="B Box Office 1" tvg-name="B Box Office 1" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-box-office-1-tr.png",B Box Office 1
-https://live.weinformers.com/wp-admin/admin-ajax.php?action=ucs_proxy_m3u8&url=http://65.108.239.207/box1/index.m3u8
+http://65.108.239.207/box1/index.m3u8
 #EXTINF:-1 tvg-id="B Box Office 1" tvg-name="B Box Office 1" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-box-office-1-tr.png",B Box Office 1 (v)
 https://huhu.to/vavoo-iptv/play/29307461023dd1f85985b0
 #EXTINF:-1 tvg-id="B Stars" tvg-name="B Stars" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-movies-stars-hd-tr.png",B Stars
-https://lord.ayakkabiparti.lol/bsstars/index.m3u8
+http://gatotimerte.theworkpc.com/meg0tor0ako/kinotarek/1.m3u8?v=aHR0cHM6Ly93d3cub2hhLnRvL29oYS10di9wbGF5LzI1MDA5MTMxNjQ1ZDEyZDFlNDY1MjI=
 #EXTINF:-1 tvg-id="B Stars" tvg-name="B Stars" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-movies-stars-hd-tr.png",B Stars (v)
 https://huhu.to/vavoo-iptv/play/19637487849304979bfdcb
 #EXTINF:-1 tvg-id="B Movies Türk" tvg-name="B Movies Türk" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-movies-turk-hd-tr.png",B Movies Türk
