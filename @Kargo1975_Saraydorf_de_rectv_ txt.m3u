@@ -3604,3 +3604,6 @@ https://www.youtube.com/watch?v=AOCx3MTX50c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DHJ847M2/icon.png" group-title="YOUTUBE 7/24", Yeşilçam 7/24
 https://www.youtube.com/watch?v=NqbUZyS58u8
 
+#EXTINF:-1 tvg-name="PlayerCinema ACTION 1"tvg-logo="https://img.catcast.tv/uploads/10022026/logos/50341-698b353944331.png" group-title="SİNEMA" ,PlayerCinema Action 1
+
+https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinemaAction.m3u8
