@@ -12,7 +12,7 @@ https://www.kanald.com.tr/canli-yayin
 #EXTINF:-1 tvg-id="KanalD" tvg-name="Kanal D" group-title="ULUSAL" tvg-logo="https://i.imgur.com/9o1atM6.png",Kanal D (v)
 https://huhu.to/vavoo-iptv/play/231583905a5fd80471ac8
 #EXTINF:-1 tvg-id="StarTV" tvg-name="Star TV" group-title="ULUSAL" tvg-logo="https://i.ibb.co/7xcy7bxL/star.jpg",Star TV
-https://b.livev.xyz/star/index.m3u8
+https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web
 #EXTINF:-1 tvg-id="StarTV" tvg-name="Star TV" group-title="ULUSAL" tvg-logo="https://i.ibb.co/7xcy7bxL/star.jpg",Star TV (v)
 https://huhu.to/vavoo-iptv/play/69930592375bf26f3bb25
 #EXTINF:-1 tvg-id="ShowTV" tvg-name="Show TV" group-title="ULUSAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/show-tr.png",Show TV
@@ -459,8 +459,8 @@ https://saran-live.ercdn.net/disneyjunior/index.m3u8
 https://saran-live.ercdn.net/babytv/index.m3u8
 #EXTINF:-1 tvg-id="Keloğlan Tv" tvg-name="Keloğlan Tv" group-title="ÇOCUK" tvg-logo="https://cdn.sinemalar.com/images/movie/239576/poster/keloglan-1459206993.jpg",Keloğlan Tv (v)
 https://huhu.to/vavoo-iptv/play/4644476933bb028f5c20f
-#EXTINF:-1 tvg-id="Test Tv" tvg-name="Test Tv" group-title="ÇOCUK" tvg-logo="https://www.clipmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png",TestTv
-https://aksacli-stream-api-dizi.vercel.app/yayin/graveyard/S1B1
+#EXTINF:-1 tvg-id="Test Tv" tvg-name="Test Tv" group-title="ÇOCUK" tvg-logo="https://www.clipmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png",Test Tv
+https://www.startv.com.tr/canli-yayin
 #EXTINF:-1 tvg-id="Test Tv" tvg-name="Test Tv" group-title="ÇOCUK" tvg-logo="https://www.clipmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png",Test Tv2
 hhttps://www.ulketv.com/ulke-tv-canli-yayin
 #EXTINF:-1 tvg-id="Dizi Tv" tvg-name="Dizi Tv" group-title="SİNEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/d/d5/Dizi_TV_logosu.jpg",Dizi Tv
