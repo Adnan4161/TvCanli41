@@ -3410,10 +3410,15 @@ https://a8.radyotelekom.com.tr:3179/stream/play.m3u8
 https://rtmp.showplus.tv/hls/myshow.m3u8
 #EXTINF:-1 tvg-id="WDR TV" tvg-name="WDR TV" group-title="YURTDIŞI KARIŞIK" tvg-logo="https://vipotv.com/wp-content/uploads/2019/05/wdrfernsehen-min.png",WDR TV (Ger)
 https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8
+#EXTINF:-1 tvg-id="Lider Haber" tvg-name="Lider Haber" group-title="HABER" tvg-logo="https://liderhabercomtr.teimg.com/liderhaber-com-tr/uploads/2025/10/lider-4-2.png",Lider Haber
+https://radyotelekomtv.com/player/m3u8/12e31d9bb13fb21e4adcd3b67cfe7826/12e31d9bb13fb21e4adcd3b67cfe7826.m3u8
+#EXTINF:-1 tvg-id="Tv Net" tvg-name="Tv Net" group-title="HABER" tvg-logo="https://www.tvnet.com.tr/img/logo.png",Tv Net
+https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
 
 
 
-#EXTM3U
+
+
 #EXTINF:-1 tvg-name="PlayerCinema Action 1" tvg-logo="https://i.ibb.co/3mQDPVmJ/Cinema.jpg" group-title="SİNEMA",PlayerCinema Action 1
 https://raw.githubusercontent.com/dedmasteriptv/moykanal/refs/heads/main/PlayerCinemaAction.m3u8
 #EXTINF:-1 tvg-name="PlayerCinema Action 2" tvg-logo="https://i.ibb.co/3mQDPVmJ/Cinema.jpg" group-title="SİNEMA",PlayerCinema Action 2
