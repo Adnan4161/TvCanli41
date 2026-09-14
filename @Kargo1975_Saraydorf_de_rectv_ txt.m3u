@@ -55,7 +55,7 @@ https://www.dmax.com.tr/canli-izle
 https://www.tlctv.com.tr/canli-izle
 #EXTINF:-1 tvg-id="tgrtbelgesel" tvg-name="tgrtbelgesel" group-title="BELGESEL" tvg-logo="https://www.tgrtbelgesel.com.tr/wp-content/uploads/2021/08/TGRT_Belgesel_Logo.png",Tgrt Belgesel
 https://www.youtube.com/watch?v=32y7IEtD5OU
-#EXTINF:-1 tvg-id="Bbc Earth" tvg-name="Bbc Earth" group-title="BELGESEL" tvg-logo="https://static.wikia.nocookie.net/bbc/images/0/0f/BBC_Earth_channel.png/revision/latest?cb=20240207221203",Bbc Earth
+#EXTINF:-1 tvg-id="Bbc Earth" tvg-name="Bbc Earth" group-title="BELGESEL" tvg-logo="https://brond.co.uk/application/files/6514/6357/7200/B009-2066-BBC-Earth-Imagery-case-study-1.jpg",Bbc Earth
 http://65.108.239.207/bbc/index.m3u8
 #EXTINF:-1 tvg-id="Yaban Tv" tvg-name="Yaban Tv" group-title="BELGESEL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/yaban-tr.png",YabanTv
 https://www.canlitv.diy/yaban-tv?kat=belgesel
