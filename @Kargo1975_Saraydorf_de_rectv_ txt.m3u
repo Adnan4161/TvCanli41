@@ -105,7 +105,7 @@ https://live01.iha.tv/webabone/live/chunks.m3u8
 #EXTINF:-1 tvg-id="Cnn Türk" tvg-name="Cnn Türk" group-title="HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/cnn-turk-tr.png",Cnn Türk
 https://lord.ayakkabiparti.lol/cnn/index.m3u8
 #EXTINF:-1 tvg-id="Sözcütv" tvg-name="Sözcü tv" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png?utm_source=tr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",Sözcü Tv
-http://5.178.103.239:55/yt1/szctv.m3u8
+http://82.70.45.131/Uyan.php?ID=Sozcu TV
 #EXTINF:-1 tvg-id="Halktv" tvg-name="Halktv" group-title="HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/halk-tv-tr.png",Halktv
 https://halktv.com.tr/canli-yayin
 #EXTINF:-1 tvg-id="Haber Global" tvg-name="Haber Global" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Haber_Global_logo.svg/1280px-Haber_Global_logo.svg.png",Haber Global
