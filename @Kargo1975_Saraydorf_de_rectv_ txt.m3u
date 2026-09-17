@@ -85,7 +85,7 @@ hhttp://live.yt-hls.workers.dev/UCIHMK8qtjB_GNuXmeex6i8g.m3u8
 #EXTVLCOPT:http-referrer=https://player.tvkur.com/
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
 #EXTINF:-1 tvg-id="Agro Tv" tvg-name="Agro Tv" group-title="BELGESEL" tvg-logo="https://agrotvcomtr.teimg.com/agrotv-com-tr/uploads/2024/09/100x400-1.png",AgroTv
-https://www.canlitv.tech/hls/agrotv.m3u8
+https://agro.fatihdemirsoy.com:8181/memfs/5ff3d33b-25c1-400c-99ab-a60caa4c6873_output_0.m3u8
 #EXTINF:-1 tvg-id="Çiftçi Tv" tvg-name="Çiftçi Tv" group-title="BELGESEL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/ciftci-tv-tr.png",Çiftçi Tv
 https://live.artidijitalmedya.com/artidijital_ciftcitv/ciftcitv/chunks.m3u8
 #EXTINF:-1 tvg-id="Antik Çağda Uzaylılar (Ancient Aliens)" tvg-name="Antik Çağda Uzaylılar (Ancient Aliens)" group-title="BELGESEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzh-BVOfPPyZPZe0X7fy0K3026Uu2nDEd4yw&s",Antik Çağda Uzaylılar (Ancient Aliens) 7/24
