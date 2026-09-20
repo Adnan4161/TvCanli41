@@ -347,8 +347,8 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #EXTINF:-1 tvg-id="Baby Tv" tvg-name="Baby Tv" group-title="ÇOCUK" tvg-logo="https://www.clipartmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png",Baby Tv
 https://saran-live.ercdn.net/babytv/index.m3u8
-#EXTINF:-1 tvg-id="Test Tv" tvg-name="Test Tv" group-title="ÇOCUK" tvg-logo="https://www.clipmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png",TestTv
-https://aksacli-stream-api-dizi.vercel.app/yayin/23-000-lives-2026/1
+#EXTINF:-1 tvg-id="Test Tv" tvg-name="Test Tv" group-title="ÇOCUK" tvg-logo="https://www.clipmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png",Test Tv
+http://194.42.205.95/sunshine/f50qySiRMP9DOQcQ46ryJcKVScLoa_poPUvdENmgxfaLzvFg1h0l1sLGIPftYvzrfhifl2BSEDbVcTeZuTSjUFjFMiAmBi7oHseIB65uEGmtxdlSDsSg1qF2mRgeWJZ_ejQUHIsiFsMgT-H34PMQ8pg1Tx3t8dgPU7eM26uz7EcvsfHibYpTTE5wEIxdqM2sFuSxLJFcS7kRvneAr5EmpBKJ0CjAGlmMPffIzlWquPoyLpjq29Y8BJxd-_EgAJMA/hls/6ab030ae_153.ts
 #EXTINF:-1 tvg-id="Test Tv" tvg-name="Test Tv" group-title="ÇOCUK" tvg-logo="https://www.clipmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png",Test Tv2
 https://aksacli-stream-api-dizi.vercel.app/yayin/the-get-out-izle/1
 
