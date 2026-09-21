@@ -347,8 +347,8 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #EXTINF:-1 tvg-id="Baby Tv" tvg-name="Baby Tv" group-title="ÇOCUK" tvg-logo="https://www.clipartmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png",Baby Tv
 https://saran-live.ercdn.net/babytv/index.m3u8
-#EXTINF:-1 tvg-id="Test Tv" tvg-name="Test Tv" group-title="ÇOCUK" tvg-logo="https://www.clipmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png",Test Tv
-https://aksacli-stream-api-dizi.vercel.app/yayin/arinma-gecesi/s1b1
+#EXTINF:-1 tvg-id="Test Tv" tvg-name="Test Tv" group-title="ÇOCUK" tvg-logo="https://www.clipmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png",TestTv
+https://v2.catcast.tv/content/50534/seg-25636028-v1-a1/index.m3u8
 #EXTINF:-1 tvg-id="Test Tv" tvg-name="Test Tv" group-title="ÇOCUK" tvg-logo="https://www.clipmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png",Test Tv2
 https://aksacli-stream-api-dizi.vercel.app/yayin/gokyuzune-hukmedenler-izle/s1b1
 
