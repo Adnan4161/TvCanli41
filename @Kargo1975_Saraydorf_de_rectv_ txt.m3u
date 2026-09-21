@@ -481,39 +481,36 @@ https://cdn-teleonchannels.yayin.com.tr/teleonchannels/teleonchannels/chunklist_
 
 
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlBXuV3PWdMMy8fi7MUfufUeQugGne0ZlCyO7VSeqx_w&s" group-title="🎬 SİNEMA",SİRİUS TV
-https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgMTeEZ0dWannmloxFADwgEu65-YbeDOAdcIktBES0dw&s=10" group-title="🎬 SİNEMA",ŞABAN TV
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgMTeEZ0dWannmloxFADwgEu65-YbeDOAdcIktBES0dw&s=10" group-title="SİNEMA",ŞABAN TV
 https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd87634/a94fc44623d98b825183db41afd87634.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa8R84U_DM494UMrZXuFFtYOiY4OlL7feuuCqVZ5JTCg&s" group-title="🎬 SİNEMA",CENNET MAHALLESİ 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa8R84U_DM494UMrZXuFFtYOiY4OlL7feuuCqVZ5JTCg&s" group-title="SİNEMA",CENNET MAHALLESİ 
 https://playlist.fasttvcdn.com/pl/3k4ks1xutgm1fve4w1r6vq/cennetmahallesi/playlist/0.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLPK1gp6nOH4XqdNe9ozIJAm1vWyU6pvmTFxvYuPe2hAc5R5O2HYBTMKc&s" group-title="🎬 SİNEMA",FLUX
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLPK1gp6nOH4XqdNe9ozIJAm1vWyU6pvmTFxvYuPe2hAc5R5O2HYBTMKc&s" group-title="SİNEMA",FLUX
 https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://www.cine5tv.com/wp-content/uploads/2025/10/cinelogo.png" group-title="🎬 SİNEMA",CİNE5 TV
+#EXTINF:-1 tvg-logo="https://www.cine5tv.com/wp-content/uploads/2025/10/cinelogo.png" group-title="SİNEMA",CİNE5 TV
 https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShP7VUpPsv0BA8Lec_echFs9SBfYiV6yd91icUK8ctFw&s=10" group-title="🎬 SİNEMA",TRT NOSTALJİ
-https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvZLrvn47GvrMPoF4O53z59dJ49HGcYguw8KtaCpomQ&s=10" group-title="🎬 SİNEMA",DENİZ POSTASI TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvZLrvn47GvrMPoF4O53z59dJ49HGcYguw8KtaCpomQ&s=10" group-title="SİNEMA",DENİZ POSTASI TV
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvZLrvn47GvrMPoF4O53z59dJ49HGcYguw8KtaCpomQ&s=10" group-title="🎬 SİNEMA",TEBER TÜRK TEMATİK
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvZLrvn47GvrMPoF4O53z59dJ49HGcYguw8KtaCpomQ&s=10" group-title="SİNEMA",TEBER TÜRK TEMATİK
 http://162.212.179.32/akamaissh101/ssh101/teber_1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvZLrvn47GvrMPoF4O53z59dJ49HGcYguw8KtaCpomQ&s=10" group-title="🎬 SİNEMA",TEBER TÜRK DİZİ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvZLrvn47GvrMPoF4O53z59dJ49HGcYguw8KtaCpomQ&s=10" group-title="SİNEMA",TEBER TÜRK DİZİ
 http://162.212.179.32/akamaissh101/ssh101/teber_3/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvZLrvn47GvrMPoF4O53z59dJ49HGcYguw8KtaCpomQ&s=10" group-title="🎬 SİNEMA",TEBER TÜRK YEŞİLÇAM
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvZLrvn47GvrMPoF4O53z59dJ49HGcYguw8KtaCpomQ&s=10" group-title="SİNEMA",TEBER TÜRK YEŞİLÇAM
 http://162.212.179.32/akamaissh101/ssh101/teber_2/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvZLrvn47GvrMPoF4O53z59dJ49HGcYguw8KtaCpomQ&s=10" group-title="🎬 SİNEMA",TEBER TÜRK GÜLDÜR GÜLDÜR
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvZLrvn47GvrMPoF4O53z59dJ49HGcYguw8KtaCpomQ&s=10" group-title="SİNEMA",TEBER TÜRK GÜLDÜR GÜLDÜR
 http://162.212.179.32/akamaissh101/ssh101/teber_4/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvZLrvn47GvrMPoF4O53z59dJ49HGcYguw8KtaCpomQ&s=10" group-title="🎬 SİNEMA",GÖPSEN TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvZLrvn47GvrMPoF4O53z59dJ49HGcYguw8KtaCpomQ&s=10" group-title="SİNEMA",GÖPSEN TV
 https://canli.gopsentv.com:3604/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvZLrvn47GvrMPoF4O53z59dJ49HGcYguw8KtaCpomQ&s=10" group-title="🎬 SİNEMA",YANSIMA SİNEMA
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvZLrvn47GvrMPoF4O53z59dJ49HGcYguw8KtaCpomQ&s=10" group-title="SİNEMA",YANSIMA SİNEMA
 http://162.212.179.32/akamaissh101/ssh101/ysmtvmedya/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvZLrvn47GvrMPoF4O53z59dJ49HGcYguw8KtaCpomQ&s=10" group-title="🎬 SİNEMA",YANSIMA NOSTALJİ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvZLrvn47GvrMPoF4O53z59dJ49HGcYguw8KtaCpomQ&s=10" group-title="SİNEMA",YANSIMA NOSTALJİ
 http://162.212.179.32/akamaissh101/ssh101/ymdanstv/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvZLrvn47GvrMPoF4O53z59dJ49HGcYguw8KtaCpomQ&s=10" group-title="🎬 SİNEMA",MAX YERLİ
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvZLrvn47GvrMPoF4O53z59dJ49HGcYguw8KtaCpomQ&s=10" group-title="SİNEMA",MAX YERLİ
 http://162.212.179.32/akamaissh101/ssh101/maxyerli/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvZLrvn47GvrMPoF4O53z59dJ49HGcYguw8KtaCpomQ&s=10" group-title="🎬 SİNEMA",MAX PREMİER
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvZLrvn47GvrMPoF4O53z59dJ49HGcYguw8KtaCpomQ&s=10" group-title="SİNEMA",MAX PREMİER
 http://162.212.179.32/akamaissh101/ssh101/maxpremier/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvZLrvn47GvrMPoF4O53z59dJ49HGcYguw8KtaCpomQ&s=10" group-title="🎬 SİNEMA",AKKON TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvZLrvn47GvrMPoF4O53z59dJ49HGcYguw8KtaCpomQ&s=10" group-title="SİNEMA",AKKON TV
 https://ip.akkontv.com:3205/stream/play.m3u8
 
 
