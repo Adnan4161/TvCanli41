@@ -3656,8 +3656,7 @@ https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/master.m3u8
 https://radyotelekomtv.com/player/m3u8/12e31d9bb13fb21e4adcd3b67cfe7826/12e31d9bb13fb21e4adcd3b67cfe7826.m3u8
 #EXTINF:-1 tvg-id="Tv Net" tvg-name="Tv Net" group-title="HABER" tvg-logo="https://www.tvnet.com.tr/img/logo.png",Tv Net
 https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
-#EXTINF:-1 tvg-id="World Türk" tvg-name="World Türk" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/f/f0/World_T%C3%BCrk_Logosu.jpg",World Türk
-https:///live/worldturktvstreamlive.m3u8
+
 
 
 
