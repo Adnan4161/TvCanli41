@@ -6,7 +6,7 @@ https://www.atv.com.tr/canli-yayin
 #EXTINF:-1 tvg-id="KanalD" tvg-name="Kanal D" group-title="ULUSAL" tvg-logo="https://i.imgur.com/9o1atM6.png",Kanal D
 https://www.kanald.com.tr/canli-yayin
 #EXTINF:-1 tvg-id="StarTV" tvg-name="Star TV" group-title="ULUSAL" tvg-logo="https://i.ibb.co/7xcy7bxL/star.jpg",Star TV
-https://dogus.daioncdn.net/startv/startv.m3u8?app=startv_web
+https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=8b7lgxw5regk&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 #EXTINF:-1 tvg-id="ShowTV" tvg-name="Show TV" group-title="ULUSAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/show-tr.png",Show TV
 https://www.showtv.com.tr/canli-yayin
 #EXTINF:-1 tvg-id="Now" tvg-name="Now" group-title="ULUSAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/now-tr.png",Now
