@@ -3582,6 +3582,7 @@ https://www.youtube.com/watch?v=r75lgloQ41c&t=1s
 https://www.youtube.com/watch?v=ZpZrej49qXk
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/IbP25phYNl-wRf4izvTyN11JIqwxhvkTDPFtqbkfoxDlS3m1yS-h0zu5F1Fzm1L78HMxUtw6=s160-c-k-c0x00ffffff-no-rj" group-title="SINETECH YOUTUBE", DAHİLİ PLAYER VE GÜNEŞ DNS İLE ARTIK HER ŞEY DAHA DA NET
 https://www.youtube.com/watch?v=TCRr1CAbKUo&t=84s
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/cnn-turk-tr.png" group-title="YOUTUBE YAYINLARI", Cnn Türk
 https://www.youtube.com/watch?v=6N8_r2uwLEc
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png?utm_source=tr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled" group-title="YOUTUBE YAYINLARI", Sözcü Tv
@@ -3604,6 +3605,8 @@ https://www.youtube.com/watch?v=jCoBWUqi6AI
 https://www.youtube.com/watch?v=WX29nlgdqho
 #EXTINF:-1 tvg-logo="https://www.tgrtbelgesel.com.tr/wp-content/uploads/2021/08/TGRT_Belgesel_Logo.png" group-title="YOUTUBE YAYINLARI", Tgrt Belgesel
 https://www.youtube.com/watch?v=32y7IEtD5OU
+#EXTINF:-1 tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/05/NatureTime_white_Primary.png" group-title="YOUTUBE YAYINLARI",Nature Time
+https://www.youtube.com/watch?v=KqnzY0CDagc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tvnet-tr.png" group-title="YOUTUBE YAYINLARI", Tv Net
 https://www.youtube.com/watch?v=Z5bqy4gwEmc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/akit-tv-tr.png" group-title="YOUTUBE YAYINLARI", Akit Tv
