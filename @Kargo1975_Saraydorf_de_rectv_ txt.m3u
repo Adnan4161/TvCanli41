@@ -107,7 +107,7 @@ https://live01.iha.tv/webabone/live/chunks.m3u8
 #EXTINF:-1 tvg-id="Cnn Türk" tvg-name="Cnn Türk" group-title="HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/cnn-turk-tr.png",Cnn Türk
 http://176.65.153.35:6005/play/a020/index.m3u8
 #EXTINF:-1 tvg-id="Sözcütv" tvg-name="Sözcü tv" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png?utm_source=tr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",Sözcü Tv
-https://cdn509.ecanlitvizle.live/sozcutv.m3u8?tkn=iBgRWLPp6mV6-89bYFXT5A&tms=1790978736&hst=www.ecanlitvizle.live&ip=176.33.65.154&utkn=4c0463f7038dd9a97b4da3a04525f65a&ch=sozcu-tv-canli-izle
+https://www.ecanlitvizle.live/sozcu-tv-canli-izle/
 #EXTINF:-1 tvg-id="Halktv" tvg-name="Halktv" group-title="HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/halk-tv-tr.png",Halktv
 https://halktv.com.tr/canli-yayin
 #EXTINF:-1 tvg-id="Haber Global" tvg-name="Haber Global" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Haber_Global_logo.svg/1280px-Haber_Global_logo.svg.png",Haber Global
@@ -350,8 +350,8 @@ https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #EXTINF:-1 tvg-id="Baby Tv" tvg-name="Baby Tv" group-title="ÇOCUK" tvg-logo="https://www.clipartmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png",Baby Tv
 https://saran-live.ercdn.net/babytv/index.m3u8
-#EXTINF:-1 tvg-id="Test Tv" tvg-name="Test Tv" group-title="ÇOCUK" tvg-logo="https://www.clipmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png",Test Tv
-https://www.ecanlitvizle.live/sozcu-tv-canli-izle/
+#EXTINF:-1 tvg-id="Test Tv" tvg-name="Test Tv" group-title="ÇOCUK" tvg-logo="https://www.clipmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png",TestTv
+https://www.ecanlitvizle.live/bein-sports-haber-hd/
 #EXTINF:-1 tvg-id="Test Tv" tvg-name="Test Tv" group-title="ÇOCUK" tvg-logo="https://www.clipmax.com/png/middle/118-1188859_https-www-babytv-com-baby-tv-logo-png.png",TestTv2
 #EXTVLCOPT:http-referrer=https://dbx.molystream.org/embed/7836-65fbede39f4d800589cf0fda
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
