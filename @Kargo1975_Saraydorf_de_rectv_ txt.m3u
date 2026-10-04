@@ -105,7 +105,7 @@ https://www.trtworld.com/
 #EXTINF:-1 tvg-id="İHA" tvg-name="İHA" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/3/39/%C4%B0HA_Logo.jpg",İHA
 https://live01.iha.tv/webabone/live/chunks.m3u8
 #EXTINF:-1 tvg-id="Cnn Türk" tvg-name="Cnn Türk" group-title="HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/cnn-turk-tr.png",Cnn Türk
-https://www.youtube.com/watch?v=eDqS1tvBwi0
+https://www.youtube.com/watch?v=6N8_r2uwLEc
 #EXTINF:-1 tvg-id="Sözcütv" tvg-name="Sözcü tv" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/ed/SZC_TV_logo.png?utm_source=tr.wikipedia.org&utm_campaign=parser&utm_content=thumbnail_unscaled",Sözcü Tv
 https://www.ecanlitvizle.live/sozcu-tv-canli-izle/
 #EXTINF:-1 tvg-id="Halktv" tvg-name="Halktv" group-title="HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/halk-tv-tr.png",Halktv
