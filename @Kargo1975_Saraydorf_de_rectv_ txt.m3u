@@ -81,8 +81,6 @@ http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/2c50d6dc-9669-4ff5-a04d-9fad601
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/e50821ba-9c39-40b1-b6b4-7657ff96b8a0.m3u
 #EXTINF:-1 tvg-id="B IZ" tvg-name="B IZ" group-title="BELGESEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREm1Dd1REwtBZimALVwgoOU3ztrctvO0lK1A&s",B IZ
 http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/61c69d50-64da-4743-98f1-67dae4e34354.m3u
-#EXTINF:-1 tvg-id="Bizim Ev" tvg-name="Bizim Ev" group-title="BELGESEL" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2025/09/bizim-ev-tv.webp",Bizim Ev
-https://www.youtube.com/watch?v=80t7luQisgA
 #EXTINF:-1 tvg-id="Tarım Tv" tvg-name="Tarım Tv" group-title="BELGESEL" tvg-logo="https://haberhd.com/upload/tv/k_tarim-tv-logo_20240813141133.jpeg",Tarım Tv
 #EXTVLCOPT:http-referrer=https://player.tvkur.com/
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
@@ -379,6 +377,8 @@ https://huhu.to/vavoo-iptv/play/1595495667292319e147ce
 https://huhu.to/vavoo-iptv/play/17668406603d2e9e4942ac
 #EXTINF:-1 tvg-id="tgrtbelgesel" tvg-name="tgrtbelgesel" group-title="Vavoo Türkiye" tvg-logo="https://www.tgrtbelgesel.com.tr/wp-content/uploads/2021/08/TGRT_Belgesel_Logo.png",Tgrt Belgesel
 https://huhu.to/vavoo-iptv/play/2753787815ca92c106e311
+#EXTINF:-1 tvg-id="Bizim Ev" tvg-name="Bizim Ev" group-title="BELGESEL" tvg-logo="https://i.imgur.com/eJa6sFY.png",Bizim Ev
+https://www.youtube.com/watch?v=80t7luQisgA
 #EXTINF:-1 tvg-id="Bbc Earth" tvg-name="Bbc Earth" group-title="Vavoo Türkiye" tvg-logo="https://static.wikia.nocookie.net/bbc/images/0/0f/BBC_Earth_channel.png/revision/latest?cb=20240207221203",Bbc Earth
 https://huhu.to/vavoo-iptv/play/22284968562a623d1b95b4
 #EXTINF:-1 tvg-id="Yaban Tv" tvg-name="Yaban Tv" group-title="Vavoo Türkiye" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/yaban-tr.png",Yaban Tv
