@@ -217,7 +217,7 @@ https://ip100.radyotelekomtv.com:3034/hybrid/play.m3u8
 https://2i4.d72577a9dd0ec71.cfd/smarts/mono.m3u8
 #EXTINF:-1 tvg-id="Spor Smart 2" tvg-name="Spor Smart 2" group-title="SPOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fd/Smart-spor-hd.png?utm_source=tr.wikipedia.org&utm_campaign=index&utm_content=original",Spor Smart 2
 https://2i4.d72577a9dd0ec71.cfd/sms2/mono.m3u8
-#EXTINF:-1 tvg-id="Bi Kanal" tvg-name="Bi Kanal" group-title="SPOR" tvg-logo="https://yt3.googleusercontent.com/4YCt21qCi-6kw6DpxuqhvHYekgnOeaSP01VBQSiINXXTM9x1FtQBkClgatnf0kkYSbk7yWkH=s900-c-k-c0x00ffffff-no-rj",Bi Kanal
+#EXTINF:-1 tvg-id="Bi Kanal" tvg-name="Bi Kanal" group-title="SİNEMA" tvg-logo="https://yt3.googleusercontent.com/4YCt21qCi-6kw6DpxuqhvHYekgnOeaSP01VBQSiINXXTM9x1FtQBkClgatnf0kkYSbk7yWkH=s900-c-k-c0x00ffffff-no-rj",Bi Kanal
 https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
 #EXTINF:-1 tvg-id="Sıfır Tv" tvg-name="Sıfır Tv" group-title="SPOR" tvg-logo="https://www.sifirtv.com/sifir-tv-logo.png",Sıfır Tv
 https://biraz.6781237.xyz/checklist/androstreamlivets.m3u8
