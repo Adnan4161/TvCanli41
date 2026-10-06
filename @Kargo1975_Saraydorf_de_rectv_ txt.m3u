@@ -112,8 +112,6 @@ https://www.ecanlitvizle.live/sozcu-tv-canli-izle/
 https://halktv.com.tr/canli-yayin
 #EXTINF:-1 tvg-id="Haber Global" tvg-name="Haber Global" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Haber_Global_logo.svg/1280px-Haber_Global_logo.svg.png",Haber Global
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
-#EXTINF:-1 tvg-id="Tele1" tvg-name="Tele1" group-title="HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tele1-tr.png",Tele1
-https://tele1-live.ercdn.net/tele1/tele1.m3u8
 #EXTINF:-1 tvg-id="Bloomberght" tvg-name="Bloomberght" group-title="HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bloomberg-ht-tr.png",Bloomberght
 https://www.bloomberght.com/tv
 #EXTINF:-1 tvg-id="Akit Tv" tvg-name="Akit Tv" group-title="HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/akit-tv-tr.png",Akit Tv
