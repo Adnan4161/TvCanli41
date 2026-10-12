@@ -62,13 +62,13 @@ https://www.canlitv.diy/yaban-tv?kat=belgesel
 #EXTINF:-1 tvg-logo="https://naturetimetv.com/wp-content/uploads/2023/05/NatureTime_white_Primary.png" group-title="BELGESEL", Nature Time
 http://45.88.139.156/yt1/naturtime2.m3u8
 #EXTINF:-1 tvg-id="DocuScreen" tvg-name="DocuScreen" group-title="BELGESEL" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2025/09/docuscreen-300x217.webp",DocuScreen
-http://65.108.239.207/docubox/index.m3u8
+hhttp://65.108.239.207/docubox/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TARIH TV .c"" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tarih-tv-logo-siyah-1080x1080.png/500px-Tarih-tv-logo-siyah-1080x1080.png"group-title="BELGESEL",Tarih Tv
-http://deviceonly.xyz:8080/hedBt8eKPc/dhtXpZMd84/594663
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197450&extension=ts
 #EXTINF:-1 tvg-id="Viasathistory" tvg-name="Viasathistory" group-title="BELGESEL" tvg-logo="https://avatars.mds.yandex.net/i?id=b4edf6ed0cf240e5ff111efc7bd5e4f94ae97e4a-5243845-images-thumbs&n=13",Viasathistory
-http://deviceonly.xyz:8080/hedBt8eKPc/dhtXpZMd84/594659
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197420&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="4K TR: VIASAT EXPLORE .b"" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Viasat_Explore-logo.svg"group-title="BELGESEL",Viasat Explore
-http://deviceonly.xyz:8080/hedBt8eKPc/dhtXpZMd84/594656
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197442&extension=ts
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" group-title="BELGESEL" tvg-logo="https://yandex-images.clstorage.net/5pbQp6130/9d578cbRd42/FSG66xdnfCWb5IA0JY6aoPBf5JH4LWTQt5am8oHHN6U9pjtrLxGFdDOuuAKi4gUTJUnpQdMk8z32x1dk3YALJdTy6fvHIaryySLSJyRM26cimLaR6epwUnJQZTOVBezqtHqnMPHcD72s82vCoeNEA2DfKlTBtKKzOcPXtAyaU33b4L4ukb1-YhGzDPlsC1Et51gm2mOm8pjywi7lwFTpZ_W4qT4ylU64pfOkji7nj8Z11KHaVzwtuDIXF_jI1ph6WK847JIx9-ZTMkzyaIWRq21U5RGuLjPWvkzip01Uo-t3uW31c9gEP634ocFjqMWOt5nvnd63onCwEZ50QV7Q8t0g8-YV8v7oWXOFcS0LnWxiHixWoyoxU7KCby7AkemnenmqtjDVzTVq8GdCaCYOxncbpBqeM261dBmfesQYFHfUYbir2D3_7BG6hjzvzRrlLx5m1Wouu9k_y6ptRRgh4bW5pjN52wS1J7Vpi-ZhDAB23qAS0Tpv9fNSlriAXtM33uaw6ZAxf6qftQw-bYJZ72_foFrjavaXu4xlrodYqW__Om56tJsOtmp954Gir0fIsxSqVp46I7692RR0TpgVN5kluiZa-PWhnPOCNa2G021hmalWbmX_kLOCZixPUWNg8XBttLESQHTvdebI7OmFi3KTJdPZsy75exFaOcgU1HUYIjDlWj2_IR00BbkgBhggahcgXeAvcJA6jGMtA5tu5r82bTY5lIZy7DGsiejvj8FwUyLaF_vnN3-bE_1JkJf7HmixKhD1ey-b-wR94wqdq-LQplChIzAW8I2soYtUJyE3e6V1M1qFvKL1pIZoaA2EPh9iXtR4Y780HlkwhFef-JZl82aXOTbkX7SHt2rC0WQvHaTfLmZ-WTLBZ6EMkK5meD6hPjpRzLfqvGVJoysPDfcdYh5ZuKu9e12eOYSelvUcp7CrWnc0KFv8S7QkjZAq5pdvXqal91d_Q2UkSk",Discovery Channel
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197427&extension=ts
 #EXTINF:-1 tvg-id="Discovery ID" tvg-name="Discovery ID" group-title="BELGESEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/1280px-InvestigationDiscoveryLogo2020.svg.png",Discovery ID
@@ -80,7 +80,7 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=19743
 #EXTINF:-1 tvg-id="Natgeowild" tvg-name="Natgeowild" group-title="BELGESEL" tvg-logo="https://avatars.mds.yandex.net/i?id=c33008f4627c5248a57c03648349c9cf3207fd9a-4395607-images-thumbs&n=13",Natgeo Wild
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197432&extension=ts
 #EXTINF:-1 tvg-id="B IZ" tvg-name="B IZ" group-title="BELGESEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREm1Dd1REwtBZimALVwgoOU3ztrctvO0lK1A&s",B IZ
-http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/61c69d50-64da-4743-98f1-67dae4e34354.m3u
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197425&extension=ts
 #EXTINF:-1 tvg-id="Tarım Tv" tvg-name="Tarım Tv" group-title="BELGESEL" tvg-logo="https://haberhd.com/upload/tv/k_tarim-tv-logo_20240813141133.jpeg",Tarım Tv
 #EXTVLCOPT:http-referrer=https://player.tvkur.com/
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
@@ -305,8 +305,6 @@ http://104.238.23.191/BoncukTV/live/index.m3u8
 https://www.tv4.com.tr/canli-yayin
 #EXTINF:-1 tvg-id="Bengü Türk" tvg-name="Bengü Türk" group-title="HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bengu-turk-tr.png",Bengü Türk
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
-#EXTINF:-1 tvg-id="Gzt Tv" tvg-name="Gzt Tv" group-title="BELGESEL" tvg-logo="https://i.ibb.co/9s9YKYT/gzt.png",Gzt Tv
-https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
 #EXTINF:-1 tvg-id="Haber 61" tvg-name="Haber 61" group-title="HABER" tvg-logo="https://www.haber61.net/uploads/settings/2026/03/logo-1773139364.png-EzlLPF3p.png",Haber 61
 https://cdn1-haber61tv.yayin.com.tr/haber61tv/haber61tv/playlist.m3u8
 #EXTINF:-1 tvg-id="A Haber" tvg-name="A Haber" group-title="HABER" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/Ahaber_Logo.png",A Haber
