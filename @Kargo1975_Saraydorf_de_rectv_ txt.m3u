@@ -299,14 +299,14 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1 tvg-id="ŞÖMİNE" tvg-name="ŞÖMİNE" group-title="ŞÖMİNE" tvg-logo="https://i.ibb.co/4yk3ccg/mine.png",Şömine (Sesli)
 https://www.youtube.com/watch?v=mKCieTImjvU
-#EXTINF:-1 tvg-id="Tivi6" tvg-name="Bein Series1" group-title="SİNEMA" tvg-logo="https://banner2.cleanpng.com/20181118/hlu/kisspng-bein-series-logo-bein-channels-network-bein-media-turkiye-tv-show-bing-images-5bf13a04b63317.5351684715425356847463.jpg",B Series 1
-http://destektechx.xyz:8080/YxPvUvC9CtCM/p28dWqasd123XqweG2CpOduVd/80353
-#EXTINF:-1 tvg-id="Tivi6" tvg-name="Bein Series2" group-title="SİNEMA" tvg-logo="https://banner2.cleanpng.com/20181118/hlu/kisspng-bein-series-logo-bein-channels-network-bein-media-turkiye-tv-show-bing-images-5bf13a04b63317.5351684715425356847463.jpg",B Series 2
-http://65.108.239.207/bsseries2/index.m3u8
-#EXTINF:-1 tvg-id="Tivi6" tvg-name="Bein Series3" group-title="SİNEMA" tvg-logo="https://banner2.cleanpng.com/20181118/hlu/kisspng-bein-series-logo-bein-channels-network-bein-media-turkiye-tv-show-bing-images-5bf13a04b63317.5351684715425356847463.jpg",B Series 3
-http://65.108.239.207/bsseries3/index.m3u8
-#EXTINF:-1 tvg-id="Tivi6" tvg-name="Bein Series4" group-title="SİNEMA" tvg-logo="https://banner2.cleanpng.com/20181118/hlu/kisspng-bein-series-logo-bein-channels-network-bein-media-turkiye-tv-show-bing-images-5bf13a04b63317.5351684715425356847463.jpg",B Series 4
-http://65.108.239.207/bsseries4/index.m3u8
+#EXTINF:-1 tvg-id="Bein Series1" tvg-name="Bein Series1" group-title="SİNEMA" tvg-logo="https://banner2.cleanpng.com/20181118/hlu/kisspng-bein-series-logo-bein-channels-network-bein-media-turkiye-tv-show-bing-images-5bf13a04b63317.5351684715425356847463.jpg",B Series 1
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197146&extension=ts
+#EXTINF:-1 tvg-id="Bein Series2" tvg-name="Bein Series2" group-title="SİNEMA" tvg-logo="https://banner2.cleanpng.com/20181118/hlu/kisspng-bein-series-logo-bein-channels-network-bein-media-turkiye-tv-show-bing-images-5bf13a04b63317.5351684715425356847463.jpg",B Series 2
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197148&extension=ts
+#EXTINF:-1 tvg-id="Bein Series3" tvg-name="Bein Series3" group-title="SİNEMA" tvg-logo="https://banner2.cleanpng.com/20181118/hlu/kisspng-bein-series-logo-bein-channels-network-bein-media-turkiye-tv-show-bing-images-5bf13a04b63317.5351684715425356847463.jpg",B Series 3
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197151&extension=ts
+#EXTINF:-1 tvg-id="Bein Series4" tvg-name="Bein Series4" group-title="SİNEMA" tvg-logo="https://banner2.cleanpng.com/20181118/hlu/kisspng-bein-series-logo-bein-channels-network-bein-media-turkiye-tv-show-bing-images-5bf13a04b63317.5351684715425356847463.jpg",B Series 4
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197150&extension=ts
 #EXTINF:-1 tvg-id="Tivi6" tvg-name="Tivi6" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tivi6-tr.png",Tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:-1 tvg-id="Boncuk Tv" tvg-name="Boncuk Tv" group-title="SİNEMA" tvg-logo="https://i.ibb.co/LdkpP5GS/boncuktv.png",Boncuk Tv
