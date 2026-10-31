@@ -330,7 +330,7 @@ https://live.euromediacenter.com/brukselturk/index.m3u8
 #EXTINF:-1 tvg-id="B Box Office 1" tvg-name="B Box Office 1" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-box-office-1-tr.png",B Box Office 1
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197154&extension=ts
 #EXTINF:-1 tvg-id="B Stars" tvg-name="B Stars" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-movies-stars-hd-tr.png",B Stars
-http://65.108.239.207/bsstars/index.m3u8
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197149&extension=ts
 #EXTINF:-1 tvg-id="B Movies Türk" tvg-name="B Movies Türk" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-movies-turk-hd-tr.png",B Movies Türk
 hhttp://mag.tivi-one-iptv.net/play/live.php?mac=00%3A1A%3A79%3A4F%3A67%3A78&stream=197425&extension=ts
 #EXTINF:-1 tvg-id="Epic Drama" tvg-name="Epic Drama" group-title="SİNEMA" tvg-logo="https://image.pngaaa.com/398/2715398-middle.png",Epic Drama
