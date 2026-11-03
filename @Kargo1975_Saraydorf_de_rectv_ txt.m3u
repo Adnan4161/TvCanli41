@@ -304,7 +304,7 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=19714
 #EXTINF:-1 tvg-id="Bein Series2" tvg-name="Bein Series2" group-title="SİNEMA" tvg-logo="https://banner2.cleanpng.com/20181118/hlu/kisspng-bein-series-logo-bein-channels-network-bein-media-turkiye-tv-show-bing-images-5bf13a04b63317.5351684715425356847463.jpg",B Series 2
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197148&extension=ts
 #EXTINF:-1 tvg-id="Bein Series3" tvg-name="Bein Series3" group-title="SİNEMA" tvg-logo="https://banner2.cleanpng.com/20181118/hlu/kisspng-bein-series-logo-bein-channels-network-bein-media-turkiye-tv-show-bing-images-5bf13a04b63317.5351684715425356847463.jpg",B Series 3
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197151&extension=ts
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=197151&extension=ts
 #EXTINF:-1 tvg-id="Bein Series4" tvg-name="Bein Series4" group-title="SİNEMA" tvg-logo="https://banner2.cleanpng.com/20181118/hlu/kisspng-bein-series-logo-bein-channels-network-bein-media-turkiye-tv-show-bing-images-5bf13a04b63317.5351684715425356847463.jpg",B Series 4
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197150&extension=ts
 #EXTINF:-1 tvg-id="Tivi6" tvg-name="Tivi6" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tivi6-tr.png",Tivi 6
