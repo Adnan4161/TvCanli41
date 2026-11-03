@@ -123,23 +123,23 @@ https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 #EXTINF:-1 tvg-id="Sinemaaile" tvg-name="Sinemaaile" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-aile-hz-tr.png",Sinema Aile
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197131&extension=ts
 #EXTINF:-1 tvg-id="Sinemaaksiyon" tvg-name="Sinemaaksiyon" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-aksiyon-tr.png",Sinema Aksiyon
-https://huhu.to/vavoo-iptv/play/129312789771362713c30c
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197134&extension=ts
 #EXTINF:-1 tvg-id="Sinemaaksiyon2" tvg-name="Sinemaaksiyon2" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-aksiyon2-tr.png",Sinema Aksiyon 2
-https://huhu.to/vavoo-iptv/play/179563017fcc76df8dfba
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197133&extension=ts
 #EXTINF:-1 tvg-id="Sinema Yerli" tvg-name="Sinema Yerli" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-yerli-tr.png",Sinema Yerli
-http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/42d8aaea-b75b-48e8-9b06-c89e3b188016.m3u
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197123&extension=ts
 #EXTINF:-1 tvg-id="Sinemakomedi" tvg-name="Sinemakomedi" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-komedi-tr.png",Sinema Komedi
-https://65.108.239.207/sinemakomedi/index.m3u8
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197126&extension=ts
 #EXTINF:-1 tvg-id="Sinemakomedi2" tvg-name="Sinemakomedi2" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-komedi2-tr.png",Sinema Komedi 2
-https://a.psrectv80.xyz/sinemakomedi2/index.m3u8
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197125&extension=ts
 #EXTINF:-1 tvg-id="Sinematv" tvg-name="Sinematv" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-tv-tr.png",Sinema Tv
-http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/01ab29a4-310a-4cf3-8ce1-88312e2035e4.m3u
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197130&extension=ts
 #EXTINF:-1 tvg-id="Sinematv2" tvg-name="Sinematv2" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-tv2-tr.png",Sinema Tv 2
-https://one.mariuannastluisborg.autos/sinema2/index.m3u8
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197129&extension=ts
 #EXTINF:-1 tvg-id="Sinema1001" tvg-name="Sinema1001" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-1001-tr.png",Sinema1001
-https://lord.mariuannastluisborg.autos/sinema1001/index.m3u8
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197121&extension=ts
 #EXTINF:-1 tvg-id="Sinema1002" tvg-name="Sinema1002" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-1002-tr.png",Sinema1002
-http://europlayiptv.de/live/alinihsan/da9Cmdy3n2/77296fca-f37f-4b64-9467-df7e8e8c7116.m3u
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197120&extension=ts
 #EXTINF:-1 tvg-id="Fx" tvg-name="Fx" group-title="SİNEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/1280px-FX_Logo_2023.svg.png?utm_source=tr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",Fx
 https://saran-live.ercdn.net/fx/index.m3u8
 
