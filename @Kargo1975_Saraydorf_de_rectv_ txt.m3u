@@ -123,9 +123,9 @@ https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 #EXTINF:-1 tvg-id="Sinemaaile" tvg-name="Sinemaaile" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-aile-hz-tr.png",Sinema Aile
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197131&extension=ts
 #EXTINF:-1 tvg-id="Sinemaaksiyon" tvg-name="Sinemaaksiyon" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-aksiyon-tr.png",Sinema Aksiyon
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197134&extension=ts
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=197134&extension=ts
 #EXTINF:-1 tvg-id="Sinemaaksiyon2" tvg-name="Sinemaaksiyon2" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-aksiyon2-tr.png",Sinema Aksiyon 2
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197133&extension=ts
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=197133&extension=ts
 #EXTINF:-1 tvg-id="Sinema Yerli" tvg-name="Sinema Yerli" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-yerli-tr.png",Sinema Yerli
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197123&extension=ts
 #EXTINF:-1 tvg-id="Sinemakomedi" tvg-name="Sinemakomedi" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-komedi-tr.png",Sinema Komedi
