@@ -139,9 +139,9 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:5E:89:74&stream=19713
 #EXTINF:-1 tvg-id="Sinematv2" tvg-name="Sinematv2" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-tv2-tr.png",Sinema Tv 2
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197129&extension=ts
 #EXTINF:-1 tvg-id="Sinema1001" tvg-name="Sinema1001" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-1001-tr.png",Sinema1001
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197121&extension=ts
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:5E:89:74&stream=197121&extension=ts
 #EXTINF:-1 tvg-id="Sinema1002" tvg-name="Sinema1002" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-1002-tr.png",Sinema1002
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197120&extension=ts
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:5E:89:74&stream=197120&extension=ts
 #EXTINF:-1 tvg-id="Fx" tvg-name="Fx" group-title="SİNEMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/FX_Logo_2023.svg/1280px-FX_Logo_2023.svg.png?utm_source=tr.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail",Fx
 https://saran-live.ercdn.net/fx/index.m3u8
 
