@@ -64,7 +64,7 @@ http://45.88.139.156/yt1/naturtime2.m3u8
 #EXTINF:-1 tvg-id="DocuScreen" tvg-name="DocuScreen" group-title="BELGESEL" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2025/09/docuscreen-300x217.webp",DocuScreen
 hhttp://65.108.239.207/docubox/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TARIH TV .c"" tvg-logo=" https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tarih-tv-logo-siyah-1080x1080.png/500px-Tarih-tv-logo-siyah-1080x1080.png"group-title="BELGESEL",Tarih Tv
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197450&extension=ts
+hhttp://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197450&extension=ts
 #EXTINF:-1 tvg-id="Viasathistory" tvg-name="Viasathistory" group-title="BELGESEL" tvg-logo="https://avatars.mds.yandex.net/i?id=b4edf6ed0cf240e5ff111efc7bd5e4f94ae97e4a-5243845-images-thumbs&n=13",Viasathistory
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:5E:89:74&stream=197420&extension=ts
 #EXTINF:-1 tvg-id="" tvg-name="4K TR: VIASAT EXPLORE .b"" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Viasat_Explore-logo.svg"group-title="BELGESEL",Viasat Explore
@@ -81,6 +81,8 @@ http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:5E:89:74&stream=19743
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:5E:89:74&stream=197432&extension=ts
 #EXTINF:-1 tvg-id="B IZ" tvg-name="B IZ" group-title="BELGESEL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREm1Dd1REwtBZimALVwgoOU3ztrctvO0lK1A&s",B IZ
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:5E:89:74&stream=197425&extension=ts
+#EXTINF:-1 tvg-id="B Gurme" tvg-name="B Gurme" group-title="BELGESEL" tvg-logo="https://vectorseek.com/wp-content/uploads/2024/02/bein-gurme-Logo-Vector.svg-.png",B Gurme
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:5E:89:74&stream=197426&extension=ts
 #EXTINF:-1 tvg-id="Tarım Tv" tvg-name="Tarım Tv" group-title="BELGESEL" tvg-logo="https://haberhd.com/upload/tv/k_tarim-tv-logo_20240813141133.jpeg",Tarım Tv
 #EXTVLCOPT:http-referrer=https://player.tvkur.com/
 https://content.tvkur.com/l/c7e1da7mm25p552d9u9g/master.m3u8
