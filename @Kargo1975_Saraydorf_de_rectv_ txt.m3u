@@ -123,7 +123,7 @@ https://ensonhaber-live.ercdn.net/tv100/tv100_1080p.m3u8
 #EXTINF:-1 tvg-id="Finans Türk" tvg-name="Finans Türk" group-title="HABER" tvg-logo="https://finansturktv.com/images/logo.png",Finans Türk
 https://yayin30.haber100.com/live/finansturk/playlist.m3u8
 #EXTINF:-1 tvg-id="Sinemaaile" tvg-name="Sinemaaile" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-aile-hz-tr.png",Sinema Aile
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197131&extension=ts
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:5E:89:74&stream=197131&extension=ts
 #EXTINF:-1 tvg-id="Sinemaaksiyon" tvg-name="Sinemaaksiyon" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-aksiyon-tr.png",Sinema Aksiyon
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:A8:B7:16&stream=197134&extension=ts
 #EXTINF:-1 tvg-id="Sinemaaksiyon2" tvg-name="Sinemaaksiyon2" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-aksiyon2-tr.png",Sinema Aksiyon 2
