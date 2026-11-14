@@ -133,7 +133,7 @@ http://line.cdnteam-tv1.online:80/play/live.php?mac=00:1B:79:33:12:16&stream=147
 #EXTINF:-1 tvg-id="Sinema Yerli2" tvg-name="Sinema Yerli2" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-yerli-tr.png",Sinema Yerli 2
 http://me.mdmfista.com:80/play/live.php?mac=00:1A:79:F5:CE:2E&stream=1471696&extension=ts
 #EXTINF:-1 tvg-id="Sinemakomedi" tvg-name="Sinemakomedi" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-komedi-tr.png",Sinema Komedi
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197126&extension=ts
+http://line.cdnteam-tv1.online:80/play/live.php?mac=00:1B:79:33:12:16&stream=1471694&extension=ts
 #EXTINF:-1 tvg-id="Sinemakomedi2" tvg-name="Sinemakomedi2" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-komedi2-tr.png",Sinema Komedi 2
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197125&extension=ts
 #EXTINF:-1 tvg-id="Sinematv" tvg-name="Sinematv" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/sinema-tv-tr.png",Sinema Tv
