@@ -304,13 +304,13 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 #EXTINF:-1 tvg-id="ŞÖMİNE" tvg-name="ŞÖMİNE" group-title="ŞÖMİNE" tvg-logo="https://i.ibb.co/4yk3ccg/mine.png",Şömine (Sesli)
 https://www.youtube.com/watch?v=mKCieTImjvU
 #EXTINF:-1 tvg-id="Bein Series1" tvg-name="Bein Series1" group-title="SİNEMA" tvg-logo="https://banner2.cleanpng.com/20181118/hlu/kisspng-bein-series-logo-bein-channels-network-bein-media-turkiye-tv-show-bing-images-5bf13a04b63317.5351684715425356847463.jpg",B Series 1
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197146&extension=ts
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:5E:89:74&stream=197146&extension=ts
 #EXTINF:-1 tvg-id="Bein Series2" tvg-name="Bein Series2" group-title="SİNEMA" tvg-logo="https://banner2.cleanpng.com/20181118/hlu/kisspng-bein-series-logo-bein-channels-network-bein-media-turkiye-tv-show-bing-images-5bf13a04b63317.5351684715425356847463.jpg",B Series 2
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197148&extension=ts
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:5E:89:74&stream=197148&extension=ts
 #EXTINF:-1 tvg-id="Bein Series3" tvg-name="Bein Series3" group-title="SİNEMA" tvg-logo="https://banner2.cleanpng.com/20181118/hlu/kisspng-bein-series-logo-bein-channels-network-bein-media-turkiye-tv-show-bing-images-5bf13a04b63317.5351684715425356847463.jpg",B Series 3
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=197151&extension=ts
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:5E:89:74&stream=197151&extension=ts
 #EXTINF:-1 tvg-id="Bein Series4" tvg-name="Bein Series4" group-title="SİNEMA" tvg-logo="https://banner2.cleanpng.com/20181118/hlu/kisspng-bein-series-logo-bein-channels-network-bein-media-turkiye-tv-show-bing-images-5bf13a04b63317.5351684715425356847463.jpg",B Series 4
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197150&extension=ts
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:5E:89:74&stream=197150&extension=ts
 #EXTINF:-1 tvg-id="Tivi6" tvg-name="Tivi6" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/tivi6-tr.png",Tivi 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 #EXTINF:-1 tvg-id="Boncuk Tv" tvg-name="Boncuk Tv" group-title="SİNEMA" tvg-logo="https://i.ibb.co/LdkpP5GS/boncuktv.png",Boncuk Tv
@@ -334,15 +334,15 @@ https://live.euromediacenter.com/brukselturk/index.m3u8
 #EXTINF:-1 tvg-id="Koza TV" tvg-name="Koza TV" group-title="HABER" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/koza-tv-tr.png",Koza Tv
 https://live.artidijitalmedya.com/artidijital_kozatv/kozatv/chunks.m3u8
 #EXTINF:-1 tvg-id="B Box Office 1" tvg-name="B Box Office 1" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-box-office-1-tr.png",B Box Office 1
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197154&extension=ts
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:5E:89:74&stream=197154&extension=ts
 #EXTINF:-1 tvg-id="B Premier" tvg-name="B Premier" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-movies-premiere-hd-hz-tr.png",B Premier
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:AD:17:0E&stream=197143&extension=ts
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:5E:89:74&stream=197143&extension=ts
 #EXTINF:-1 tvg-id="B Movies Türk" tvg-name="B Movies Türk" group-title="SİNEMA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/turkey/bein-movies-turk-hd-tr.png",B Movies Türk
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197155&extension=ts
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:5E:89:74&stream=197155&extension=ts
 #EXTINF:-1 tvg-id="Epic Drama" tvg-name="Epic Drama" group-title="SİNEMA" tvg-logo="https://image.pngaaa.com/398/2715398-middle.png",Epic Drama
-http://mag.tivi-one-iptv.net:80/play/live.php?mac=00:1A:79:C0:8F:65&stream=1471701&extension=ts&play_token=POSWGUQYoB
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:5E:89:74&stream=197138&extension=ts
 #EXTINF:-1 group-title="SİNEMA" tvg-logo="http://zdi2vdd5r0wt.merlincdn.net/content/B/IQ/246150/logo.png",MovieSmart Classic
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:05:54:42&stream=197139&extension=ts
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:5E:89:74&stream=197139&extension=ts
 #EXTINF:-1 tvg-id="Rize Türk" tvg-name="Rize Türk" group-title="SİNEMA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFqUAdF7Tg2HfBWFru-Yl2rVntju4lRUSxFIMR4gvaHV7Y1FyGZnFma2QbxHzL0yw-ofOqVt2oQk-BaoW_iYIbEri56Q0ZrW90tPnFNCLTZMd3sSy5JyEbb_p5zhNVyxJQa4U-dd3scI6Z8CBhrnDMF-TGkgZfCdoDqcP5SBWkM18IoCx_ObsNO1AUJw/s434/rizeturktv.png",Rize Türk
 https://yayin.rizeturk.com:3777/multi_web/play_1080.m3u8
 #EXTINF:-1 tvg-id="Film Screen" tvg-name="Film Screen" group-title="SİNEMA" tvg-logo="https://cosmobluemedia.com/wp-content/uploads/elementor/thumbs/film-screen-1-qgrlrm8vb8gjhoo4j5h6ctontf0f0n1yff1uhjsrci.png",Film Screen
