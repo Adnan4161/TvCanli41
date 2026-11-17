@@ -500,8 +500,8 @@ https://stream41.radyotelekom.com.tr/stream/m3u8/a94fc44623d98b825183db41afd8763
 https://playlist.fasttvcdn.com/pl/3k4ks1xutgm1fve4w1r6vq/cennetmahallesi/playlist/0.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLPK1gp6nOH4XqdNe9ozIJAm1vWyU6pvmTFxvYuPe2hAc5R5O2HYBTMKc&s" group-title="SİNEMA",FLUX
 https://a8.radyotelekom.com.tr:3232/stream/play.m3u8
-#EXTINF:-1 tvg-logo="https://www.cine5tv.com/wp-content/uploads/2025/10/cinelogo.png" group-title="SİNEMA",CİNE5 TV
-https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://cine1.com.tr/img/cine1loogo.png" group-title="SİNEMA",Cine 1
+https://canliyayin.cine1.com.tr/memfs/cbaef080-a742-4644-9e9e-2b9f6a5103c3.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvZLrvn47GvrMPoF4O53z59dJ49HGcYguw8KtaCpomQ&s=10" group-title="SİNEMA",DENİZ POSTASI TV
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFvZLrvn47GvrMPoF4O53z59dJ49HGcYguw8KtaCpomQ&s=10" group-title="SİNEMA",TEBER TÜRK TEMATİK
